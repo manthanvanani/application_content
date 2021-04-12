@@ -1,0 +1,77 @@
+[
+   {
+      "id":1,
+      "que":"How To Download The Free Snapchat App",
+      "ans":"Go to the App Store (for Apple i0S) or the Google Play Store (for Android) and download the app."
+   },
+   {
+      "id":2,
+      "que":"How To Create Snapchat Account ?",
+      "ans":"Open the Snapchat app and tap Sign up. \n Enter your first and last name and tap Sign up & Accept. \n Enter your birthday and tap Continue. \n Create a username that represents your name or brand. Snapchat will suggest available usernames if the one you select is not available Tap Continue. \n Create your password and tap Continue. \n Enter your email address and tap Continue. \n Verify that you're human: Enter your phone number and tap Continue. Wait for a text message with a verification code, then enter it in the app and tap Continue again."
+   },
+   {
+      "id":3,
+      "que":"How To Add Friends ?",
+      "ans":"Snapchat can scan your contacts for friends who have made themselves searchable on Snapchat. To find them, tap Continue on the Find your friends screen. Then, tap Go to Settings on the next screen to allow Snapchat access to your contacts. Snapchat will automatically scan your contact list for people that have made their Snapcode searchable. Add the people you'd like to befriend on Snapchat. Once they add you back you can exchange Snaps. If you don't want to be visible to your contacts, you can change your privacy settings. \nMethod 1:- Add By Snapcode \n Take a picture of your friend's Snapcode, or screen capture it. \n Open Snapchat and tap on the ghost icon at the top left of the screen. \n Tap Add Friends. \n Tap Snapcode to open your camera roll. \n Tap the image of the Snapcode in your camera roll. Snapchat will scan the photo and add your new friend. \nMethod 2:- Add By Username \n Open Snapchat and tap on the ghost icon at the top left of the screen. \n Tap Add Friends. \n Tap Username. or Enter your friend's username, then tap the +Add button next to their name. \nMethod 3:- Quick Add \n Open Snapchat and tap on the ghost icon at the top left of the screen. \n Tap Add Friends. \n Scroll down to Quick Add and tap the +Add button next to the contact you want to add as a friend."
+   },
+   {
+      "id":4,
+      "que":"How To Personalize your Snapcode with your Bitmoji ?",
+      "ans":"Tap on the ghost icon on the top left of the screen, then tap Create Bitmoji. \nTap Create Bitmoji again on the next screen. \n If you don't already have the Bitmoji app installed, you'll be redirected to the App Store or Google Play Store to download it. \nFollow the directions to link your Bitmoji to your Snapchat account or create a new one. \nYour Bitmoji will be your digital representation on Snapchat and appear in your Snapcode."
+   },
+   {
+      "id":5,
+      "que":"How to Accept A Friend Request ?",
+      "ans":"Open Snapchat and tap on the ghost icon at the top left of the screen. \nTap Added Me. \nTap the + button next to your friend's username to accept their friend request."
+   },
+   {
+      "id":6,
+      "que":"How to Use Snapchat Lenses ?",
+      "ans":"Point the camera at your face (with the selfie camera) or a friend's face (with the front-facing camera). You can include multiple people in your Snap if you choose. \nTap on one of the faces on the screen. Lenses will pop up at the bottom. \nScroll through the available lenses to preview the effects. \nSome lenses have prompts like \"open your mouth\" or \"raise your eyebrows.\" Once you follow the prompt, your Snap will take on a totally new form. \nOnce you find a lens you like, tap the capture button to take a picture or hold down the capture button to take a video."
+   },
+   {
+      "id":7,
+      "que":"How To Add Text ?",
+      "ans":"If you want to add text to your photos to give them a bit more context, press the T icon in the upper-right corner of your screen after you take a snap. This will bring up the standard method to add text to your snap. Pressing the icon again will cycle through several more options, including centered and left-aligned text. You can change the color of the text and by moving your cursor along the slider on the right side of the screen. The free-floating text can also be made larger or smaller by pinching on the screen and moved around with a single finger. Snapchat also gives you different fonts to choose from including Script and Comic Sans."
+   },
+   {
+      "id":8,
+      "que":"How To Add Doodles ?",
+      "ans":"To add a doodle to your snap, tap on the pencil tool underneath the T icon, which is located in the top-right hand corner. You can change the color by adjusting the slider and like for new text, you can pinch on the screen to make the size of your brush larger or smaller. Then, use your finger to draw on the photo. If you make a mistake, don't worry —you can easily undo your mistake by tapping the arrow on the left of the pencil. Tap the pencil again to return to the original menu."
+   },
+   {
+      "id":9,
+      "que":"How To Add GIFs And Stickers ?",
+      "ans":"Creating a unique snap is easier than ever, simply click the paper icon below the pencil tool and you will be taken to a menu where you can add GIFs, stickers, Bitmojis, and emojis. Plus if you already know what kind of sticker or GIF you want, you can use the search bar to find exactly what you are looking for."
+   },
+   {
+      "id":10,
+      "que":"How To Save Your Story ?",
+      "ans":"From the camera screen, tap the ghost icon. Tap the download button beside My Story to save your current Story to Memories or your camera roll."
+   },
+   {
+      "id":11,
+      "que":"How To View A Friend's Story ?",
+      "ans":"From the camera screen, tap on the triangle Stories icon in the bottom right corner. You'll see a list of friends who have updated their stories. To view the story, tap on your friend's username."
+   },
+   {
+      "id":12,
+      "que":"How To Create A Group Story ?",
+      "ans":"From the camera screen, tap the triangle Stories icon. \n Tap the + icon on the top right. \nChoose to create a Group Story (for you and select friends), a Geo Story (for people within a geofenced location), or a Private Story (only available to selected friends)."
+   },
+   {
+      "id":13,
+      "que":"How To Use Snapchat's Chat Feature ?",
+      "ans":"The feature allows you to connect with friends one-on-one, or have a group chat with several people. For individual chats, messages are automatically deleted once you both leave the chat. Group chat messages are deleted after 24 hours. \nIf you don't want a message to disappear, you can press and hold to save it, but keep in mind that the other in the chat will be able to see that you have done so since the background of the message will turn gray."
+   },
+   {
+      "id":14,
+      "que":"How To Chat With One Friend ?",
+      "ans":"From the camera screen, tap the chat button on the bottom left and tap your friend's name to start a chat."
+   },
+   {
+      "id":15,
+      "que":"How To Start A Group Chat ?",
+      "ans":"From the camera screen, tap the chat button on the bottom left. Tap the friends you'd like to include and then tap Chat."
+   }
+]
