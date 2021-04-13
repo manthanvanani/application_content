@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "main_cat": "popular",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "main_cat": "nature",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "main_cat": "weather/seasons",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "main_cat": "animals",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "main_cat": "social/people",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "main_cat": "holidays/celebration",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "main_cat": "family",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "main_cat": "art/photography",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "main_cat": "urban",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "main_cat": "food",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "main_cat": "fashion",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "main_cat": "celebrities",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "main_cat": "entertainment",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "main_cat": "follow/shoutout/like/comment",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "main_cat": "travel/avtive/sports",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "main_cat": "electronice",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "main_cat": "text art",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "main_cat": "other",
+    "image": ""
+  }
+]
