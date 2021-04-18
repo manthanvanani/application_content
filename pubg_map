@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Erangel map",
+    "image": "https://i.imgur.com/IPFHPc6.png",
+    "description": "The PUBG Erangel map was the first, and as such holds a special place in the hearts of many - particularly if you picked up a win there. Thankfully, it's just as fun to visit now, with a good mix of wooded areas, long grass, multiple elevations, urban areas and bodies of water. The PUBG Erangel map set the template for what to expect, and for good reason - there's plenty of cover, environmental variety, and the whole place has been remastered, too.\nWhile loot is randomised in PUBG, the game prioritises risk - so you’ll find more, and more impressive, loot in areas like the main towns and cities. That means players usually flock to those areas in droves, leading to some tense early-game shootouts.\nWe’ve denoted these areas as “high risk” in the guide below, while fresh players might want to stick to the “low risk” zones - usually a bit more spread out and remote, but with more of a chance to build up an armoury before heading into a firefight.\nA recent patch added a series of docks and ports along the shores of Erangel. Not only do these add more visual variation to the region's coastlines, but they offer increased loot opportunities where once there was just sand.\nThe docks can be found at Novorepnoye, Ferry Pier, along the southern beach of the mainland, and the northern beach of Sosnovka Island. Each offers a variety of tactical considerations, such as a lighthouse with increased elevation, or a series of shipping containers that allow for cover."
+  },
+  {
+    "id": 2,
+    "name": "Karakin map",
+    "image": "https://i.imgur.com/Qz8ZEoH.png",
+    "description": "The PUBG Karakin map has a smaller play area than its older brothers, but you'll still need to outlast 63 other players if you want to take home the win. What looks at first glance like a mini-Miramar, with arid deserts and sandy dunes, actually has a lot more going on than you might think. Between the underground tunnels, destructible passageways and hidden loot caches (including the fun Sticky Bomb weapon), the PUBG Karakin map makes the most out of its 2 x 2km size with a wealth of intricacies. Here's where to land, what to look for, and how to survive.\nSpeaking of destructibility, nowhere is safe in Karakin. A new hazard called the Black Zone will level buildings in an instant, so you’ll need to listen out for the telltale siren and check the map for the purple highlight. Without further ado, let's take a look at the best places to drop into for loot, and assess how risky each of them are.\nFor further details on each of the numbered areas on the PUBG Karakin map, take a look at our descriptions below.\nIt’s tough to say just how risky looting these small huts are, because they are dotted all over Karakin. In fact, you’re just as likely to end up with a match-winning weapon as you are to find absolutely nothing.\nIf you have a sticky bomb though, be on the lookout for destructible floors that can get you into the tunnels below. Not all Compounds have them, but the tunnels offer diverse loot."
+  },
+  {
+    "id": 3,
+    "name": "Miramar map",
+    "image": "https://i.imgur.com/xEdkxxv.png",
+    "description": "The PUBG Miramar map was PlayerUnknown's Battleground's second map and was originally so unpopular fans looked for workarounds to avoid playing on it. But the community has come to embrace its sandy charm over the subsequent years. With long sight-lines and minimal cover for many of its rolling plains, it can be an unforgiving place, especially for newcomers. Whether you're looking for the urban areas of El Pozo, the more isolated Pecado, or the nooks and crannies of the Water Treatment plant, the PUBG Miramar map has a little something for all play styles. Oh, and there's a racetrack, too."
+  },
+  {
+    "id": 4,
+    "name": "Sanhok map",
+    "image": "https://i.imgur.com/QI6QzJX.png",
+    "description": "The PUBG Sanhok map is a jungle biome, and a little smaller than the likes of Miramar, Erangel, and Vikendi. This means that players will struggle to land anywhere peacefully, making a map guide more important than ever. Thankfully, you've come to the right place, as this PUBG Sanhok map guide will run through the recently remastered location, as well as the nuances of its Loot Truck mechanic."
+  },
+  {
+    "id": 5,
+    "name": "Vikendi map",
+    "image": "https://i.imgur.com/85xc9ki.png",
+    "description": "With its snow-theme, the PUBG Vikendi map used to be a little hard on the eyes thanks to the constant white, but a recent revamp has melted the ice somewhat. That's not to say it's any more welcoming, though. The PUBG Vikendi map offers a variety of locations, including a rocket launch pad of all things. It's also got plenty of elevation, but what really sets it apart is the addition of a tramline that runs through the map's center and around the outside, offering tactical options and considerations that you won't find in any of the game's other maps."
+  }
+]
