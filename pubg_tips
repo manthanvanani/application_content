@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Don’t be afraid to hide out in the blue early on",
+    "image": "https://i.imgur.com/89EpIU5.png",
+    "description": "If you want to stay alive then taking damage might not seem like the best idea, but in the early game it can be worth it. If you hide out on the edge of the blue circle you will take small amounts of damage, but no one will expect you to be out there. With some good healing options you can stay there for quite a long time and avoid fights entirely. You may even be able to pick up a few kills on unsuspecting foes. But you always keep an eye on your health and the next circle."
+  },
+  {
+    "id": 2,
+    "name": "Terrain can be just as good cover as any building or wall",
+    "image": "https://i.imgur.com/5jgAi0I.png",
+    "description": "Buildings are usually pretty good for staying alive, especially if you can cover the only entrance, but they carry a lot of risks. A well placed grenade will end your run instantly and, if someone knows you are in there, they can just wait by the exit. If you are looking for a good place to hold up for a while, try and find a ridge, dip, or hill so your opponents won’t be able to hit you. This will provide solid cover with better sightlines than a building and, crucially, a lot more escape options."
+  },
+  {
+    "id": 3,
+    "name": "ALWAYS take a level three helmet...",
+    "image": "https://i.imgur.com/FWZTEbW.png",
+    "description": "If you want to win you are going to need a good helmet and vest, so when looting untouched equipment always grab the highest level possible. But if after a fight you find a damaged level three on the person you took down it can be difficult to know what to pick up and what to leave. The general rule here is actually pretty simple. Always take a level three helmet, even if it is close to being destroyed. A level three will always save you from a headshot with the M24, and is the only one that will do so. Therefore it is nearly always worth it."
+  },
+  {
+    "id": 4,
+    "name": "...but sometimes leave a level three vest",
+    "image": "https://i.imgur.com/y3a61Sb.png",
+    "description": "Vests are a little different to helmets in terms of usefulness, but as always an undamaged level three will always be better than a level two. In the late game, if you plan to take a lot of fights then better durability is more important than high level. So a full health level two is better than a quarter health level three, as it will last longer. If it’s down to the last few people, though, then the damaged level three should be the better option, as blocking more damage from one shot could be the difference between a win and a loss."
+  },
+  {
+    "id": 5,
+    "name": "Play the edge of the circle",
+    "image": "https://i.imgur.com/v8CI85f.png",
+    "description": "Once you start to hit the late game, different strategies start to come into play. The one that should keep you alive is to play on the edge of the circle and to run in with it. Staying on the edge means that the area you need to be aware of shrinks a lot. You know that a big portion of what's behind you is totally safe, so you only need to be aware of what is in front of you. If you're in the middle then you have to keep eyes everywhere, which is not an easy task."
+  },
+  {
+    "id": 6,
+    "name": "Keep yourself boosted up late game",
+    "image": "https://i.imgur.com/bXiypD2.png",
+    "description": "Even if you are at full health, once it gets down to the last 15 or so people it is a good idea to start popping those energy drinks and painkillers to get you boosted up and regenerating health. There’s a few reasons for this, such as not having to worry about it after a late game fight, as well as the potential that one tick of health recovery could win you a close battle. Either way, if you have them available you should get the boosts going early as there's no point saving them. Who wants painkillers with a chicken dinner?"
+  },
+  {
+    "id": 7,
+    "name": "Hiding in bushes works surprisingly well",
+    "image": "https://i.imgur.com/Cmdu7bs.png",
+    "description": "This sounds crazy, but bushes actually provide a really good stealth option. Sit in a bush and there is a strong chance someone will walk straight past and then wonder where on earth they got shot from. Bushes provide no hard cover, but if no one sees you then no one will shoot you, and if no one shoots you then you won't die. Although perhaps take off any bright coloured clothes you have on before trying it."
+  },
+  {
+    "id": 8,
+    "name": "Grass is not visible after a while so don’t hide in it",
+    "image": "https://i.imgur.com/hmOaGoX.png",
+    "description": "With the right scopes and sightlines, you can see for hundreds of meters in PUBG, but crucially grass stops being visible at around the 200m mark. This means that if someone decides to lay down, they may think they are well covered, but anyone more than 200 meters away can see them clearly. You are always much better trying to find hard cover like a tree or wall (or even getting in a bush) than trying to lay down in the grass until the late stages. This also means that hitting the deck in a field when shots come in is a terrible idea. Just run to cover instantly."
+  },
+  {
+    "id": 9,
+    "name": "Pick. Your. Battles",
+    "image": "https://i.imgur.com/iURlKmn.png",
+    "description": "Everyone wants to be the person that racks up 20 kills and walks out the victor, but the chances of that happening are pretty slim. (Unless you're Shroud or Dr Disrespect, two of the biggest PUBG streamers who somehow manage to get more kills in one round than most do in an evening.) So in order to stay alive you should pick your battles. That’s not to say you shouldn’t take any fights, but only pick battles you know you can win. If you spot someone holding an AWM and full level three armour, maybe don’t take them on in clear sight. But see someone with just a shotgun while you have a 4x AR and you should totally take them out. Take an extra second to evaluate each combat situation and if it looks tough, maybe run the other way."
+  },
+  {
+    "id": 10,
+    "name": "Understand the Point",
+    "image": "https://i.imgur.com/IVrOeMo.png",
+    "description": "So any shooter game has the same goal, right? Well, not necessarily. The idea behind PUBG is survival. Whether that means camping or fighting, that’s your ultimate objective. Out live everyone else using any means necessary (so to speak, we mean in the game). PUBG does have a ranking system for each season and those who successfully complete kills, assists, and personal placement objectives to remain alive.\nIf you’re planning on camping the entire time you’ll be dismayed that the game doesn’t exactly support that. Another feature of PUBG is that it forces players to come together. We’ll review more about this below, but essentially, it’s best to get to the weapons and medical supplies early on without being killed."
+  },
+  {
+    "id": 11,
+    "name": "Know When to Drop",
+    "image": "https://i.imgur.com/i4G3mFg.png",
+    "description": "Each PUBG game starts with all 100 players piled into a transport plane flying a random path across the map. Deciding when and where to drop is your first big decision, and can easily determine whether you’ll last 30 seconds or 30 minutes.\nOnce you jump, you have two choices: dive as fast as you can for towns, cities, and military bases, where the best guns and gear can be found; or try to get as far away from the plane’s flight path as possible and scavenge remote buildings in peace and quiet. Either way, try to be aware of other people parachuting in around you and be prepared for a fight if they’re nearby."
+  },
+  {
+    "id": 12,
+    "name": "Always Search for the Essentials",
+    "image": "https://i.imgur.com/nG25MhX.png",
+    "description": "As soon as you land, you need to hunt for guns and gear to help you survive. Everything can be found on the floor in buildings, so don’t waste your time looking elsewhere. You’ll want to grab essentials as quickly as possible, but luck always plays a part in what you’ll find. Sometimes you’ll find a building filled with a high-end kit, other times you’ll be lucky to find a pistol.\nPUBG also features a decent selection of weapons, from sniper and assault rifles to submachine guns, shotguns and pistols. You can carry two main guns and a pistol, so you’re best off picking up two contrasting guns like a sniper rifle and a submachine gun. You’ll also need ammo for each but this is generally found next to the gun. You can also improve most guns with attachments such as red-dot sights, foregrips, and expanded magazines.\nAside from guns, you’ll want a backpack so you can carry more gear, and a helmet and protective vest to help absorb damage. Health kits are also vital for healing up after a fight, and there’s a variety of grenades to look out for."
+  },
+  {
+    "id": 13,
+    "name": "Pick your fights",
+    "image": "",
+    "description": "The biggest part of surviving in PUBG is knowing when to fight – that, and being aware of your surroundings. If someone is firing at you from a distance, you’re better off running to cover instead of trying to fight. On the flip side, there’s absolutely no point in sniping someone using a gun without enough range. An SMG is useless at 200m.\nIt’s also worth remembering that every shot fired can be heard from quite a long way away, revealing your position. If you have surround-sound headphones or use Windows Sonic and Dolby Atmos for spatial audio, you’ll make the most of them in PUBG as this will help you pinpoint distant gunfire. Of course, the choice of running towards the action or just letting it resolve itself lies ultimately with you."
+  },
+  {
+    "id": 14,
+    "name": "Stay in the Safe Zone (and Out of the Red Zone!)",
+    "image": "https://i.imgur.com/Y6q1YbK.png",
+    "description": "Like other Battle Royale games out there, PUBG sections up the map into a Safe Zone, a Red Zone, and a life-zapping danger zone. The Safe Zone is marked by a blue line on the map that slowly constricts, bringing people into a smaller playing area over time. If you’re caught on the wrong side of this blue barrier, your health will gradually drain, and you don’t want it to drop to zero.\nYou’ll also want to keep an eye out for the Red Zones that appear on the map. Here artillery fire will bombard the ground, making survival reasonably unlikely. If caught in a Red Zone, sprint or drive your way out as quickly as possible. If that seems impossible, seek shelter in nearby buildings so you can wait until the bombardment passes.\nFor those fleeing the encroaching Safe Zone border, or Red Zone bombardments, keep in mind that vehicles make a lot of noise – so pick your escape route wisely!"
+  },
+  {
+    "id": 15,
+    "name": "Learn PUBG’s Weird Control System",
+    "image": "",
+    "description": "Regardless of whether you’re playing on Xbox One or PC, PUBG has some slightly odd controls that you need to get used to if you want to succeed. Here are a few of the important ones to remember:\nOn PC, clicking the right mouse button aims down the sights. On Xbox One, you quickly pull the left trigger to activate it.\nHolding the right mouse button down on PC activates an over-the-shoulder view. On Xbox One, holding the left trigger activates this view.\nHold Alt on your keyboard to activate a free-look camera that won’t hamper your movement. On Xbox One, this can be activated by holding the right shoulder button.\nYou can change the rate of fire of your gun by pressing the B key on your keyboard, or the left button on your Xbox One D-pad.\nThankfully, PUBG lets you remap controls on PC, and there’s now a “Type B” control system on Xbox One that lets you hold the left trigger to activate iron sights, instead of shifting your view over the shoulder. It’s also worth memorizing your inventory, and the inventory navigation controls so you can dive in and reorganize while on the move."
+  },
+  {
+    "id": 16,
+    "name": "Team Up with Friends",
+    "image": "https://i.imgur.com/b9jyeWZ.png",
+    "description": "Being a PUBG lone wolf is great, but you can also play as a duo or in a squad of up to four. Partnering up doesn’t water down your experience – far from it. In fact, it changes how PUBG feels significantly as you’ll be trying to jump from a plane together, share resources, and call out other groups you’ve spotted on your journey. You can also revive each other after being down, so you have a higher chance of survival too.\nThere’s strength in numbers, but the flip side is that your enemies will probably be a bit more organized as well…"
+  },
+  {
+    "id": 17,
+    "name": "Always Watch Your Replays",
+    "image": "",
+    "description": "Ever since PUBG hit version 1.0 on PC, a great replay and the Killcam feature has been included. From seeing how you were taken out to learning how other players handle certain situations, you’ll gain a lot of insight from watching these replays. Heck, you could use it just to relive the glorious moment you got your first Chicken Dinner!"
+  }
+]
