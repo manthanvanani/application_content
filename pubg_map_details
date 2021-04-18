@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "map_id": 1,
+    "name": "Georgopol (medium-high risk)",
+    "image": "https://i.imgur.com/FRr6cRz.png",
+    "description": "Erangel’s largest town, but somewhat lacking in modern facilities. The accommodation consists primarily of derelict apartments, for example. There's a good chance of loot here, as well as running into other people looking for it so it's a slightly risky area to hit first. However, there's a high chance of finding a vehicle if you survive so worth considering when you're more experienced."
+  },
+  {
+    "id": 2,
+    "map_id": 1,
+    "name": "School, Rozhok (high risk)",
+    "image": "https://i.imgur.com/jNx3O8p.png",
+    "description": "The school is a central location with a high chance of great gear, which is to say it’s fairly popular. Expect an immediate fight if you drop here at the start of a match - the school in particular is an absolute death trap. The buildings can be slow to loot but there's alway a car in the nearby garage. It's middle map placement also means the safe zone is rarely far away."
+  },
+  {
+    "id": 3,
+    "map_id": 1,
+    "name": "Quarry (medium risk)",
+    "image": "https://i.imgur.com/m0l8WvR.png",
+    "description": "This southwesterly location has a decent chance of spawning rare loot, and lots of isolated buildings. A great spot if the safe zone falls this way but the open space and chance of conflict can be risky."
+  },
+  {
+    "id": 4,
+    "map_id": 1,
+    "name": "Sosnova Military Base (high risk)",
+    "image": "https://i.imgur.com/TseCORv.png",
+    "description": "Perhaps the riskiest drop point on the entire map. It's full of rare weapons and armour, which means it's crawling with high level players. It's also isolated on the southern side of the island, making it tricky to get away from. Assuming you make it out alive at all."
+  },
+  {
+    "id": 5,
+    "map_id": 1,
+    "name": "Stalber (low risk)",
+    "image": "https://i.imgur.com/khuz8d9.png",
+    "description": "A great big mountain with very little loot at the top so a safe starter. Come here for a quiet drop, but don't expect to find much and expect to journey far to make it into the next safe zone."
+  },
+  {
+    "id": 6,
+    "map_id": 1,
+    "name": "The Bunkers (high risk)",
+    "image": "https://i.imgur.com/3hmDRbU.png",
+    "description": "There's always loads of very exotic gear here, but it's also a series of concrete tunnels full of chokepoints and corners. Oh, and people looking for all those guns. If you can get in, get lucky and get out, good luck to you."
+  },
+  {
+    "id": 7,
+    "map_id": 1,
+    "name": "Novorepnoye (high risk)",
+    "image": "https://i.imgur.com/xKxPjc6.png",
+    "description": "This container yard/dock is another high risk area thanks to its cargo container area full of open areas and blind spots. Plenty of buildings also means loot, making it dangerously attractive to experienced players, but there the high chance of finding good gear, as well as cars and boats, making it worth the risk for some."
+  },
+  {
+    "id": 8,
+    "map_id": 1,
+    "name": "The Crater, southwest of Lipovka (high risk)",
+    "image": "https://i.imgur.com/YIPN1Dc.png",
+    "description": "This area of the map is basically a big hole with five warehouses, two houses and one big military building. So there's plenty of gear and it's a great place to kit out a full squad. However, plenty of other people will have the same idea and the sunken terrain also makes it a popular place for snipers to camp out, shooting down at their victims from up on high. So, in short: dangerous."
+  },
+  {
+    "id": 9,
+    "map_id": 1,
+    "name": "The Villas (medium-high risk)",
+    "image": "https://i.imgur.com/rPVSJyp.png",
+    "description": "This is a tiny area comprising of 8 buildings. It's not a great place for loot but its main strength is strategic - there's an elevated area where the rooftops gives you a great view of the surrounding area. It's perfect for a squad to hole up and defend (assuming you've got some good ranged weapons)."
+  },
+  {
+    "id": 10,
+    "map_id": 1,
+    "name": "West of Novorepnoye (low risk)",
+    "image": "https://i.imgur.com/78v7YU0.png",
+    "description": "Just west of Novorepnoye you'll see a crossroads with a few buildings around it. It's small enough to be ignored by high level players but those houses mean a good chance of gear and the roads usually contain a few cars. The nearby bridge is not somewhere you want to be late game, as it's a often a bottleneck when the playing area constricts. But get in early and clear out and you could get a strong start."
+  },
+  {
+    "id": 11,
+    "map_id": 1,
+    "name": "North west of Lipovka (low risk)",
+    "image": "https://i.imgur.com/nkxg7KY.png",
+    "description": "North west of Lipkova above the crater you'll find several small clusters of houses. You won't find a huge amount of gear here, so it will be quiet, but hit enough buildings and you should scavenge enough to get you started. The roads also mean a good chance of a vehicle too."
+  },
+  {
+    "id": 12,
+    "map_id": 2,
+    "name": "Al Hayik (Low to Medium Risk)",
+    "image": "https://i.imgur.com/AQNjesR.png",
+    "description": "Found at the south of Karakin, this is the smallest named location on the map. That often means a fairly low amount of footfall, although you might find more company if the initial flight goes anywhere near it at the start.\nThe residential buildings are all fairly small, meaning you can clear them quickly before moving to the next."
+  },
+  {
+    "id": 13,
+    "map_id": 2,
+    "name": "Tunnels (Low to Medium Risk)",
+    "image": "https://i.imgur.com/oUUivAf.png",
+    "description": "As we mentioned earlier, Compounds can lead into underground tunnels but there are other areas too – notably in the centre of the map. If you do need to blow open an entrance, be warned that it will draw attention to your position, perhaps more than with any other map because of the small size.\nThese claustrophobic tunnels are likely to be havens for those hunting for loot or trying to steer clear of enemies. There are even some underwater areas, but since you’ll be vulnerable while you’re swimming through them it might be easier to avoid these altogether."
+  },
+  {
+    "id": 14,
+    "map_id": 2,
+    "name": "Hadiqa Nemo (Medium Risk)",
+    "image": "https://i.imgur.com/j7xGU4B.png",
+    "description": "This port town to the east of the map can be frantic when first landing but offers more tactical flexibility than you may at first appreciate.\nFor one, the numerous shipping containers can be just as handy as buildings for fresh weaponry and equipment, while the piers are handy for hiding if you aren’t lucky enough to grab a gun quickly."
+  },
+  {
+    "id": 15,
+    "map_id": 2,
+    "name": "Bahr Sahir (Medium Risk)",
+    "image": "https://i.imgur.com/3sonnrn.png",
+    "description": "A sizeable town that many use as a stepping stone to Al Habar, Bahr Sahir offers plenty of buildings to loot. With many of them having multiple entrances and exits, there’s a chance you could sneak in and sneak out with a full complement of weaponry without anyone seeing you.\nThere’s one large warehouse near the Water Tower which offers some prime loot, but it’s become a well-known early-game hotspot."
+  },
+  {
+    "id": 16,
+    "map_id": 2,
+    "name": "Bashara (Medium to High Risk)",
+    "image": "https://i.imgur.com/ovVaBng.png",
+    "description": "Laying to the west of the map is Bashara, an urban area with plenty of verticality. That’s both a blessing and a curse, as firing on an enemy from one rooftop could see you put right in the sights of another that’s even higher up.\nThankfully, there are enough alleyways and tight areas that you can lose pursuers if needed, but the map does get busy quickly – so you might need to dodge players until you can get your hand on a decent weapon."
+  },
+  {
+    "id": 17,
+    "map_id": 2,
+    "name": "Cargo Ship (High Risk)",
+    "image": "https://i.imgur.com/8BkexbV.png",
+    "description": "Getting into the realm of the really tough landing spots, Cargo Ship doesn’t necessarily always offer the best loot but it will almost always offer a lot of it. This ship moored on the Southwest coast of Karakin is home to shipping containers aplenty, with more on land.\nThere’s a chance to be fully stocked within minutes of landing such is the sheer concentration of items and equipment, but that does tend to make it exceedingly popular. If you’re not the first to arm yourself, you might want to hide in the sea."
+  },
+  {
+    "id": 18,
+    "map_id": 2,
+    "name": "Al Habar (High Risk)",
+    "image": "https://i.imgur.com/xK4pVKA.png",
+    "description": "At the opposite end of the map is Al Habar, the largest urban area and most densely populated in terms of buildings and, most likely, opponents. Al Habar offers plenty of weapons and gear, but you’ll have to navigate increasingly tall buildings to find much of it which leads to some tense indoor encounters.\nAdd to that the possibility of sniper fire coming from anywhere when you’re on exposed rooftops, and you’ll have a lot to consider if you want to drop here."
+  },
+  {
+    "id": 19,
+    "map_id": 2,
+    "name": "Jamila Textiles (High Risk)",
+    "image": "https://i.imgur.com/L5LAsFQ.png",
+    "description": "Originally a well-kept secret, this location doesn’t specifically show up by name on the map but offers a series of factories to loot. Unfortunately, many players have caught on now, meaning if you make it to Jamila Textiles you’ll undoubtedly have a fight on your hands.\nIf you do survive a skirmish there, however, you’ll find yourself well-equipped – and overlooking some of the other popular areas like Al Habar."
+  },
+  {
+    "id": 20,
+    "map_id": 3,
+    "name": "El Pozo",
+    "image": "https://i.imgur.com/tklRlMp.png",
+    "description": "El Pozo can be a risky play, especially if it is within close distance to the plane’s path, but it can easily set you up for an amazing game. It’s the second largest city on the map and, as you would expect, houses a lot of loot. \nThe boxing ring is a place many like to drop, so unless you fancy your chances early game the better bet is to try and land further into the city and loot you way through some of the larger buildings. Then pick off the survivors from the boxing ring. Be weary of everyone that drops with you though, because it is relatively easy to move around El Pozo while staying in cover and remaining unseen. \nThere are more than enough vehicle spawns here to almost guarantee you one if needed, and while its location isn’t the most central, it’s quite rare that the circle will push you to leave early, unlike some of the locations on the very outskirts of the map."
+  },
+  {
+    "id": 21,
+    "map_id": 3,
+    "name": "Water Treatment",
+    "image": "https://i.imgur.com/rjUjeol.png",
+    "description": "Water Treatment may look like a terrible place to land, but it actually has a very high amount of good quality loot, and is in a great location to end up near the first circle, if not in it. However, now more people know how great Water Treatment can be, so it’s also quite a popular drop. \nOn a good day this can kit out a full squad of four, but you will have to take down whoever lands with you with the limited loot you land on. There really isn’t that much solid cover in Water Treatment, and even the areas that you can hide behind allow for easy flanks. Combine that with a lot of the loot locations leaving you very exposed and you're often stuck with what you land on until you take out the competition. \nThe main two buildings are solid shouts, but the real loot can be found around the pipes in the middle. You will be exposed, but with tons of individual loot spawns in that area it should be easy to drop onto a solid weapon."
+  },
+  {
+    "id": 22,
+    "map_id": 3,
+    "name": "Los Leones",
+    "image": "https://i.imgur.com/c1Zjl87.png",
+    "description": "Arguably the most enticing location on the map, Los Leones is the biggest city in all of PUBG by quite a long way, and with it comes a lot of looting options - you should never leave Los Leones without two fully kitted out weapons of your choice. This of course brings a lot of players to the area, but the sheer size of Los Leones offers up a lot of cover and space to loot in, which means if you play smart you can avoid early-game fights all together. \nIf you don’t fancy heading right into the city, there is a line of warehouse buildings going North to South on the entire West side of the city. Land here and make your way through all the big buildings and you should come out with solid loot, in a short amount of time and with little resistance. \nVehicles are also not a concern with more spawns than you could ever make use of, and there is a ton of ways to get out of the city if one road is locked down. In fact the only major downside, outside of the popularity, is that some of the buildings, or building sites, offer little loot and take ages to explore. Stick to the completed buildings and you should be fine."
+  },
+  {
+    "id": 23,
+    "map_id": 3,
+    "name": "Hacienda del Patrón",
+    "image": "https://i.imgur.com/WdKxcDa.png",
+    "description": "If you are new to Miramar there really seems like no good reason to drop on Hacienda del Patrón. It’s a tiny location, with little in the way of buildings and it’s right next to the much bigger town of San Martin. But drop there once and you'll understand that the loot available here is unlike any other on the map. \nHead towards the villa towards the North of Hacienda and you will be greeted with more loot than any one person can carry. It'll easily kit out a squad of four, nine times out of 10, and chances are you'll walk out with at least a couple of silenced weapons and as many level two helmets and vests and you could need. \nThis kind of loot of course brings with it a lot of foes, who you will have to defeat to walk out with the riches Hacienda has to offer, and vehicles are not guaranteed. But it is very central, and often in the first circle, so you’ll have time to win some fights and loot everything there is."
+  },
+  {
+    "id": 24,
+    "map_id": 3,
+    "name": "Pecado",
+    "image": "https://i.imgur.com/tc2F6Zt.png",
+    "description": "If you want to die, or get a lot of practise in early game fights then go to Pecado. This tiny town is located right in the middle of the map, meaning it is reachable from almost every plane path, and has basically become Miramar’s version of School. You drop here, grab a gun and go fight straight away. \nThe boxing ring and casino are the two major attractions, and offer solid loot, but that really doesn’t matter 90% of the time, because Pecado is always a case of grab what you can when you land and make the best of it. The other buildings on the West side can be solid options if you want to survive, but that really isn’t buying into the fun of Pecado. \nIf, by some miracle, yo do make it out of Pecado alive and with solid loot, which you will have because you'll be able to loot about 10 different bodies once the dust settles, you should be in a good spot. But be warned that even for the best players escaping Pecado is a rare occurrence."
+  },
+  {
+    "id": 25,
+    "map_id": 3,
+    "name": "Valle del Mar",
+    "image": "https://i.imgur.com/01p5Qgh.png",
+    "description": "Valle del Mar is a risky play, not because of the amount of people that go there, which is usually low, or because of questionable loot, which is quite high, but because of its location. Sitting on the South coast it’s the most almost as far West as you can go. There are a few vehicle spawns, especially around the bridge, but sometimes you might not get a vehicles and that is basically game over. \nIf you get a plane path that allows it then Valle del Mar can be a good shout. It has solid loot, is rarely a busy location and sits on the water, meaning you can make rotations via the waves if you want to. But you have to be ready to move early if the circle is not kind. \nWhile it’s much less of a viable strategy than on Erangle, you an bridge camp here to get a few easy kills. It of course depends on the plane route, but with southern planes you can certainly rack up a couple of kills this way."
+  },
+  {
+    "id": 26,
+    "map_id": 3,
+    "name": "Chumacera",
+    "image": "https://i.imgur.com/FbYRfB1.png",
+    "description": "Chumacera is a weird one. On the map it looks pretty sizable but in reality only offers up enough loot for one squad at the most. However, this means that its rare multiple people drop here, unless it’s close to the plane, so it can be a safe drop for those not looking to fight. If it’s not directly under the plane, then this can easily be a game winning drop. \nLoot is average at best, but if you are alone you should come out with a decent load out, especially if you mop up all the smaller buildings on the outskirts. While it is tempting to go for the high ground that has a couple of big sheds, the loot up there is actually limited, so starting on the lower side of town is usually the better option. \nThere’s a few vehicle spawns and a load of smaller compounds in the surrounding area, so even if the town itself is disappointing, you have a lot of other options, which makes this quite the versatile drop."
+  },
+  {
+    "id": 27,
+    "map_id": 3,
+    "name": "This cave just south of Los Leones",
+    "image": "https://i.imgur.com/x9AMNVJ.png",
+    "description": "This is one for solo games only, or maybe at a push duos, but there is no way a squad is coming out of here with enough loot to sustain them. However, when playing alone this is a great drop. Not that many people either know about it, or value it enough to go there, which means most of the time you have this entire cave system just south of Los Leones to yourself and it usually has some pretty good loot. \n\nIt can take a while to get your bearings when in there, and for the first few times you will miss some of the loot spawns, but after a few visits you will know where to look. Hint: there's more than a few loot spawns just on the floor. This is probably the most underrated drop on the list, and really should be used more."
+  },
+  {
+    "id": 28,
+    "map_id": 4,
+    "name": "Loot Trucks",
+    "image": "https://i.imgur.com/Nsqr3CI.png",
+    "description": "While exploring the remastered version of Sanhok, you're likely to spot the new Loot Trucks. These four-wheeled behemoths are hard to miss, which is handy really because shooting them means they drop loot. \nDestroying them will allow you to hoover up a huge pile of loot, including named weapon variants that offer preset attachments and bonuses to things like handling or magazine capacity. It's worth remembering, though, that firing on these vehicles is a risk; while they can't return fire, gunfire will give away your position to nearby players.\nThere are four trucks at the start of the map, but up to eight can spawn per match as they're destroyed. Oh, and don't expect to steal one - these vehicles are unmanned, and getting in the way of one could be deadly."
+  },
+  {
+    "id": 29,
+    "map_id": 4,
+    "name": "Paradise Resort",
+    "image": "https://i.imgur.com/IjblSdZ.png",
+    "description": "Paradise resort is one of the few named areas towards the center of the map and offers some solid loot for anyone that goes there. It’s actually a pretty large area, so can handle multiple people dropping, but the open courtyards you have to cross mean at some point you are probably going to be in a fight. Even if you think it's far enough away from the plane path that no one will go there, there’s always a very high chance of someone joining you. \nAs well as being a popular location, there is also a lack of vehicle spawns. Now that’s not often a massive issue because walking anywhere in Sanhok is pretty easy early on, but is something to keep in mind. However, neither of these issues should be enough to turn you away - the loot here is great and if you survive you’ll be in a solid position."
+  },
+  {
+    "id": 30,
+    "map_id": 4,
+    "name": "Boot Camp",
+    "image": "https://i.imgur.com/2N21VqN.png",
+    "description": "Boot Camp should really be the equivalent of School or Pecado on Sanhok. Its right in the middle of the map and has really high loot spawn rates, but the key difference here is that the size and layout of Boot Camp mean multiple people can co-exist in the area for quite a while. \nThere will be a lot of fights, but its not quite on the level where only one person will survive. Multiple people can find their way out of Boot Camp and usually with some great gear. It has perhaps the best loot on the entirety of Sanhok and more than enough to kit out multiple people. Just be sure to check everywhere for dead player boxes, because they will often have done a lot of the looting for you."
+  },
+  {
+    "id": 31,
+    "map_id": 4,
+    "name": "Quarry",
+    "image": "https://i.imgur.com/sui4ctD.png",
+    "description": "If you want a more relaxed time then head to the massive quarry, which is also fairly central. No one drops here because the loot is limited and you are exposed from pretty much every angle. But as no one drops anywhere near here you are usually guaranteed an easy first few minutes. \nThe loot is the issue, but if you are alone then you can usually come out with a couple of solid weapons and enough equipment to see you through. Most of the boxes and crates have a potential loot spawn on top of them, so be sure to climb up on top of the high ground areas to locate the best weapons. \nThe big downside here is that anyone passing by will be able to spot you and you will have limited cover and be on the low ground. So this really is a place to drop, grab enough look to get by and then leave and try to hunt kills."
+  },
+  {
+    "id": 32,
+    "map_id": 4,
+    "name": "Camp Bravo",
+    "image": "https://i.imgur.com/EUVIWa3.png",
+    "description": "Like most of the other camps on Sanhok, Camp Bravo offers some great loot, but its location on the edge of the map can make it a pain if the circle is not kind. If you are confident in your rotations then this is a solid drop, and there are three potential vehicle spawns in very close proximity to the camp to help out in that regard. \nIf you are challenged by other players on the drop then you want to stay clear of the middle buildings. There’s a ton of open windows here which means you can easily be shot in the back when you least expect it. Stick to the edge if others are with you and try to catch them off guard."
+  },
+  {
+    "id": 33,
+    "map_id": 4,
+    "name": "Ha Thin",
+    "image": "https://i.imgur.com/ut4oVNu.png",
+    "description": "Ha Thin is a surprisingly large area to loot, and its layout means you can quickly move through it and move on with a decent arsenal in your backpack. It’s viability really depends on the plane path, anything too southern and this is probably a bad call, but if you can reach it easily it is a great drop. \nIt’s northern position might make it seem like a strange location to drop, but there is a load of vehicle spawns here, for both land and sea, so getting to the first circle will never be an issue. In our minds this is really a top tier drop, sure the loot might not be as reliable as say Boot Camp, but you'd have to be super unlucky to not come out with at least an AR and some acceptable backup."
+  },
+  {
+    "id": 34,
+    "map_id": 4,
+    "name": "Sah Mee",
+    "image": "https://i.imgur.com/G0tqiG3.png",
+    "description": "Sanhok is certainly lacking in proper urban areas, but Sah Mee is probably the closest you will get. This of course brings a lot of loot, but with it being all in two story houses its not the easiest place to loot efficiently. You’ll also have to be careful when moving from building to building, because it is pretty easy to sneak past someone unnoticed. \nThe main reasons to drop here is the loot available and the cover the area provides. You will most likely be joined by another player or two, even if it is a good distance away from the plane, but providing you play smart and don’t just run aimlessly from building to building you can all get some decent loot before the fights inevitably start."
+  },
+  {
+    "id": 35,
+    "map_id": 4,
+    "name": "Camp Alpha",
+    "image": "https://i.imgur.com/aCcOZ7I.png",
+    "description": "Camp Alpha is very similar to Camp Bravo, but its position on the smaller northern island makes it slightly less favorable in our opinion. Often having to cross the river is difficult and chances are high you will have to cross at some point if you drop here. \nHowever, the loot is very good, and if you can hold down the camp it can almost become an impenetrable fortress, as you should be able to spot anyone coming in from quite a way off if you play on the roofs. It’s a solid option, but the others on this list are arguably better in some way. This is a popular drop in a difficult location but does have solid loot. Try and it and see how you feel."
+  },
+  {
+    "id": 36,
+    "map_id": 5,
+    "name": "Vikendi Train Lines",
+    "image": "https://i.imgur.com/OLf4C4o.png",
+    "description": "Vikendi's chilly hills are a little easier to cross now, thanks to train lines that run through and around the map. There are eleven different stations that players can embark and disembark from, scattered around the map. While one train line skirts around Vikendi's borders, making it ideal for early-game relocation, you'll want to be cautious of leaving the play area as a match progresses.\nTwo internal train lines have multiple trains, and can be ideal for drive-by kills on enemies, as well as ambushes at stations. The trains themselves can become battlegrounds in their own right, with some carriages offering more cover than others. The train lines are visible on your in-game map, so be sure to stick close to them if you're expecting to relocate quickly."
+  },
+  {
+    "id": 37,
+    "map_id": 5,
+    "name": "Goroka",
+    "image": "https://i.imgur.com/Vw1ooBH.png",
+    "description": "First up in the best places to drop in Vikendi is Goroka. This is one of four major towns on the map, but Goroka stands out due to the verticality. You’re going to want to land at one of the buildings on the northern side next to the main road running through, because you’ll have the vertical advantage over any other players landing at the buildings below.\nIn terms of loot, it’s the same as with any big city; go through a few buildings and you’ll likely have enough gear to last you until the end of the game, with assault rifles and attachments littering the floor. It’s also fairly central, so you should have safe refuge for the first few safe zones before you have to make your way out of the city. Just try not to get caught crossing the enormous frozen lake!"
+  },
+  {
+    "id": 38,
+    "map_id": 5,
+    "name": "Winery",
+    "image": "https://i.imgur.com/jg61ewk.png",
+    "description": "One of the southernmost locations, the Winery can be found right next to Pilnec. You need to be careful because players will often loot up at Pilnec then come searching for kills at the Winery, but as long as you pay attention to the sounds around you, you’ll be able to hear footsteps from some distance away.\nAs for loot, the main selling point about the Winery are the wine cellars found underneath some of the top-level sheds. These will often have a lot of solid loot, though players can be found camping down there so be on your guard. Pre-aim corners as you move around and you shouldn’t run into too many problems, as long as you take your time and don’t run willy nilly across the open areas."
+  },
+  {
+    "id": 39,
+    "map_id": 5,
+    "name": "Cosmodrome",
+    "image": "https://i.imgur.com/LLhNMVC.png",
+    "description": "One of the most iconic locations on the map, the Cosmodrome is as you’d expect; an old abandoned spaceport. Around the rocket launch site has some very wide open areas, but if you stick to some of the single storey buildings away from the rocket site, you’ll find that almost all of them have underground areas with plenty of loot.\nYou’re going to want to treat the Cosmodrome in a similar way to the Winery; treat each corner as if someone is waiting around it, and proceed cautiously. You can get a serious amount of loot here, but the surrounding areas can be a pain to run through when the blue is advancing so make sure you leave with plenty of time to spare."
+  },
+  {
+    "id": 40,
+    "map_id": 5,
+    "name": "Castle",
+    "image": "https://i.imgur.com/BB54nJx.png",
+    "description": "This one isn’t advised if your goal is to camp until the end of the game, but Castle is absolutely the best drop if you want to engage with other players and practice your skills in combat scenarios. It’s the most popular place on the map and also the coolest - it’s even got a river that doubles as a moat!\nIf you manage to land at Castle and grab a decent weapon from the start, you want to be checking every single corner. The layout means there’s plenty of corners for other players to be sat behind, but if you are one of the few survivors here and you have a gun with a long range scope, head up to the highest walkway for a solid lookout spot. Like the Cosmodrome though, you’re going to want to vamoose with plenty of time to spare because there’s nothing worse than swimming across the moat with the blue chomping at your heels."
+  },
+  {
+    "id": 41,
+    "map_id": 5,
+    "name": "Lumber Yard",
+    "image": "https://i.imgur.com/xNkRsrP.png",
+    "description": "If you’re playing solos, landing at the Lumber Yard is a good option for some isolation. There’s not a lot to say about this place; it has a few large open sheds with loot littering the floor, and you won’t find many other people landing here with you. If you don’t have enough stuff from the main Lumber Yard, there are multiple clusters of buildings all around, so you should have no problem getting over to them in peace.\nOur only word of warning is if you have a very western safe zone. The closest path into the circle will be across one of the only bridges that leads to the Castle, so there’s a good chance you’ll be a sitting duck as you either run across the bridge or swim through the water. Keep an eye on the timer and as always, move early if you think you could get held at a choke point."
+  },
+  {
+    "id": 42,
+    "map_id": 5,
+    "name": "Cantra",
+    "image": "https://i.imgur.com/6FugZT1.png",
+    "description": "In the south-east corner of the map, you’ll find the small town of Cantra. It’s a quaint village, but in our experience, it tends to have some of the best loot compared to the other smaller towns like Vihar or Krichas. We’d recommend landing at the church in the corner first, then after that, check out some of the smaller buildings.\nOnce you’re done in the main town, the Hot Springs are also right around the corner if you have time before the blue catches you. Keep an eye on the incoming zone though, because you’re so far away from the centre of the map, you’ll have some light jogging to do."
+  },
+  {
+    "id": 43,
+    "map_id": 5,
+    "name": "Villa",
+    "image": "https://i.imgur.com/TmcWAe2.png",
+    "description": "Another good location for solos and duos, the Villa is self-explanatory. There’s a big building - the villa - and a few smaller sheds around the courtyard. You’ll find numerous weapons and attachments in the main building, and there’s also a Dacia spawn point in one of the garages.\nThe main selling point for the Villa is how centrally located it is. You’ll almost always be safe for at least the first two zones, then when you eventually do have to move, there are a lot of buildings and house clusters to dart between if someone has already nicked the car."
+  },
+  {
+    "id": "",
+    "map_id": "",
+    "name": "",
+    "image": "https://i.imgur.com/TmcWAe2.png",
+    "description": ""
+  }
+]
