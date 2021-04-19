@@ -1,0 +1,1938 @@
+[
+  {
+    "id": 1,
+    "name_id": "Basic",
+    "name": "Wooden Planks",
+    "Ingredients": "Log",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_wood.gif",
+    "description": "Basic building material."
+  },
+  {
+    "id": 2,
+    "name_id": "Basic",
+    "name": "Sticks",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stick.png",
+    "description": "Used in many other crafting recipies."
+  },
+  {
+    "id": 3,
+    "name_id": "Basic",
+    "name": "Torches",
+    "Ingredients": "Coal & Stick",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_torch.png",
+    "description": "Torches provide light and also melt ice and snow."
+  },
+  {
+    "id": 4,
+    "name_id": "Basic",
+    "name": "Crafting Table",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_workbench.png",
+    "description": "Opens a 3x3 crafting grid when right clicked."
+  },
+  {
+    "id": 5,
+    "name_id": "Basic",
+    "name": "Furnace",
+    "Ingredients": "Cobblestone or Blackstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_furnace.gif",
+    "description": "Allows the player to smelt."
+  },
+  {
+    "id": 6,
+    "name_id": "Basic",
+    "name": "Chest",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chest.png",
+    "description": "Used to store blocks and items."
+  },
+  {
+    "id": 7,
+    "name_id": "Basic",
+    "name": "Ladders",
+    "Ingredients": "Sticks",
+    "image": "https://www.minecraftcrafting.info/imgs/new_craft_ladder.png",
+    "description": "Allows the player to climb vertically."
+  },
+  {
+    "id": 8,
+    "name_id": "Basic",
+    "name": "Fence",
+    "Ingredients": "Sticks & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fence.gif",
+    "description": "Barrier that cannot be jumped over."
+  },
+  {
+    "id": 9,
+    "name_id": "Basic",
+    "name": "Boat",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_boat.png",
+    "description": "Used to travel in water."
+  },
+  {
+    "id": 10,
+    "name_id": "Basic",
+    "name": "Wooden Slabs",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_woodenslabs.gif",
+    "description": "Used to create gradual slopes."
+  },
+  {
+    "id": 11,
+    "name_id": "Basic",
+    "name": "Stone Slabs",
+    "Ingredients": "Stone or Brick or Stone Brick or Sandstone or Cobblestone or Nether Brick or Quartz or Red Sandstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stoneslabs.gif",
+    "description": "Used to create gradual slopes."
+  },
+  {
+    "id": 12,
+    "name_id": "Basic",
+    "name": "Sign",
+    "Ingredients": "Wooden Planks & Stick",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_sign_new.png",
+    "description": "Can be used to display text."
+  },
+  {
+    "id": 13,
+    "name_id": "Basic",
+    "name": "Doors",
+    "Ingredients": "Wooden Planks or Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_doors.gif",
+    "description": "Wooden doors can be opened by clicking or redstone power. Iron doors can only be opened by redstone power."
+  },
+  {
+    "id": 14,
+    "name_id": "Basic",
+    "name": "Wood",
+    "Ingredients": "Logs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_wood2.png",
+    "description": "Block with log texture on all sides."
+  },
+  {
+    "id": 15,
+    "name_id": "Blocks",
+    "name": "Glowstone",
+    "Ingredients": "Glowstone Dust",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_glowstone.png",
+    "description": "Bright light source that can also be used underwater."
+  },
+  {
+    "id": 16,
+    "name_id": "Blocks",
+    "name": "Snow Block",
+    "Ingredients": "Snowballs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_snow.png",
+    "description": "Store of snow and building material."
+  },
+  {
+    "id": 17,
+    "name_id": "Blocks",
+    "name": "TNT",
+    "Ingredients": "Gunpowder & Sand",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_tnt.png",
+    "description": "Explodes when lit with a Flint & Steel, or powered by a redstone current."
+  },
+  {
+    "id": 18,
+    "name_id": "Blocks",
+    "name": "Clay Block",
+    "Ingredients": "Clay",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_clay.png",
+    "description": "Store of clay and building material."
+  },
+  {
+    "id": 19,
+    "name_id": "Blocks",
+    "name": "Brick Block",
+    "Ingredients": "Clay Bricks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_brick.png",
+    "description": "Strong building material."
+  },
+  {
+    "id": 20,
+    "name_id": "Blocks",
+    "name": "Bookshelf",
+    "Ingredients": "Wooden Planks & Books",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bookshelf.png",
+    "description": "Decoration."
+  },
+  {
+    "id": 21,
+    "name_id": "Blocks",
+    "name": "Sandstone Block",
+    "Ingredients": "Sand",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_sandstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 22,
+    "name_id": "Blocks",
+    "name": "Smooth Sandstone",
+    "Ingredients": "Sandstone Block",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_smoothsandstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 23,
+    "name_id": "Blocks",
+    "name": "Decorative Sandstone",
+    "Ingredients": "Sandstone Slabs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_decorativesandstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 24,
+    "name_id": "Blocks",
+    "name": "Note Block",
+    "Ingredients": "Wooden Planks & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_noteblock.png",
+    "description": "Plays a note when clicked or powered by redstone."
+  },
+  {
+    "id": 25,
+    "name_id": "Blocks",
+    "name": "Jack-O Lantern",
+    "Ingredients": "Pumpkin & Torch",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_jackolantern_new.png",
+    "description": "Light source."
+  },
+  {
+    "id": 26,
+    "name_id": "Blocks",
+    "name": "Lapis Lazuli Block",
+    "Ingredients": "Lapis Lazuli Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lapis.png",
+    "description": "Store of Lapis Lazuli Dye."
+  },
+  {
+    "id": 27,
+    "name_id": "Blocks",
+    "name": "Diamond Block",
+    "Ingredients": "Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_diamondblock.jpg",
+    "description": "Store of Diamonds."
+  },
+  {
+    "id": 28,
+    "name_id": "Blocks",
+    "name": "Gold Block",
+    "Ingredients": "Gold Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_goldblock.jpg",
+    "description": "Store of Gold Ingots."
+  },
+  {
+    "id": 29,
+    "name_id": "Blocks",
+    "name": "Iron Block",
+    "Ingredients": "Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_ironblock.jpg",
+    "description": "Store of Iron Ingots."
+  },
+  {
+    "id": 30,
+    "name_id": "Blocks",
+    "name": "Emerald Block",
+    "Ingredients": "Emeralds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_emeraldblock.png",
+    "description": "Store of Emeralds."
+  },
+  {
+    "id": 31,
+    "name_id": "Blocks",
+    "name": "Coal Block",
+    "Ingredients": "Coal",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blockofcoal.png",
+    "description": "Store of Coal."
+  },
+  {
+    "id": 32,
+    "name_id": "Blocks",
+    "name": "Stone Brick",
+    "Ingredients": "Stone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stonebrick.png",
+    "description": "Building material."
+  },
+  {
+    "id": 33,
+    "name_id": "Blocks",
+    "name": "Wooden Stairs",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_woodenstairs.gif",
+    "description": "Used to build staircases."
+  },
+  {
+    "id": 34,
+    "name_id": "Blocks",
+    "name": "Stone Stairs",
+    "Ingredients": "Cobblestone or Sandstone or Brick or Stone Brick or Nether Brick or Quartz or Red Sandstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stonestairs.gif",
+    "description": "Used to build staircases."
+  },
+  {
+    "id": 35,
+    "name_id": "Blocks",
+    "name": "Cobblestone Wall",
+    "Ingredients": "Cobblestone or Moss Stone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cobblestonewall.gif",
+    "description": "Decorative block that similar to fences cannot be jumped over."
+  },
+  {
+    "id": 36,
+    "name_id": "Blocks",
+    "name": "Block of Redstone",
+    "Ingredients": "Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blockofredstone.png",
+    "description": "Redstone power source."
+  },
+  {
+    "id": 37,
+    "name_id": "Blocks",
+    "name": "Block of Quartz",
+    "Ingredients": "Nether Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blockofquartz.png",
+    "description": "Building material."
+  },
+  {
+    "id": 38,
+    "name_id": "Blocks",
+    "name": "Chiseled Quartz Block",
+    "Ingredients": "Quartz Slabs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chiseledquartzblock.png",
+    "description": "Building material."
+  },
+  {
+    "id": 39,
+    "name_id": "Blocks",
+    "name": "Pillar Quartz Block",
+    "Ingredients": "Blocks of Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pillarquartzblock.png",
+    "description": "Building material."
+  },
+  {
+    "id": 40,
+    "name_id": "Blocks",
+    "name": "Quartz Bricks",
+    "Ingredients": "Blocks of Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_quartzbricks.png",
+    "description": "Building material."
+  },
+  {
+    "id": 41,
+    "name_id": "Blocks",
+    "name": "Stained Clay",
+    "Ingredients": "Hardened Clay & Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stainedclay.gif",
+    "description": "Building material."
+  },
+  {
+    "id": 42,
+    "name_id": "Blocks",
+    "name": "Hay Bale",
+    "Ingredients": "Wheat",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_haybale.png",
+    "description": "Decorative block and food for horses."
+  },
+  {
+    "id": 43,
+    "name_id": "Blocks",
+    "name": "Granite",
+    "Ingredients": "Diorite & Nether Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_granite.png",
+    "description": "Type of rock."
+  },
+  {
+    "id": 44,
+    "name_id": "Blocks",
+    "name": "Andesite",
+    "Ingredients": "Diorite & Cobblestone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_andesite.png",
+    "description": "Type of rock."
+  },
+  {
+    "id": 45,
+    "name_id": "Blocks",
+    "name": "Diorite",
+    "Ingredients": "Cobblestone & Nether Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_diorite.png",
+    "description": "Type of rock."
+  },
+  {
+    "id": 46,
+    "name_id": "Blocks",
+    "name": "Polished Granite",
+    "Ingredients": "Granite",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_polishedgranite.png",
+    "description": "Building material."
+  },
+  {
+    "id": 47,
+    "name_id": "Blocks",
+    "name": "Polished Andesite",
+    "Ingredients": "Andesite",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_polishedandesite.png",
+    "description": "Building material."
+  },
+  {
+    "id": 48,
+    "name_id": "Blocks",
+    "name": "Polished Diorite",
+    "Ingredients": "Diorite",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_polisheddiorite.png",
+    "description": "Building material."
+  },
+  {
+    "id": 49,
+    "name_id": "Blocks",
+    "name": "Prismarine",
+    "Ingredients": "Prismarine Shard",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_prismarine.png",
+    "description": "Type of rock."
+  },
+  {
+    "id": 50,
+    "name_id": "Blocks",
+    "name": "Prismarine Bricks",
+    "Ingredients": "Prismarine Shard",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_prismarinebricks.png",
+    "description": "Building material."
+  },
+  {
+    "id": 51,
+    "name_id": "Blocks",
+    "name": "Dark Prismarine",
+    "Ingredients": "Prismarine Shards & Black Dye",
+    "image": "https://www.minecraftcrafting.info/#Top",
+    "description": "Building material."
+  },
+  {
+    "id": 52,
+    "name_id": "Blocks",
+    "name": "Sea Lantern",
+    "Ingredients": "Prismarine Crystals & Prismarine Shard",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_sealantern.png",
+    "description": "Light source."
+  },
+  {
+    "id": 53,
+    "name_id": "Blocks",
+    "name": "Coarse Dirt",
+    "Ingredients": "Dirt & Gravel",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_coarsedirt.png",
+    "description": "Similar to normal dirt however grass cannot spread to it."
+  },
+  {
+    "id": 54,
+    "name_id": "Blocks",
+    "name": "Slime Block",
+    "Ingredients": "Slimeball",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_slimeblock.png",
+    "description": "Can be used to push other blocks using pistons."
+  },
+  {
+    "id": 55,
+    "name_id": "Blocks",
+    "name": "Moss Stone",
+    "Ingredients": "Cobblestone & Vines",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_mossstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 56,
+    "name_id": "Blocks",
+    "name": "Mossy Stone Brick",
+    "Ingredients": "Stone Brick & Vines",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_mossystonebrick.png",
+    "description": "Building material."
+  },
+  {
+    "id": 57,
+    "name_id": "Blocks",
+    "name": "Chiseled Stone Brick",
+    "Ingredients": "Stock Brick Slab",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chiseledstonebrick.png",
+    "description": "Building material."
+  },
+  {
+    "id": 58,
+    "name_id": "Blocks",
+    "name": "Red Sandstone",
+    "Ingredients": "Red Sand",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_redsandstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 59,
+    "name_id": "Blocks",
+    "name": "Smooth Red Sandstone",
+    "Ingredients": "Red Sandstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_smoothredsandstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 60,
+    "name_id": "Blocks",
+    "name": "Chiseled Red Sandstone",
+    "Ingredients": "Red Sandstone Slab",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chiseledredsandstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 61,
+    "name_id": "Blocks",
+    "name": "Purpur Block",
+    "Ingredients": "Popped Chorus Fruit",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_purpurblock.png",
+    "description": "Building material."
+  },
+  {
+    "id": 62,
+    "name_id": "Blocks",
+    "name": "Purpur Pillar",
+    "Ingredients": "Purpur Slab",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_purpurpillar.png",
+    "description": "Building material."
+  },
+  {
+    "id": 63,
+    "name_id": "Blocks",
+    "name": "Magma Block",
+    "Ingredients": "Magma Cream",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_magmablock.png",
+    "description": "Causes damage when stepped on."
+  },
+  {
+    "id": 64,
+    "name_id": "Blocks",
+    "name": "Nether Wart Block",
+    "Ingredients": "Nether Wart",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_netherwartblock.png",
+    "description": "Decoration."
+  },
+  {
+    "id": 65,
+    "name_id": "Blocks",
+    "name": "Nether Brick",
+    "Ingredients": "Nether Brick (Item)",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_netherbrick.png",
+    "description": "Building material."
+  },
+  {
+    "id": 66,
+    "name_id": "Blocks",
+    "name": "Red Nether Brick",
+    "Ingredients": "Nether Wart & Nether Brick",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_rednetherbrick.png",
+    "description": "Building material."
+  },
+  {
+    "id": 67,
+    "name_id": "Blocks",
+    "name": "Chiseled Nether Bricks",
+    "Ingredients": "Nether Brick Slabs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chiselednetherbricks.png",
+    "description": "Building material."
+  },
+  {
+    "id": 68,
+    "name_id": "Blocks",
+    "name": "Bone Block",
+    "Ingredients": "Bone Meal",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_boneblock.png",
+    "description": "Decoration and store of Bone Meal."
+  },
+  {
+    "id": 69,
+    "name_id": "Blocks",
+    "name": "Dried Kelp Block",
+    "Ingredients": "Dried Kelp",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_driedkelpblock.png",
+    "description": "Can be used as fuel in furnaces."
+  },
+  {
+    "id": 70,
+    "name_id": "Blocks",
+    "name": "Packed Ice",
+    "Ingredients": "Ice",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_packedice.png",
+    "description": "Ice building material."
+  },
+  {
+    "id": 71,
+    "name_id": "Blocks",
+    "name": "Blue Ice",
+    "Ingredients": "Packed Ice",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blueice.png",
+    "description": "Ice building material."
+  },
+  {
+    "id": 72,
+    "name_id": "Blocks",
+    "name": "Honey Block",
+    "Ingredients": "Honey Bottles",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_honeyblock.png",
+    "description": "Sticky block that slows down players and entities."
+  },
+  {
+    "id": 73,
+    "name_id": "Blocks",
+    "name": "Honeycomb Block",
+    "Ingredients": "Honeycomb",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_honeycombblock.png",
+    "description": "Decoration."
+  },
+  {
+    "id": 74,
+    "name_id": "Blocks",
+    "name": "Stripped Wood",
+    "Ingredients": "Stripped Log",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_strippedwood.png",
+    "description": "Building material."
+  },
+  {
+    "id": 75,
+    "name_id": "Blocks",
+    "name": "Polished Basalt",
+    "Ingredients": "Basalt",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_polishedbasalt.png",
+    "description": "Building material."
+  },
+  {
+    "id": 76,
+    "name_id": "Blocks",
+    "name": "Polished Blackstone",
+    "Ingredients": "Blackstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_polishedblackstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 77,
+    "name_id": "Blocks",
+    "name": "Chiseled Polished Blackstone",
+    "Ingredients": "Polished Blackstone Slabs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chiseledpolishedblackstone.png",
+    "description": "Building material."
+  },
+  {
+    "id": 78,
+    "name_id": "Blocks",
+    "name": "Polished Blackstone Bricks",
+    "Ingredients": "Polished Blackstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_polishedblackstonebricks.png",
+    "description": "Building material."
+  },
+  {
+    "id": 79,
+    "name_id": "Blocks",
+    "name": "Block of Netherite",
+    "Ingredients": "Netherite Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blockofnetherite.png",
+    "description": "Store of Netherite."
+  },
+  {
+    "id": 80,
+    "name_id": "Tools",
+    "name": "Pickaxes",
+    "Ingredients": "Sticks & Wooden Planks or Cobblestone or Blackstone or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pickaxes.gif",
+    "description": "Used to mine stone blocks and ores."
+  },
+  {
+    "id": 81,
+    "name_id": "Tools",
+    "name": "Axes",
+    "Ingredients": "Sticks & Wooden Planks or Cobblestone or Blackstone or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_axes.gif",
+    "description": "Used to chop wood blocks faster than by hand."
+  },
+  {
+    "id": 82,
+    "name_id": "Tools",
+    "name": "Shovels",
+    "Ingredients": "Sticks & Wooden Planks or Cobblestone or Blackstone or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_shovels.gif",
+    "description": "Used to dig sand, gravel, dirt, grass and snow faster than by hand."
+  },
+  {
+    "id": 83,
+    "name_id": "Tools",
+    "name": "Hoes",
+    "Ingredients": "Sticks & Wooden Planks or Cobblestone or Blackstone or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_hoes.gif",
+    "description": "Used to till dirt blocks in preparation for growing crops."
+  },
+  {
+    "id": 84,
+    "name_id": "Tools",
+    "name": "Fishing Rod",
+    "Ingredients": "Sticks & String",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fishingrod.png",
+    "description": "Can be cast into water to catch fish."
+  },
+  {
+    "id": 85,
+    "name_id": "Tools",
+    "name": "Flint & Steel",
+    "Ingredients": "Iron Ingot & Flint",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_flintandsteel.png",
+    "description": "Used to light fires, ignite TNT and open nether portals."
+  },
+  {
+    "id": 86,
+    "name_id": "Tools",
+    "name": "Compass",
+    "Ingredients": "Iron Ingots & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_compass.png",
+    "description": "Points to the spawn point."
+  },
+  {
+    "id": 87,
+    "name_id": "Tools",
+    "name": "Clock",
+    "Ingredients": "Gold Ingots & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_clock.png",
+    "description": "Display the in-game time."
+  },
+  {
+    "id": 88,
+    "name_id": "Tools",
+    "name": "Bucket",
+    "Ingredients": "Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bucket.png",
+    "description": "Used to transport water, lava and milk."
+  },
+  {
+    "id": 89,
+    "name_id": "Tools",
+    "name": "Shears",
+    "Ingredients": "Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_shears.png",
+    "description": "Used to collect wool from sheep and leaves from trees."
+  },
+  {
+    "id": 90,
+    "name_id": "Tools",
+    "name": "Shulker Box",
+    "Ingredients": "Shulker Shell & Chest",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_shulkerbox.png",
+    "description": "Portable chests."
+  },
+  {
+    "id": 91,
+    "name_id": "Defence",
+    "name": "Helmets",
+    "Ingredients": "Leather or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_helmets.gif",
+    "description": "Head armor."
+  },
+  {
+    "id": 92,
+    "name_id": "Defence",
+    "name": "Chestplates",
+    "Ingredients": "Leather or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chestplates.gif",
+    "description": "Chest armor."
+  },
+  {
+    "id": 93,
+    "name_id": "Defence",
+    "name": "Leggings",
+    "Ingredients": "Leather or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_leggings.gif",
+    "description": "Leg armor."
+  },
+  {
+    "id": 94,
+    "name_id": "Defence",
+    "name": "Boots",
+    "Ingredients": "Leather or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_boots.gif",
+    "description": "Foot armor."
+  },
+  {
+    "id": 95,
+    "name_id": "Defence",
+    "name": "Swords",
+    "Ingredients": "Sticks & Wooden Planks or Cobblestone or Blackstone or Iron Ingots or Gold Ingots or Diamonds",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_swords.gif",
+    "description": "Deal more damage to mobs and other players than by hand."
+  },
+  {
+    "id": 96,
+    "name_id": "Defence",
+    "name": "Bow",
+    "Ingredients": "String & Sticks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bow.png",
+    "description": "Used to shoot arrows."
+  },
+  {
+    "id": 97,
+    "name_id": "Defence",
+    "name": "Arrow",
+    "Ingredients": "Flint & Stick & Feather",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_arrow.png",
+    "description": "Ammunition for bows."
+  },
+  {
+    "id": 98,
+    "name_id": "Defence",
+    "name": "Horse Armor",
+    "Ingredients": "Leather",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_horsearmor.png",
+    "description": "Special type of armor worn by horses."
+  },
+  {
+    "id": 99,
+    "name_id": "Defence",
+    "name": "Shield",
+    "Ingredients": "Planks & Iron Ingot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_shield.png",
+    "description": "Protects player against attack."
+  },
+  {
+    "id": 100,
+    "name_id": "Defence",
+    "name": "Spectral Arrow",
+    "Ingredients": "Glowstone Dust & Arrow",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_spectralarrow.png",
+    "description": "Gives player or mob glowing effect when hit."
+  },
+  {
+    "id": 101,
+    "name_id": "Defence",
+    "name": "Tipped Arrow",
+    "Ingredients": "Lingering potion & Arrows",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_tippedarrow.png",
+    "description": "Inflict targets with status effects."
+  },
+  {
+    "id": 102,
+    "name_id": "Defence",
+    "name": "Conduit",
+    "Ingredients": "Nautilus Shell & Heart of the Sea",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_conduit.png",
+    "description": "Provides conduit power to nearby players underwater."
+  },
+  {
+    "id": 103,
+    "name_id": "Defence",
+    "name": "Turtle Shell",
+    "Ingredients": "Scute",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_turtleshell.png",
+    "description": "Helmet that gives the player water breating effect."
+  },
+  {
+    "id": 104,
+    "name_id": "Defence",
+    "name": "Crossbow",
+    "Ingredients": "Sticks & Iron Ingot & String & Tripwire Hook",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_crossbow.png",
+    "description": "Weapon used to fire arrows further and more accurately than a bow."
+  },
+  {
+    "id": 105,
+    "name_id": "Mechanism",
+    "name": "Pressure Plates",
+    "Ingredients": "Wooden Planks or Stone or Polished Blackstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pressureplates.gif",
+    "description": "Send a redstone signal when stepped on by a player or mob."
+  },
+  {
+    "id": 106,
+    "name_id": "Mechanism",
+    "name": "Weighted Pressure Plates",
+    "Ingredients": "Iron Ingots or Gold Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_weightedpressureplates.gif",
+    "description": "Similar to regular pressure plates, but the signal strength increases as more items are added."
+  },
+  {
+    "id": 107,
+    "name_id": "Mechanism",
+    "name": "Trapdoor",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_trapdoor.png",
+    "description": "Horizontal door activated by clicking or redstone."
+  },
+  {
+    "id": 108,
+    "name_id": "Mechanism",
+    "name": "Fence Gate",
+    "Ingredients": "Wooden Planks & Sticks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fencegate.gif",
+    "description": "Gate that can be opened like a door."
+  },
+  {
+    "id": 109,
+    "name_id": "Mechanism",
+    "name": "Buttons",
+    "Ingredients": "Wooden Planks or Stone or Polished Blackstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_buttons.gif",
+    "description": "Sends a short redstone signal when pressed."
+  },
+  {
+    "id": 110,
+    "name_id": "Mechanism",
+    "name": "Lever",
+    "Ingredients": "Stick & Cobblestone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lever.png",
+    "description": "Sends a redstone signal that can be turned on and off."
+  },
+  {
+    "id": 111,
+    "name_id": "Mechanism",
+    "name": "Redstone Repeater",
+    "Ingredients": "Stone & Redstone Torch & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_repeater.gif",
+    "description": "Used as a repeater, diode or delayer in redstone circuits."
+  },
+  {
+    "id": 112,
+    "name_id": "Mechanism",
+    "name": "Redstone Torch",
+    "Ingredients": "Stick & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_redstonetorch.png",
+    "description": "Constantly sends a redstone signal."
+  },
+  {
+    "id": 113,
+    "name_id": "Mechanism",
+    "name": "Jukebox",
+    "Ingredients": "Wooden Planks & Diamond",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_jukebox_new.png",
+    "description": "Used to play music discs."
+  },
+  {
+    "id": 114,
+    "name_id": "Mechanism",
+    "name": "Dispenser",
+    "Ingredients": "Cobblestone & Bow & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_dispenser.png",
+    "description": "Holds and shoots out items when powered."
+  },
+  {
+    "id": 115,
+    "name_id": "Mechanism",
+    "name": "Piston",
+    "Ingredients": "Wooden Planks & Cobblestone & Iron Ingot & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_piston.png",
+    "description": "Pushes other blocks when powered."
+  },
+  {
+    "id": 116,
+    "name_id": "Mechanism",
+    "name": "Sticky Piston",
+    "Ingredients": "Piston & Slime Ball",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stickypiston.png",
+    "description": "Pushes blocks and also pulls them back."
+  },
+  {
+    "id": 117,
+    "name_id": "Mechanism",
+    "name": "Minecart",
+    "Ingredients": "Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_minecart.png",
+    "description": "Used to travel along rail."
+  },
+  {
+    "id": 118,
+    "name_id": "Mechanism",
+    "name": "Powered Minecart",
+    "Ingredients": "Minecart & Furnace",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_poweredminecart.png",
+    "description": "Pushes other minecarts along track using fuel."
+  },
+  {
+    "id": 119,
+    "name_id": "Mechanism",
+    "name": "Storage Minecart",
+    "Ingredients": "Minecart & Chest",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_storageminecart.png",
+    "description": "Used to transport blocks and items along track."
+  },
+  {
+    "id": 120,
+    "name_id": "Mechanism",
+    "name": "Rail",
+    "Ingredients": "Iron Ingots & Stick",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_tracks.png",
+    "description": "Guide for minecarts."
+  },
+  {
+    "id": 121,
+    "name_id": "Mechanism",
+    "name": "Powered Rail",
+    "Ingredients": "Gold Ingots & Stick & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_poweredrail.jpg",
+    "description": "Speeds up minecarts when powered."
+  },
+  {
+    "id": 122,
+    "name_id": "Mechanism",
+    "name": "Detector Rail",
+    "Ingredients": "Iron Ingots & Stone Pressure Plate & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_detectorrail.jpg",
+    "description": "Sends a redstone signal when crossed by a minecart."
+  },
+  {
+    "id": 123,
+    "name_id": "Mechanism",
+    "name": "Redstone Lamp",
+    "Ingredients": "Redstone & Glowstone Block",
+    "image": "https://www.minecraftcrafting.info/imgs/0craft_redstonelamp.png",
+    "description": "Light source when powered by redstone."
+  },
+  {
+    "id": 124,
+    "name_id": "Mechanism",
+    "name": "Tripwire Hook",
+    "Ingredients": "Iron Ingot & Stick & Wooden Plank",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_tripwirehook.png",
+    "description": "Used to create a tripwire that activates a redstone signal."
+  },
+  {
+    "id": 125,
+    "name_id": "Mechanism",
+    "name": "Activator Rail",
+    "Ingredients": "Iron Ingots & Sticks & Redstone Torch",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_activatorrail.png",
+    "description": "Used to activate TNT minecarts and minecarts with hoppers."
+  },
+  {
+    "id": 126,
+    "name_id": "Mechanism",
+    "name": "Daylight Sensor",
+    "Ingredients": "Glass & Nether Quartz & Wooden Slabs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_daylightsensor.png",
+    "description": "Emits a redstone signal during daylight."
+  },
+  {
+    "id": 127,
+    "name_id": "Mechanism",
+    "name": "Dropper",
+    "Ingredients": "Cobblestone & Redstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_dropper.png",
+    "description": "Drops items (similar to a dispenser) when powered."
+  },
+  {
+    "id": 128,
+    "name_id": "Mechanism",
+    "name": "Hopper",
+    "Ingredients": "Iron Ingots & Chest",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_hopper.png",
+    "description": "Moves items into and out of chests, dispensers and other blocks that can hold items."
+  },
+  {
+    "id": 129,
+    "name_id": "Mechanism",
+    "name": "Minecart with Hopper",
+    "Ingredients": "Hopper & Minecart",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_minecartwithhopper.png",
+    "description": "Minecart that functions in the same way as a hopper."
+  },
+  {
+    "id": 130,
+    "name_id": "Mechanism",
+    "name": "Minecart with TNT",
+    "Ingredients": "TNT & Minecart",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_minecartwithtnt.png",
+    "description": "Minecart that explodes when triggered by activator rail."
+  },
+  {
+    "id": 131,
+    "name_id": "Mechanism",
+    "name": "Redstone Comparator",
+    "Ingredients": "Redstone Torches & Stone & Nether Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_redstonecomparator.png",
+    "description": "Used in redstone circuitry."
+  },
+  {
+    "id": 132,
+    "name_id": "Mechanism",
+    "name": "Trapped Chest",
+    "Ingredients": "Chest & Tripwire Hook",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_trappedchest.png",
+    "description": "Chest that emits a redstone signal when opened."
+  },
+  {
+    "id": 133,
+    "name_id": "Mechanism",
+    "name": "Iron Trapdoor",
+    "Ingredients": "Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_irontrapdoor.png",
+    "description": "Trapdoor activated by redstone."
+  },
+  {
+    "id": 134,
+    "name_id": "Mechanism",
+    "name": "Observer",
+    "Ingredients": "Cobblestone & Redstone Dust & Nether Quartz",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_observer.png",
+    "description": "Emits a redstone signal when the block it is facing is updated."
+  },
+  {
+    "id": 135,
+    "name_id": "Mechanism",
+    "name": "Target",
+    "Ingredients": "Redstone Dust & Hay Bale",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_target.png",
+    "description": "Emits a redstone signal when hit by projectiles, such as arrows, eggs or snowballs."
+  },
+  {
+    "id": 136,
+    "name_id": "Food",
+    "name": "Bowl",
+    "Ingredients": "Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bowl.png",
+    "description": "Used to craft different types of stew."
+  },
+  {
+    "id": 137,
+    "name_id": "Food",
+    "name": "Mushroom Stew",
+    "Ingredients": "Bowl & Red Mushroom & Brown Mushroom",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stew.png",
+    "description": "Restores 6 hunger points."
+  },
+  {
+    "id": 138,
+    "name_id": "Food",
+    "name": "Bread",
+    "Ingredients": "Wheat",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bread.png",
+    "description": "Restores 5 hunger points."
+  },
+  {
+    "id": 139,
+    "name_id": "Food",
+    "name": "Golden Apple",
+    "Ingredients": "Apple & Gold Nuggets",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_goldenapple.png",
+    "description": "Restores 4 hunger points."
+  },
+  {
+    "id": 140,
+    "name_id": "Food",
+    "name": "Sugar",
+    "Ingredients": "Sugar Cane",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_sugar.png",
+    "description": "Used to create cake."
+  },
+  {
+    "id": 141,
+    "name_id": "Food",
+    "name": "Cake",
+    "Ingredients": "Milk Buckets & Sugar & Wheat & Egg",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cake.png",
+    "description": "Heals 2 hunger points per use for a total of 7 uses."
+  },
+  {
+    "id": 142,
+    "name_id": "Food",
+    "name": "Cookies",
+    "Ingredients": "Wheat & Cocoa Beans",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cookie.png",
+    "description": "Restores 2 hunger points."
+  },
+  {
+    "id": 143,
+    "name_id": "Food",
+    "name": "Melon Block",
+    "Ingredients": "Melon Slice",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_melonblock.png",
+    "description": "Used to store melon slices."
+  },
+  {
+    "id": 144,
+    "name_id": "Food",
+    "name": "Melon Seeds",
+    "Ingredients": "Melon Slice",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_melonseeds.png",
+    "description": "Can be planted on farmland."
+  },
+  {
+    "id": 145,
+    "name_id": "Food",
+    "name": "Pumpkin Seeds",
+    "Ingredients": "Pumpkin",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pumpkinseeds.png",
+    "description": "Can be planted on farmland."
+  },
+  {
+    "id": 146,
+    "name_id": "Food",
+    "name": "Golden Carrot",
+    "Ingredients": "Carrot & Gold Nuggets",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_goldencarrot.png",
+    "description": "Used as a brewing ingredient and restores 6 hunger points."
+  },
+  {
+    "id": 147,
+    "name_id": "Food",
+    "name": "Pumpkin Pie",
+    "Ingredients": "Pumpkin & Egg & Sugar",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pumpkinpie.png",
+    "description": "Restores 8 hunger points."
+  },
+  {
+    "id": 148,
+    "name_id": "Food",
+    "name": "Rabbit Stew",
+    "Ingredients": "Mushroom & Bowl & Cooked Rabbit & Carrot & Baked Potato",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_rabbitstew.png",
+    "description": "Restores 10 hunger points."
+  },
+  {
+    "id": 149,
+    "name_id": "Food",
+    "name": "Suspicious Stew",
+    "Ingredients": "Red Mushroom & Brown Mushroom & Bowl & Any Flower",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_suspiciousstew.png",
+    "description": "Restores 6 hunger points."
+  },
+  {
+    "id": 150,
+    "name_id": "Food",
+    "name": "Honey Bottle",
+    "Ingredients": "Glass Bottles & Honey Block",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_honeybottle.png",
+    "description": "Restores 6 hunger points."
+  },
+  {
+    "id": 151,
+    "name_id": "Other",
+    "name": "Bed",
+    "Ingredients": "Wooden Planks & Wool",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bed.png",
+    "description": "Used to forward time to day during nights."
+  },
+  {
+    "id": 152,
+    "name_id": "Other",
+    "name": "Painting",
+    "Ingredients": "Sticks & Wool",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_painting.png",
+    "description": "Decoration."
+  },
+  {
+    "id": 153,
+    "name_id": "Other",
+    "name": "Paper",
+    "Ingredients": "Sugar Cane",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_paper.png",
+    "description": "Used to create maps and books."
+  },
+  {
+    "id": 154,
+    "name_id": "Other",
+    "name": "Book",
+    "Ingredients": "Paper & Leather",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_book_new.png",
+    "description": "Used to create bookshelfs and book & quills."
+  },
+  {
+    "id": 155,
+    "name_id": "Other",
+    "name": "Book and Quill",
+    "Ingredients": "Book & Feather & Ink Sac",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bookandquill.png",
+    "description": "Can be written in and edited."
+  },
+  {
+    "id": 156,
+    "name_id": "Other",
+    "name": "Map",
+    "Ingredients": "Paper & Compass",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_map.png",
+    "description": "Creates an image of explored parts of the world."
+  },
+  {
+    "id": 157,
+    "name_id": "Other",
+    "name": "Glass Panes",
+    "Ingredients": "Glass Blocks or Stained Glass Blocks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_glasspanes.gif",
+    "description": "Panes of glass similar to fences."
+  },
+  {
+    "id": 158,
+    "name_id": "Other",
+    "name": "Iron Bars",
+    "Ingredients": "Iron Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_ironbars.png",
+    "description": "Similar properties to fences however only 1 block high."
+  },
+  {
+    "id": 159,
+    "name_id": "Other",
+    "name": "Gold Ingot",
+    "Ingredients": "Gold Nugget",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_goldingot.png",
+    "description": "Used to craft a number of other items."
+  },
+  {
+    "id": 160,
+    "name_id": "Other",
+    "name": "Nether Brick Fence",
+    "Ingredients": "Nether Brick (item) & Nether Bricks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_netherbrickfence.png",
+    "description": "Similar to normal fences but made out of nether brick."
+  },
+  {
+    "id": 161,
+    "name_id": "Other",
+    "name": "Eye of Ender",
+    "Ingredients": "Ender Pearl & Blaze Powder",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_eyeofender.png",
+    "description": "Can be used to locate strongholds."
+  },
+  {
+    "id": 162,
+    "name_id": "Other",
+    "name": "Enchantment Table",
+    "Ingredients": "Book, Diamond & Obsidian.",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_enchantmenttable.png",
+    "description": "Used to enchant tools, weapons, armor and other items."
+  },
+  {
+    "id": 163,
+    "name_id": "Other",
+    "name": "Fire Charge",
+    "Ingredients": "Blaze Powder & Coal & Gunpowder",
+    "image": "https://www.minecraftcrafting.info/imgs/0craft_firecharge.png",
+    "description": "Creates fire and can be shot out of dispensers."
+  },
+  {
+    "id": 164,
+    "name_id": "Other",
+    "name": "Ender Chest",
+    "Ingredients": "Obsidian & Eye of Ender",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_enderchest.png",
+    "description": "Used for storage. All Ender Chests in a world access the same storage slots."
+  },
+  {
+    "id": 165,
+    "name_id": "Other",
+    "name": "Beacon",
+    "Ingredients": "Glass & Obsidian & Nether Star",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_beacon_new.png",
+    "description": "Emits light beam and provides temporary player buffs when placed on a pyramid made of emerald, diamond, netherite, gold or iron blocks."
+  },
+  {
+    "id": 166,
+    "name_id": "Other",
+    "name": "Anvil",
+    "Ingredients": "Iron Block & Iron Ingot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_anvil.png",
+    "description": "Used to repair items and combine enchantments."
+  },
+  {
+    "id": 167,
+    "name_id": "Other",
+    "name": "Flower Pot",
+    "Ingredients": "Bricks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_flowerpot.png",
+    "description": "Decoration."
+  },
+  {
+    "id": 168,
+    "name_id": "Other",
+    "name": "Item Frame",
+    "Ingredients": "Sticks & Leather",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_itemframe.png",
+    "description": "Used to display items and blocks on walls."
+  },
+  {
+    "id": 169,
+    "name_id": "Other",
+    "name": "Carrot on a Stick",
+    "Ingredients": "Fishing Rod & Carrot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_carrotonastick.png",
+    "description": "Can be used to control saddled pigs."
+  },
+  {
+    "id": 170,
+    "name_id": "Other",
+    "name": "Warped Fungus on a Stick",
+    "Ingredients": "Fishing Rod & Warped Fungus",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_warpedfungusonastick.png",
+    "description": "Can be used to control saddled striders."
+  },
+  {
+    "id": 171,
+    "name_id": "Other",
+    "name": "Firework Rocket",
+    "Ingredients": "Gunpowder & Paper & Firework Star",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fireworkrocket.gif",
+    "description": "Items that can be launched into the sky. The more gunpowder added the higher the rocket will fly."
+  },
+  {
+    "id": 172,
+    "name_id": "Other",
+    "name": "Firework Star",
+    "Ingredients": "Gunpowder & Dye & an extra ingredient (optional)",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fireworkstar.gif",
+    "description": "The dye determines the color of the firework and the extra ingredient determines the special effect."
+  },
+  {
+    "id": 173,
+    "name_id": "Other",
+    "name": "Lead",
+    "Ingredients": "String & Slimeball",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lead.png",
+    "description": "Used to leash mobs."
+  },
+  {
+    "id": 174,
+    "name_id": "Other",
+    "name": "Carpets",
+    "Ingredients": "Wool",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_carpets.gif",
+    "description": "Thin block that can be used as a decoration."
+  },
+  {
+    "id": 175,
+    "name_id": "Other",
+    "name": "Stained Glass",
+    "Ingredients": "Glass Blocks & Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stainedglass.gif",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 176,
+    "name_id": "Other",
+    "name": "Leather",
+    "Ingredients": "Rabbit hide",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_leather.png",
+    "description": "Used as a crafting ingredient including for armor."
+  },
+  {
+    "id": 177,
+    "name_id": "Other",
+    "name": "Banner",
+    "Ingredients": "Wool & Stick",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_banner.png",
+    "description": "Decoration."
+  },
+  {
+    "id": 178,
+    "name_id": "Other",
+    "name": "Armor Stand",
+    "Ingredients": "Stone Slab & Stick",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_armorstand.png",
+    "description": "Used to display armor, mob heads & pumpkins."
+  },
+  {
+    "id": 179,
+    "name_id": "Other",
+    "name": "End Rod",
+    "Ingredients": "Blaze Rod & Popped Chorus Fruit",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_endrod.png",
+    "description": "Decorative light source."
+  },
+  {
+    "id": 180,
+    "name_id": "Other",
+    "name": "End Crystal",
+    "Ingredients": "Glass & Eye of Ender & Ghast Tear",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_endcrystal.png",
+    "description": "Item found in The End."
+  },
+  {
+    "id": 181,
+    "name_id": "Other",
+    "name": "Iron Nugget",
+    "Ingredients": "Iron Ingot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_ironnugget.png",
+    "description": "Small piece of iron."
+  },
+  {
+    "id": 182,
+    "name_id": "Other",
+    "name": "Concrete Powder",
+    "Ingredients": "Dye & Sand & Gravel",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_concretepowder.png",
+    "description": "Turns into concrete when in contact with water or lava."
+  },
+  {
+    "id": 183,
+    "name_id": "Other",
+    "name": "Campfire",
+    "Ingredients": "Sticks & Logs & Coal",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_campfire.png",
+    "description": "Light source and used to cook food."
+  },
+  {
+    "id": 184,
+    "name_id": "Other",
+    "name": "Soul Campfire",
+    "Ingredients": "Sticks & Logs & Soul Sand or Soul Soil",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_soulcampfire.gif",
+    "description": "Light source and used to cook food."
+  },
+  {
+    "id": 185,
+    "name_id": "Other",
+    "name": "Scaffolding",
+    "Ingredients": "Bamboo & String",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_scaffolding.png",
+    "description": "Used to help the player climb when building."
+  },
+  {
+    "id": 186,
+    "name_id": "Other",
+    "name": "Barrel",
+    "Ingredients": "Wood Slabs & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_barrel.png",
+    "description": "Used to store items."
+  },
+  {
+    "id": 187,
+    "name_id": "Other",
+    "name": "Blast Furnace",
+    "Ingredients": "Iron Ingots & Furnace & Smooth Stone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blastfurnace.png",
+    "description": "Used to smelt items."
+  },
+  {
+    "id": 188,
+    "name_id": "Other",
+    "name": "Smoker",
+    "Ingredients": "Logs & Furnace",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_smoker.png",
+    "description": "Used to cook food items."
+  },
+  {
+    "id": 189,
+    "name_id": "Other",
+    "name": "Cartography Table",
+    "Ingredients": "Paper & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cartographytable.png",
+    "description": "Used for cloning, zooming out and locking maps."
+  },
+  {
+    "id": 190,
+    "name_id": "Other",
+    "name": "Composter",
+    "Ingredients": "Wooden Slabs",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_composter.png",
+    "description": "Converts crops and plants into bone meal."
+  },
+  {
+    "id": 191,
+    "name_id": "Other",
+    "name": "Fletching Table",
+    "Ingredients": "Flint & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fletchingtable.png",
+    "description": "Fletcher's job site block in villages."
+  },
+  {
+    "id": 192,
+    "name_id": "Other",
+    "name": "Smithing Table",
+    "Ingredients": "Iron Ingots & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_smithingtable.png",
+    "description": "Toolsmith's job site block in villages."
+  },
+  {
+    "id": 193,
+    "name_id": "Other",
+    "name": "Stonecutter",
+    "Ingredients": "Iron Ingot & Stone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_stonecutter.png",
+    "description": "Used to craft stone-related blocks."
+  },
+  {
+    "id": 194,
+    "name_id": "Other",
+    "name": "Grindstone",
+    "Ingredients": "Sticks & Stone Slab & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_grindstone.png",
+    "description": "Used to repair items and tools, and also remove enchantments."
+  },
+  {
+    "id": 195,
+    "name_id": "Other",
+    "name": "Lanterns",
+    "Ingredients": "Iron Nuggets & Torch or Soul Torch",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lanterns.gif",
+    "description": "Blocks that emit light."
+  },
+  {
+    "id": 196,
+    "name_id": "Other",
+    "name": "Lectern",
+    "Ingredients": "Wood Slabs & Bookshelf",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lectern.png",
+    "description": "Used to hold books."
+  },
+  {
+    "id": 197,
+    "name_id": "Other",
+    "name": "Loom",
+    "Ingredients": "String & Wooden Planks",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_loom.png",
+    "description": "Used to apply patterns to banners."
+  },
+  {
+    "id": 198,
+    "name_id": "Other",
+    "name": "Beehive",
+    "Ingredients": "Wooden Planks & Honeycomb",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_beehive.png",
+    "description": "Craftable version of a bees nest."
+  },
+  {
+    "id": 199,
+    "name_id": "Other",
+    "name": "Netherite Ingot",
+    "Ingredients": "Netherite Scraps & Gold Ingots",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_netheriteingot.png",
+    "description": "Used as a smithing ingredient to make Netherite tools, weapons and armor."
+  },
+  {
+    "id": 200,
+    "name_id": "Other",
+    "name": "Chain",
+    "Ingredients": "Iron Nuggets & Iron Ingot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_chain.png",
+    "description": "Decoration that can also be used to suspend bells and lanterns."
+  },
+  {
+    "id": 201,
+    "name_id": "Other",
+    "name": "Respawn Anchor",
+    "Ingredients": "Crying Obsidian & Glowstone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_respawnanchor.png",
+    "description": "Allows the player to set a respawn point in the Nether."
+  },
+  {
+    "id": 202,
+    "name_id": "Other",
+    "name": "Lodestone",
+    "Ingredients": "Chiseled Stone Bricks & Netherite Ingot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lodestone.png",
+    "description": "Using a compass on a Lodestone block will make the compass always point towards that specific block."
+  },
+  {
+    "id": 203,
+    "name_id": "Other",
+    "name": "Soul Torch",
+    "Ingredients": "Coal & Stick & Soul Sand or Soul Soil",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_soultorch.gif",
+    "description": "Light source."
+  },
+  {
+    "id": 204,
+    "name_id": "Dye",
+    "name": "Bone Meal",
+    "Ingredients": "Bone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bonemeal.png",
+    "description": "Can be used to make crops, trees and tall grass grow instantly."
+  },
+  {
+    "id": 205,
+    "name_id": "Dye",
+    "name": "Light Gray Dye",
+    "Ingredients": "Azure Bluet or Oxeye Daisy or White Tulip or Black Dye & White Dye or Gray Dye & White Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lightgraydye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 206,
+    "name_id": "Dye",
+    "name": "Gray Dye",
+    "Ingredients": "Black Dye & White Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_graydye.png",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 207,
+    "name_id": "Dye",
+    "name": "Rose Red",
+    "Ingredients": "Red Tulip or Rose Bush",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_reddye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 208,
+    "name_id": "Dye",
+    "name": "Orange Dye",
+    "Ingredients": "Rose Red & Dandelion Yellow or Orange Tulip",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_orangedye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 209,
+    "name_id": "Dye",
+    "name": "Dandelion Yellow",
+    "Ingredients": "Dandelion or Sunflower",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_yellowdye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 210,
+    "name_id": "Dye",
+    "name": "Lime Dye",
+    "Ingredients": "Green Dye & White Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_limedye.png",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 211,
+    "name_id": "Dye",
+    "name": "Light Blue Dye",
+    "Ingredients": "Blue Orchid or Blue Dye & White Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lightbluedye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 212,
+    "name_id": "Dye",
+    "name": "Cyan Dye",
+    "Ingredients": "Blue Dye & Green Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cyandye.png",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 213,
+    "name_id": "Dye",
+    "name": "Purple Dye",
+    "Ingredients": "Blue Dye & Red Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_purpledye.png",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 214,
+    "name_id": "Dye",
+    "name": "Magenta Dye",
+    "Ingredients": "Purple Dye & Pink Dye or Allium or Lilac",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_magentadye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 215,
+    "name_id": "Dye",
+    "name": "Pink Dye",
+    "Ingredients": "Pink Tulip or Peony or Red Dye & White Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pinkdye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 216,
+    "name_id": "Dye",
+    "name": "White Dye",
+    "Ingredients": "Bone Meal or Lily of the Valley",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_whitedye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 217,
+    "name_id": "Dye",
+    "name": "Blue Dye",
+    "Ingredients": "Lapis Lazuli or Cornflower",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bluedye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 218,
+    "name_id": "Dye",
+    "name": "Brown Dye",
+    "Ingredients": "Cocoa Beans",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_browndye.png",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 219,
+    "name_id": "Dye",
+    "name": "Black Dye",
+    "Ingredients": "Ink Sac or Wither Rose",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blackdye.gif",
+    "description": "Used to dye various other items."
+  },
+  {
+    "id": 220,
+    "name_id": "Wool",
+    "name": "Wool",
+    "Ingredients": "String",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_wool.png",
+    "description": "Building material that can also be colored with dyes."
+  },
+  {
+    "id": 221,
+    "name_id": "Wool",
+    "name": "Light Gray Wool",
+    "Ingredients": "Wool & Light Gray Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lightgraywool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 222,
+    "name_id": "Wool",
+    "name": "Gray Wool",
+    "Ingredients": "Wool & Gray Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_graywool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 223,
+    "name_id": "Wool",
+    "name": "Black Wool",
+    "Ingredients": "Wool & Black Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blackwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 224,
+    "name_id": "Wool",
+    "name": "Red Wool",
+    "Ingredients": "Wool & Rose Red",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_redwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 225,
+    "name_id": "Wool",
+    "name": "Orange Wool",
+    "Ingredients": "Wool & Orange Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_orangewool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 226,
+    "name_id": "Wool",
+    "name": "Yellow Wool",
+    "Ingredients": "Wool & Dandelion Yellow",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_yellowwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 227,
+    "name_id": "Wool",
+    "name": "Lime Wool",
+    "Ingredients": "Wool & Lime Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_limewool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 228,
+    "name_id": "Wool",
+    "name": "Green Wool",
+    "Ingredients": "Wool & Cactus Green",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_greenwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 229,
+    "name_id": "Wool",
+    "name": "Light Blue Wool",
+    "Ingredients": "Wool & Light Blue Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_lightbluewool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 230,
+    "name_id": "Wool",
+    "name": "Cyan Wool",
+    "Ingredients": "Wool & Cyan Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cyanwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 231,
+    "name_id": "Wool",
+    "name": "Blue Wool",
+    "Ingredients": "Wool & Blue Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_bluewool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 232,
+    "name_id": "Wool",
+    "name": "Purple Wool",
+    "Ingredients": "Wool & Purple Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_purplewool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 233,
+    "name_id": "Wool",
+    "name": "Magenta Wool",
+    "Ingredients": "Wool & Magenta Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_magentawool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 234,
+    "name_id": "Wool",
+    "name": "Pink Wool",
+    "Ingredients": "Wool & Pink Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_pinkwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 235,
+    "name_id": "Wool",
+    "name": "Brown Wool",
+    "Ingredients": "Wool & Brown Dye",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_brownwool.png",
+    "description": "Building material and decoration."
+  },
+  {
+    "id": 236,
+    "name_id": "Brewing",
+    "name": "Glass Bottle",
+    "Ingredients": "Glass",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_glassbottle.png",
+    "description": "Used in brewing."
+  },
+  {
+    "id": 237,
+    "name_id": "Brewing",
+    "name": "Cauldron",
+    "Ingredients": "Iron Ingot",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_cauldron.png",
+    "description": "Block that holds water."
+  },
+  {
+    "id": 238,
+    "name_id": "Brewing",
+    "name": "Brewing Stand",
+    "Ingredients": "Blaze Rod & Cobblestone",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_brewingstand.png",
+    "description": "Used in brewing."
+  },
+  {
+    "id": 239,
+    "name_id": "Brewing",
+    "name": "Blaze Powder",
+    "Ingredients": "Blaze Rod",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_blazepowder.png",
+    "description": "Used to craft an Eye of Ender and Magma Cream."
+  },
+  {
+    "id": 240,
+    "name_id": "Brewing",
+    "name": "Magma Cream",
+    "Ingredients": "Slimeball & Blaze Powder",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_magmacream.png",
+    "description": "Used in potions."
+  },
+  {
+    "id": 241,
+    "name_id": "Brewing",
+    "name": "Fermented Spider Eye",
+    "Ingredients": "Spider Eye, Brown Mushroom & Sugar",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_fermentedspidereye.png",
+    "description": "Used in potions."
+  },
+  {
+    "id": 242,
+    "name_id": "Brewing",
+    "name": "Glistering Melon",
+    "Ingredients": "Melon Slice & Gold Nugget",
+    "image": "https://www.minecraftcrafting.info/imgs/craft_glisteringmelon.png",
+    "description": "Used in potions."
+  }
+]
