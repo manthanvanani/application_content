@@ -2,74 +2,40 @@
 	{
     "id": 1,
     "key": "21 April 2021",
-        "colors" : ["#093658","#237A57"],
+        "colors" : ["#093028","#237A57"],
     "data": [
       {
         "id": 1,
-        "key": "10 Millon Spin",
-        "time" : "10",
-        "link": "https://100"
+        "key": "25 million coins",
+        "time" : "10:33 AM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)U8Q9otc_lTsx_hufWXeH2eYTIUNoZA_YZ4S8uT8aHlU"
       },
       {
         "id": 2,
-        "key": "100 Spin",
-        "link": "https://100coin"
+        "key": "25 spins",
+        "time" : "10:33 AM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBLKZdJO_20210420"
       },
       {
-        "id": 2,
-        "key": "100 Spin",
-        "link": "https://100coin"
-      }
-    ]
-  },
-  	{
-    "id": 1,
-    "key": "21 April 2021",
-        "colors" : ["#093658","#237A57"],
-    "data": [
-      {
-        "id": 1,
-        "key": "10 Millon Spin",
-        "time" : "10",
-        "link": "https://100"
+        "id": 3,
+        "key": "10 spins, 1 million coins",
+        "time" : "10:33 AM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSnQZnol_20210420"
       },
       {
-        "id": 2,
-        "key": "100 Spin",
-        "link": "https://100coin"
+        "id": 4,
+        "key": "10 spins, 1 million coins",
+        "time" : "10:33 AM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWInVTipR_20210420"
       },
       {
-        "id": 2,
-        "key": "100 Spin",
-        "link": "https://100coin"
-      }
-    ]
-  },
-  
-  {
-    "id": 1,
-    "key": "21 April 2021",
-        "colors" : ["#123123","#321321"],
-    "data": [
-      {
-        "id": 1,
-        "key": "10 Millon Spin",
-        "time" : "10",
-        "link": "https://100"
-      },
-      {
-        "id": 2,
-        "key": "100 Spin",
-        "link": "https://100coin"
-      },
-      {
-        "id": 2,
-        "key": "100 Spin",
-        "link": "https://100coin"
+        "id": 5,
+        "key": "25 spins",
+        "time" : "10:33 AM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBBJnTiz_20210420"
       }
     ]
   }
-  
-  
+
 
 ]
