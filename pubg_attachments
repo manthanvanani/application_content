@@ -1,0 +1,164 @@
+[
+  {
+    "attachments_id": 1,
+    "name": "Flash Hider",
+    "description": "Hides the flash effect when the weapon is fired, and by thus making it far harder to see your precise location. The hider also provide some recoil reductions.\n-10.00% Recoil Pattern\n-10.00% Horizontal Recoil\n-10.00% Vertical Recoil",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Muzzle_FlashHider_Large.png"
+  },
+  {
+    "attachments_id": 2,
+    "name": "Suppressor",
+    "description": "Reduces firing sound and bullet echo.\n-5.00% Deviation",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Muzzle_Suppressor_Medium.png"
+  },
+  {
+    "attachments_id": 3,
+    "name": "Compensator",
+    "description": "Counter the recoil of a firearm and prevent the muzzle from climbing due to kickback from the rapid firing.\n-25.00% Recoil Pattern\n-10.00% Horizontal Recoil\n-15.00% Vertical Recoil\n-10.00% Spread Base",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Muzzle_Compensator_Large.png"
+  },
+  {
+    "attachments_id": 4,
+    "name": "Angled Foregrip",
+    "description": "Reduces horizontal recoil and increases how fast you ADS (Aim Down Sights).\n-20.00% Horizontal Recoil\n-20.00% Recoil Pattern\n+10.00% Faster ADS",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Lower_AngledForeGrip.png"
+  },
+  {
+    "attachments_id": 5,
+    "name": "Vertical Foregrip",
+    "description": "Reduces horizontal recoil and the spray pattern.\n-20.00% Horizontal Recoil\n-15.00% Recoil Pattern",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Lower_Foregrip.png"
+  },
+  {
+    "attachments_id": 6,
+    "name": "Stock",
+    "description": "Improved accuracy and stability.\n-10.00% Animation Kick\n-10.00% Sway\n-20.00% Recoil Pattern\n+15.00% Recoil Recovery",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Stock_UZI.png"
+  },
+  {
+    "attachments_id": 7,
+    "name": "Extended Mag",
+    "description": "-Increases magazine capacity",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Magazine_Extended_Large.png"
+  },
+  {
+    "attachments_id": 8,
+    "name": "QuickDraw Mag",
+    "description": "– 30.00% Reload Duration",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Magazine_QuickDraw_Large.png"
+  },
+  {
+    "attachments_id": 9,
+    "name": "Extended & QuickDraw Mag",
+    "description": "– 30.00% Reload Duration\n-Increases magazine capacity",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Magazine_ExtendedQuickDraw_Large.png"
+  },
+  {
+    "attachments_id": 10,
+    "name": "Red Dot Sights",
+    "description": "+20.00% Faster ADS",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Upper_DotSight_01-1.png"
+  },
+  {
+    "attachments_id": 11,
+    "name": "Holographic Sights",
+    "description": "+20.00% Faster ADS",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Upper_Holosight.png"
+  },
+  {
+    "attachments_id": 12,
+    "name": "2x Aimpoint Scope",
+    "description": "+10.00% Faster ADS\n1.80X Magnification",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Upper_Aimpoint2X_01.png"
+  },
+  {
+    "attachments_id": 13,
+    "name": "4x ACOG Scope",
+    "description": "4.00X Magnification",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Upper_ACOG_01.png"
+  },
+  {
+    "attachments_id": 14,
+    "name": "8x CQBSS Scope",
+    "description": "7.25X Magnification",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Upper_CQBSS.png"
+  },
+  {
+    "attachments_id": 15,
+    "name": "15x PM II Scope",
+    "description": "12.00X Magnification",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Upper_PM2_01.png"
+  },
+  {
+    "attachments_id": 16,
+    "name": "Check Pad",
+    "description": "Improved accuracy and stability.\n-20.00% Animation Kick\n-15.00% Sway\n-20.00% Vertical Recoil",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Stock_SniperRifle_CheekPad.png"
+  },
+  {
+    "attachments_id": 17,
+    "name": "Bullet Loops",
+    "description": "Improved accuracy and stability.\n-30.00% Reload Duration\n-50.00% Spread Base",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_attach_Stock_SniperRifle_BulletLoops.png"
+  },
+  {
+    "attachments_id": 18,
+    "name": "Choke",
+    "description": "The choke makes the shotgun spread less, making longer shots easier.\n-18.20% Shot Spread\n+15.40% Shot Speed",
+    "image": "https://i.imgur.com/YMTCEH2.png"
+  },
+  {
+    "attachments_id": 19,
+    "name": "Stock For Micro",
+    "description": "Improved accuracy and stability.\n-20.00% Vertical Recoil\n-20.00% Recoil Pattern\n+15.00% Recoil Recovery",
+    "image": "https://i.imgur.com/4d2YrWE.png"
+  },
+  {
+    "attachments_id": 20,
+    "name": "Stun Grenade",
+    "description": "Will cause strong disorientation to everyone within the blast radius (~5m) in the form of a loud ringing and a strong reduction in framerate.\nIt should be noted that the Stun Grenade ignores cover (rocks, walls) and can affect the user, making it unsafe to use for clearing buildings",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_FlashBang.png"
+  },
+  {
+    "attachments_id": 21,
+    "name": "Frag Grenade",
+    "description": "Explosive charge to fragment the outer shell of the grenade in a shaped or radial pattern",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_Grenade.png"
+  },
+  {
+    "attachments_id": 22,
+    "name": "Molotov Cocktail",
+    "description": "This best use for Molotov is an AOE Denial, for example, using the fire from the Molotov on a stair case making it difficult for the enemy to cross the choke point from the burning AOE Damage",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_Molotov.png"
+  },
+  {
+    "attachments_id": 23,
+    "name": "Smoke Grenade",
+    "description": "Temporarily removes battlefield Vision allowing for sneaky reposition or just a good ole plain escape.",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_SmokeBomb.png"
+  },
+  {
+    "attachments_id": 24,
+    "name": "Pan",
+    "description": "Ability to block incoming Bullet Shots while Equipped.\nKilling an Enemy takes 2 Body Shots OR 1 Head Shot",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_Pan.png"
+  },
+  {
+    "attachments_id": 25,
+    "name": "Crowbar",
+    "description": "N/A",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_Cowbar.png"
+  },
+  {
+    "attachments_id": 26,
+    "name": "Machete",
+    "description": "N/A",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_Machete.png"
+  },
+  {
+    "attachments_id": 27,
+    "name": "Sickle",
+    "description": "N/A",
+    "image": "http://www.playerunknownsbattlegroundsguide.com/wp-content/uploads/2017/08/Icon_weapon_Sickle.png"
+  }
+]
