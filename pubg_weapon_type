@@ -1,0 +1,30 @@
+[
+  {
+    "Weapons_id": 1,
+    "type": "Assault Rifles"
+  },
+  {
+    "Weapons_id": 2,
+    "type": "Sniper Rifles"
+  },
+  {
+    "Weapons_id": 3,
+    "type": "Shotguns"
+  },
+  {
+    "Weapons_id": 4,
+    "type": "Machine Guns"
+  },
+  {
+    "Weapons_id": 5,
+    "type": "Pistols"
+  },
+  {
+    "Weapons_id": 6,
+    "type": "Grenades"
+  },
+  {
+    "Weapons_id": 7,
+    "type": "Melee Items"
+  }
+]
