@@ -1,0 +1,2950 @@
+[
+  {
+    "id": 1,
+    "Question": "Describe someone in your family who you really admire.\nYou should say:\n\n what relation this person is to you\n what are your first memories of this person\n how often you see this person\nand explain why you really admire this person."
+  },
+  {
+    "id": 2,
+    "Question": "Describe your favourite restaurant.\nYou should say:\n\nwhere it is\nwhat it looks like from inside and outside\nwhat kinds of food they serve\nand explain why it is your favourite restaurant."
+  },
+  {
+    "id": 3,
+    "Question": "Describe a book that had a major influence on you.\nYou should say:\nwhat the name of the book and its author\nhow you first heard of the book\nwhat the main story of the book is\nand explain why it had a major influence on you."
+  },
+  {
+    "id": 4,
+    "Question": "Describe a journey you went on.\nYou should say:\n\nwhere you went\nwhy you went to this particular place\nwhat you did and who was with you\nand describe why you enjoyed your journey? Or, if not, why?"
+  },
+  {
+    "id": 5,
+    "Question": "Describe a website you often browse.\nYou should say:\n\nwhat it is\nhow long you have been using it\nwhat type of website it is\nand explain why you often browse this website."
+  },
+  {
+    "id": 6,
+    "Question": "Describe an accident you saw.\nYou should say:\n\nwhere the accident occurred\nwhere you were then\nwhen it was\nand explain how you felt about it."
+  },
+  {
+    "id": 7,
+    "Question": "Describe a childhood memory you remember well.\nYou should say:\n\nwhat it is\nwhen it happened\nhow it affected you in your life\nand explain why you still remember it."
+  },
+  {
+    "id": 8,
+    "Question": "Describe your study room.\nYou should say:\n\nhow it looks like\nhow much time you spend in this room\nhow an ideal study room should be\nand give details of your study room."
+  },
+  {
+    "id": 9,
+    "Question": "Describe the best gift/ present you have ever received.\nYou should say:\n\nwhat the gift was\nwho gave it to you\nwhen you have received it\nand explain why it is the best gift/ present you have ever received."
+  },
+  {
+    "id": 10,
+    "Question": "Describe a historic place that you know about.\nYou should say:\n\nwhat the place is\nwhere it is located\nwhat is the significance of the place\nand describe your experience of the place."
+  },
+  {
+    "id": 11,
+    "Question": "Describe a newspaper or a magazine.\nYou should say:\n\nwhat it is and why you read it\nwhat are the benefits of reading a newspaper or a magazine\nhow often you read it and what types of reports it contains\nand explain why do you like to read this newspaper or magazine."
+  },
+  {
+    "id": 12,
+    "Question": "Describe a happy event of your life.\nYou should say:\n\nwhat it was\nwhen it happened\nwhere it happened\nand explain why it was a happy event."
+  },
+  {
+    "id": 13,
+    "Question": "Describe a subject taught in your school.\nYou should Say:\n\nwhat subject it was and who taught it\nhow the teacher taught it\nwhat you learned from the class\nand explain how it helped you."
+  },
+  {
+    "id": 14,
+    "Question": "Describe a museum that you have visited.\nYou should say:\n\nwhen you visited the museum\ndescribe the museum\nhow you felt after going there\nand describe your experience of the visit."
+  },
+  {
+    "id": 15,
+    "Question": "Describe your favourite movie.\nYou should say:\n\nwhat the name of the movie/ film is\nwhat the theme of the movie/ film is\nwhy you like it so much\nand describe the story of the movie in brief."
+  },
+  {
+    "id": 16,
+    "Question": "Describe a foreign country you have never been to.\nYou should say:\n\nwhere the country is\nwhen you plan to visit this country\nwhy you would like to go there\nand explain why this is a good country to visit."
+  },
+  {
+    "id": 17,
+    "Question": "Describe a party you have attended.\nwhat type of party it was\nwhere the party was held\nwho attended the party\nand describe what you did at that party."
+  },
+  {
+    "id": 18,
+    "Question": "Describe a teacher who has influenced you in your education.\nYou should say:\n\n   •  where you met him/her\n   •  what subject s/he taught you\n   •  what was special about him/her\n\nand explain how this person/teacher has influenced you in your education so much."
+  },
+  {
+    "id": 19,
+    "Question": "Describe a friend you really like to spend time with.\nYou should say:\n\nwhen and how you met\nhow often you meet this friend\nwhat kind of personality your friend has\nand say why you like to spend time with this particular friend."
+  },
+  {
+    "id": 20,
+    "Question": "Describe a person who accidentally became your friend.\nYou should say:\n\nwho the person is\nhow you met him/her\nwhat made you two become friends\nand explain how is your friendship now."
+  },
+  {
+    "id": 21,
+    "Question": "Describe a friend from your childhood.\nYou should say:\n\nhow you met this friend\nhow long you were friends & what you did together\nwhat made you like him/ her\nand explain your friendship with this childhood friend."
+  },
+  {
+    "id": 22,
+    "Question": "A speech that somebody delivered and you heard.\nYou should say:\n\nwho gave the speech\nwhat the topic of the speech was\nwhether it impressed you or not\nand explain why you liked/disliked the speech."
+  },
+  {
+    "id": 23,
+    "Question": "Describe a hotel you have stayed in.\nYou should say:\n\nwhere the hotel was\nwhy you stayed at that particular hotel\ngive details of the hotel and the view from it\nand explain what makes the hotel special."
+  },
+  {
+    "id": 24,
+    "Question": "Describe an important letter that you have ever received.\nYou should say:\n\nwho wrote it to you\nwhat the letter was about\nhow you felt about the letter\nand explain why the letter was important to you."
+  },
+  {
+    "id": 25,
+    "Question": "Describe what you usually do in your leisure time.\nYou should say:\nwhat you do\nwho you do it with\nwhere you do it\nand explain why you like to spend your free time this way."
+  },
+  {
+    "id": 26,
+    "Question": "Describe an important decision/choice that you made in your life.\nYou should say:\n\n  what the decision/choice was\n  when you made the decision/choice\n  what the result of the decision/choice was, and whether it was good for you.\nand explain why it was an important decision or choice for you."
+  },
+  {
+    "id": 27,
+    "Question": "Describe a musical event in your country.\nYou should say\n\nwhat type of musical event it is\nwhere it takes place\nwhat kinds of music are played/performed at the event\nand explain why you or people in your country enjoy it."
+  },
+  {
+    "id": 28,
+    "Question": "Describe something special you want to buy in the future.\nYou should say:\n\n what it is\n what it is used for\n when you intend to buy it\n and explain why you want to buy it."
+  },
+  {
+    "id": 29,
+    "Question": "Describe an old person you admire.\nYou should say:\n\nwho this person is\nhow long you have known him/ her\nwhat qualities he/she has\nand explain why you admire him/ her so much."
+  },
+  {
+    "id": 30,
+    "Question": "Describe someone you know who is a good cook.\nYou should say:\n\n who this person is\n how you know him or her\nwhat kinds of food he/she cooks\nand explain why you think this person is good at cooking."
+  },
+  {
+    "id": 31,
+    "Question": "Describe a happy event of your life.\nYou should talk about:\n\nwhat  the event was\nwhen it was\nwhy it was a memorable and happy event for you\nand give some details of the event."
+  },
+  {
+    "id": 32,
+    "Question": "Describe one of your favourite photographs.\nYou should say:\n\nwhen the photograph was taken\nwhat it depicts\nwhat significant memory this photograph bears\nand explain why it is one of your favourite photographs."
+  },
+  {
+    "id": 33,
+    "Question": "Describe a positive change in your life.\nYou should say:\n\nwhat  the change was about\nwhen it happened \ndescribe details of the change happened \nand describe how it affected you later in life."
+  },
+  {
+    "id": 34,
+    "Question": "Describe a famous person you know who is from your country.\nYou should say:\n\nwho the person is\nwhy he/she is famous\nwhat makes you mention specifically him/her\nand describe what positive changes this person has brought to your country."
+  },
+  {
+    "id": 35,
+    "Question": "Describe a library that you visited.\nYou should say:\n\nwhere it was\nwhat it looked like\nwhat facilities it had\nand explain what influence it had on you and how you felt about it."
+  },
+  {
+    "id": 36,
+    "Question": "Describe a bad weather experience you have had.\nYou should say:\n\nwhat sort of bad weather it was\nwhen it happened\nwhere you were then\nand explain how it affected you."
+  },
+  {
+    "id": 37,
+    "Question": "Describe an important invention that you think has positively influenced the human race.\nYou should say:\n\nwhat the invention is\nwho invented it\nwhat changes it has brought\nand explain how it has positively influenced the human race."
+  },
+  {
+    "id": 38,
+    "Question": "Describe a foreign country you have planned to visit.\nYou should say:\n\nwhere the country is\nwhen you are planning to visit there\nwhy you have planned to go there\nand give details of your plan to visit the country."
+  },
+  {
+    "id": 39,
+    "Question": "Describe a thing that you possess and which is important to you.\nYou should say:\n\nwhat is it and who gave it to you\nwhat is the speciality of it\nwould you ever give it to someone else\nand explain why it is important to you."
+  },
+  {
+    "id": 40,
+    "Question": "Describe a shopping center you often go to.\nYou should say:\n\n where the shopping center is\n how often you go there\n what it looks like\nand explain why you often go to this shopping center."
+  },
+  {
+    "id": 41,
+    "Question": "Describe your holidays.\nYou should say:\n\nwhere you go for the holidays\nhow long they last\nwho you go with\nand talk about anything interesting happens during your holidays."
+  },
+  {
+    "id": 42,
+    "Question": "Describe your favourite animal.\nYou Should Say:\n\n    what kind of animal it is\n    describe it briefly\n    why you like this animal\nand describe why it is your favourite animal."
+  },
+  {
+    "id": 43,
+    "Question": "Describe one of your neighbours.\nYou should say:\n\n when you two became neighbours\n how often you meet him/her\n whether your neighbour is a good person\nand explain why you like/ dislike this neighbour."
+  },
+  {
+    "id": 44,
+    "Question": "Describe a child you know.\nYou should say:\n\nwho the child is\nhow you know him/her\nhow you act with the child or behave with him/her\nand explain why you like/dislike this child."
+  },
+  {
+    "id": 45,
+    "Question": "Describe a river or a sea you have visited.\nYou should say:\n\nwhere the river/sea was\nwhat things you did there\nwho was with you, and why you would recommend the place.\nand explain why you liked this particular place."
+  },
+  {
+    "id": 46,
+    "Question": "Describe a sporting event you attended.\nYou should say:\n\nwhat kind of sporting event it was\ngive details of this event\nhow often it takes place\nand explain why you consider this event to be interesting."
+  },
+  {
+    "id": 47,
+    "Question": "Describe something useful you learned from a member of your family.\nYou Should Say:\n\nwhat you learned\nhow this became useful later in your life\nwhether you taught it to someone or not\nand explain why it was important for you."
+  },
+  {
+    "id": 48,
+    "Question": "Describe a practical skill you have.\nYou should say:\n\nwhat the skill is\nhow often you use it\nwho taught it to you\nand explain how it helps you in your life."
+  },
+  {
+    "id": 49,
+    "Question": "Describe a time when you were asked to give your opinion in a questionnaire or survey.\nYou should say:\n\nwhat the questionnaire/survey was about\nwhy you were asked to give your opinion\nwhat opinion you gave\nand explain how you felt about giving your opinion in this questionnaire/survey."
+  },
+  {
+    "id": 50,
+    "Question": "Describe something healthy you enjoy doing.\nYou should say:\n\nwhat you do\nwhere you do it\nwho you do it with\nand explain why you think that doing this is healthy."
+  },
+  {
+    "id": 51,
+    "Question": "Describe a game or sport you enjoy playing.\nYou should say:\n\nwhat kind of game or sport it is\nwhom you play it with\nwhere you play it\nand explain why you enjoy playing this game or sport."
+  },
+  {
+    "id": 52,
+    "Question": "Describe a memorable childhood experience.\nYou should say:\n\nwho was with you\nwhere it took place\nwhat you did\nand explain why it is such a memorable childhood experience."
+  },
+  {
+    "id": 53,
+    "Question": "Describe a worth watching theatrical performance.\nYou should say:\n\nwhat the play/performance was about\nwhere it took place\nhow the acting and the quality of the production was\nand explain why it was worth watching."
+  },
+  {
+    "id": 54,
+    "Question": "Describe a life changing experience you have had.\nYou should say:\n\nwhere it took place & who was with you\nwhat happened\nhow it made you feel\nand explain how it changed your life."
+  },
+  {
+    "id": 55,
+    "Question": "Describe an interesting holiday destination.\nYou should say:\n\nwhat the place is and why you like it\nwhat you can see and do there\nwhat time of the year is better to be there\nand explain why this is an interesting holiday destination."
+  },
+  {
+    "id": 56,
+    "Question": "Describe a stressful day at school/ university/ work.\nYou should say:\n\nhow the day started\nhow things went wrong\nwho was around you\nand explain why it was such a stressful day."
+  },
+  {
+    "id": 57,
+    "Question": "Describe a national festival in your country.\nYou should say:\n\nwhen it takes place\nwhy it takes place\nwhat people do during this festival\nand explain why this festival is so important to you and people in your country."
+  },
+  {
+    "id": 58,
+    "Question": "Describe a traditional meal that you prepare in your country on special occasions.\nYou should say:\n\nwhen you eat that meal\nhow you prepare it\nwhat ingredients are used to prepare it\nand explain why you and people in your country enjoy it."
+  },
+  {
+    "id": 59,
+    "Question": "Describe the most useful household appliance that you have.\nYou should say:\n\nwhat it is\nhow it works or how it is used\nhow life would be like without it\nand explain why it is so important to you."
+  },
+  {
+    "id": 60,
+    "Question": "Describe a picnic spot or a recreational public spot that you visited and liked.\nYou should say:\n\nwhat is it, and where it is located\nwhat are the attractive things for the visitors there\nwhy people like it and who are the regular visitors there\nand explain how does the place or spot influence people."
+  },
+  {
+    "id": 61,
+    "Question": "Describe your favourite music band.\nYou should say:\n\nwhat music band it is\nhow do people react to the music of this band\nwhen you first heard their songs/music\nand explain why this is your favourite music band."
+  },
+  {
+    "id": 62,
+    "Question": "Describe your favourite season in your country.\nYou should say:\n\nwhat it is and when it comes\nwhat the season is like\nchanges that happen and things you like to do during this season\nand explain why this is your favourite season."
+  },
+  {
+    "id": 63,
+    "Question": "Describe your favourite shopping mall.\nYou should say:\n\nwhere it is\nhow often you go there, and what you buy from there\nwhat types of people usually go there\nand explain why this is your favourite shopping mall."
+  },
+  {
+    "id": 64,
+    "Question": "Describe an important festival in your country.\nYou should say:\n\nwhat is it\nwhat is the significance of it\nhow people celebrate this festival\nand describe why this is an important festival in your country."
+  },
+  {
+    "id": 65,
+    "Question": "Describe a city you have visited and liked.\nYou should say:\n\nwhat city it is, and where it is\nwhen you have visited this city\nwhy you liked/disliked it\nand explain what influences the city has had on you."
+  },
+  {
+    "id": 66,
+    "Question": "Describe a teacher from the past whom you remember.\nYou should say:\n\nwhat subject the teacher taught you\nhow old you were then\nwhat were some special characteristics of this teacher\nand explain why you remember this teacher."
+  },
+  {
+    "id": 67,
+    "Question": "Describe a place where you like to go to often.\nYou should say:\n\nwhere the place is\nhow you get there\nwhat it looks like\nand explain why you like this place and often go there."
+  },
+  {
+    "id": 68,
+    "Question": "Describe an interesting story you heard when you were a child.\nYou should say:\n\nwho told you the story\nwhat was the story\nwhy you think it was an interesting story\nand explain why you still remember this story."
+  },
+  {
+    "id": 69,
+    "Question": "Describe a holiday you have recently celebrated.\nYou should say:\n\nwhat holiday it was\nhow you celebrated it\nwho was with you\nand explain why celebrating this holiday was important to you."
+  },
+  {
+    "id": 70,
+    "Question": "Describe one of your relatives whom you like.\nYou should say:\n\nwho the relative is and how close you are to him/her\nwhat makes you like him/her\nwhat you usually do together\nand explain why you like this particular relative of yours."
+  },
+  {
+    "id": 71,
+    "Question": "Describe a pet that you or someone you know once had.\nYou should say:\n\nwhat kind of pet it was\nwhat kind of care it needed\nwhat you liked/disliked about this pet\nand say whether this is a popular type of pet or not."
+  },
+  {
+    "id": 72,
+    "Question": "Describe a trip you have taken recently.\nYou should say:\n\nwhere you went\nwho went with you\nwhy you went there\nand describe things you saw and did on your trip."
+  },
+  {
+    "id": 73,
+    "Question": "A product you bought and was dissatisfied about.\nYou should say:\n\n what the product was\n where you purchased it from\nwhat you did with the product\nand explain why you were not satisfied with the product."
+  },
+  {
+    "id": 74,
+    "Question": "Describe an irritating neighbour in your locality.\nYou should say:\n\nhow long s/he is your neighbour\nhow this person behaves with others\nexplain how annoying this person is.\nand explain what can be done to reduce his annoying activities."
+  },
+  {
+    "id": 75,
+    "Question": "Describe an occasion or event when you were congratulated.\nYou should say:\n\nwhat the occasion was\nwhen it was\nwho congratulated you and why\nand explain how you felt about it."
+  },
+  {
+    "id": 76,
+    "Question": "Describe something you plan/want to learn in the future.\nYou should say:\n\n what you plan/want to learn in the future\n why you want to learn it\n where and how you will learn it\nand explain how learning this might help you."
+  },
+  {
+    "id": 77,
+    "Question": "Describe an interest or hobby that you particularly enjoy.\nYou should say:\n\nwhat it is\nhow long you have been doing it\nwho you do it with\nand explain why this is important to you."
+  },
+  {
+    "id": 78,
+    "Question": "Describe the most beautiful natural scenery you have ever seen.\nYou should say:\n\nwhat it is\nwhere and when you have seen it\nwho was with you\nand explain what makes it the most beautiful natural scenery you have ever seen."
+  },
+  {
+    "id": 79,
+    "Question": "Describe a difficult thing you did well.\nYou should say:\n\n what it was\n how you did/completed it\n why (or how) it was difficult\nand explain how you felt after you did/completed it."
+  },
+  {
+    "id": 80,
+    "Question": "Describe a nation (not your own) that you know well.\nYou should say:\n\nwhich nation it is\nhow you learned about this nation\nwhy you are interested in this nation\nand explain what you like most about this nation."
+  },
+  {
+    "id": 81,
+    "Question": "Describe your first day at work or the place where you study.\nYou should say:\n\n  what kind of building it was located in\n  why it was important for you to work/study there\n  how you felt at the end of the first day\nand explain if you were pleased or disappointed with the experience."
+  },
+  {
+    "id": 82,
+    "Question": "Describe how you would organise a surprise party for one of your friends.\nYou should say:\n\nwhere you would do it\nhow you would do it\nwhat arrangements would need to be done for the surprise party\nand explain why would you arrange such a surprise party."
+  },
+  {
+    "id": 83,
+    "Question": "Describe a peaceful place that you like.\nYou should say:\n\nwhere the place is\nwhat it looks like\nhow did you come to know about this place\nand explain why you like that place."
+  },
+  {
+    "id": 84,
+    "Question": "Describe a funny incident that happened to you.\nYou should say:\n\n what it was\n how  it was funny\n who was there with you\nand explain what you remember most about it."
+  },
+  {
+    "id": 85,
+    "Question": "Describe an outdoor activity that you did for the first time.\nYou should say:\n\nwhat you did\nwhere and when you did it\nhow you felt about it later\nand say if you would recommend this outdoor activity to your friends."
+  },
+  {
+    "id": 86,
+    "Question": "Describe a new law you would implement where you live to make it a better place.\nYou should say:\n\nwhat law it will be\nwill it be easy to introduce such a new law\nif it will be popular\nand explain what the benefits of such a new law would be."
+  },
+  {
+    "id": 87,
+    "Question": "Describe a room where you stayed for a long period of time.\nYou should say:\n\nwhat room it was\nwhat you did there\nwhy you spent so much time in there\nand describe the memory you have regarding this room."
+  },
+  {
+    "id": 88,
+    "Question": "Describe a gift that you gave to someone recently.\nYou should say:\n\nwhat the gift was\nWhom you gave it to\nhow you felt about it\nand explain why you chose this gift for this person."
+  },
+  {
+    "id": 89,
+    "Question": "Describe an unusual or interesting thing you did recently.\nYou should say:\n\nwhat you did, and where you did it\nwhen you did it\nwho you did it with\nand describe why it was something unusual or interesting."
+  },
+  {
+    "id": 90,
+    "Question": "Describe a training session that you have attended.\nYou should say:\n\nwhere it was\nwhat it was about\nwhat was the most exciting and memorable part of it\nand explain what you learned from the training session."
+  },
+  {
+    "id": 91,
+    "Question": "Describe your most favourite math teacher.\nYou should say:\n\nwho is he/she\nwhy you like him/her\nhow he/she teaches\nand explain how he/she influences students to learn math."
+  },
+  {
+    "id": 92,
+    "Question": "Describe the environmental pollution in your city.\nYou should say:\n\nwhat type of pollution it is\nwhy it happened\nwhat are the effects of this pollution\nand explain how can this pollution be controlled."
+  },
+  {
+    "id": 93,
+    "Question": "Describe the traffic jam in your city.\nYou should say:\n\nhow it happens\nwhat is the situation\nwhat problems people face due to this.\nand what could be done to control this traffic jam."
+  },
+  {
+    "id": 94,
+    "Question": "Describe a TV program which has made a strong impression on you.\nYou should say:\n\nwhat kind of  TV program it was (e.g. comedy, romantic etc.)\nwhen you watched this program\nwhat the TV program was about\nand explain why this TV program made such a strong impression on you."
+  },
+  {
+    "id": 95,
+    "Question": "Describe something you own which is very important to you.\nYou should say:\n\nwhere you got it from\nhow long you have it\nwhat you use it for\nand explain why it is so important to you."
+  },
+  {
+    "id": 96,
+    "Question": "Describe the best holiday you ever had.\nYou should say:\n\nwhen and where you had it\nhow you reached there\nwhat you did, and with whom you spent the holiday\nand explain why it was so special."
+  },
+  {
+    "id": 97,
+    "Question": "Describe one of your typical days. \nYou should say:\n\nhow you start your day\nhow long you have been following this routine\nyour favourite time and activity of a day\nand explain what you do on a typical day of your life."
+  },
+  {
+    "id": 98,
+    "Question": "Describe a building/structure with architectural interest.\nYou should say:\n\nwhat is it\nwhat is the historical and architectural significance of it\nwhy you think it should be preserved\nand describe the building/structure."
+  },
+  {
+    "id": 99,
+    "Question": "Describe one of your favourite electronic media (like TV/ radio etc.)\nYou should say:\n\nwhat is it and why it's your favourite\nwhat you do with it\nwhy it is useful to you\nand describe the advantages and disadvantages of this media."
+  },
+  {
+    "id": 100,
+    "Question": "Describe your favourite subject in your academic life.\nYou should say:\n\nwhat is it\nwhy you like/liked it\nyour experience of this subject\nand explain why it is/was your favourite subject."
+  },
+  {
+    "id": 101,
+    "Question": "Describe the job/ career you have or you hope to have.\nYou should say:\n\nwhat the job is\nwhat it involves\nwhy you chose it\nand explain why you like this job or interested in it."
+  },
+  {
+    "id": 102,
+    "Question": "Describe the most important benefit of the internet.\nYou should say:\n\nwhat it is\nwhy you prefer it\nhow people/students can take advantage of this benefit\nand explain the importance of it in your country."
+  },
+  {
+    "id": 103,
+    "Question": "Describe a club you have organised or involved in.\nYou should say:\n\nwhat type of club it is\nwhat is your involvement there\nwhat you do for it\nand explain why it is important to you."
+  },
+  {
+    "id": 104,
+    "Question": "Describe a cyber cafe/Internet cafe in your locality.\nYou should say:\n\nwhat type of place it is\nwhat you and others can do there\ndescribe the internet café\nand explain why it is an important place for people in your locality."
+  },
+  {
+    "id": 105,
+    "Question": "Describe your favourite library.\nYou should say:\n\nwhat it is and where it is located\nhow it is beneficial to you and others\nwhat you do there\nand explain why this is your favourite library."
+  },
+  {
+    "id": 106,
+    "Question": "Describe one of your favourite books from your childhood.\nYou should say:\n\nwhat it is/was\nwho is the writer of the book\nwhat was the story of the book\nand explain why it is one of your favourite books from your childhood."
+  },
+  {
+    "id": 107,
+    "Question": "Describe a competition/contest you have entered or participated in.\nYou should say:\n\nwhen the competition/contest took place\nwhat you had to do\ndescribe the competition/contest\nand explain how you felt about the competition/contest."
+  },
+  {
+    "id": 108,
+    "Question": "Describe a house or an apartment you would like to live in.\nYou should say:\n\nwhat it would look like\nhow big it would be\nwhere it would be located\nand explain why you would like to live there."
+  },
+  {
+    "id": 109,
+    "Question": "Describe a garden or a public place you remember visiting.\nYou should say:\n\nwhere it is\nwhat it looks like\nwhat people do there\nand explain why you remember this particular garden or public place."
+  },
+  {
+    "id": 110,
+    "Question": "Describe a magazine which you think is interesting.\nYou should say:\n\nhow you know about this magazine\nwhere you can buy it\nwhat it contains\nand explain why you think this magazine is interesting."
+  },
+  {
+    "id": 111,
+    "Question": "Describe a birthday celebration you have attended recently.\nYou should say:\n\nwhose birthday it was\nwho attended the party\nwhere it took place\nand explain how much you enjoyed this birthday celebration."
+  },
+  {
+    "id": 112,
+    "Question": "Describe a place near water where you enjoyed visiting.\nYou should say:\n\n where this place was\n with whom you went there\n what you did there\nand explain how much you enjoyed visiting that place which was near water."
+  },
+  {
+    "id": 113,
+    "Question": "Describe a place where you would like to travel to.\nYou should say:\n\n where and when you would like to go there\n how you would go there\n ith whom you would go there\nand explain why you would like to go to this place."
+  },
+  {
+    "id": 114,
+    "Question": "Describe a small company in your hometown that you think is successful.\nYou should say:\n\nhow you know about this company\nwhat they produce or do\nwhy you think it is successful\nand explain how you think it became successful."
+  },
+  {
+    "id": 115,
+    "Question": "Describe a piece of modern technology you own.\nYou should say:\n\nwhat it is\nwhat you use it for\nhow long you have owned it\nand explain why it is important to you."
+  },
+  {
+    "id": 116,
+    "Question": "Describe your favourite item of clothing.\nYou should say:\n\n what it is & whether you have it\n what type of clothing item it is\n how expensive it is\nand explain why you like this particular clothing item."
+  },
+  {
+    "id": 117,
+    "Question": "Describe an advertisement you like.\nYou should say:\n\nwhat type of advertisement it is\nwhat product it advertises\nwhere you first saw it\nand explain why you like it and think that this advertisement is effective."
+  },
+  {
+    "id": 118,
+    "Question": "Describe a project you worked on in your school/college or office.\nYou should say:\n\n what the project was\n who else was involved in it\n how long it took to be completed\nand explain what you learned from this project."
+  },
+  {
+    "id": 119,
+    "Question": "Describe a meal you enjoyed so much.\nYou should say:\n\n when and where you have had this meal\n with whom you ate this meal\n what you ate\nand explain why you enjoyed this meal so much."
+  },
+  {
+    "id": 120,
+    "Question": "Describe a wedding ceremony you attended.\nYou should say:\n\n when and where it was\n who were getting married\n what happened at the wedding\nand explain what type of wedding ceremony it was."
+  },
+  {
+    "id": 121,
+    "Question": "Describe a TV programme you watched but did not enjoy.\nYou should say:\n\n what TV programme it was\n where and when you watched it\n what it was about\nand explain why you did not enjoy this TV programme."
+  },
+  {
+    "id": 122,
+    "Question": "Describe a time/period in your life when you were very busy.\nYou should say:\n\nwhen it was\nwhy you were so busy\nhow you managed your busy schedule\nand explain why you were so busy then."
+  },
+  {
+    "id": 123,
+    "Question": "Describe a movie or a book about the future.\nYou should say:\n\nwhat it is\nwhen you watched or read it\nhow it is related to future\nand explain how it has depicted the future."
+  },
+  {
+    "id": 124,
+    "Question": "Describe a sport which is popular in your country.\nYou should say:\n\nwhat sport it is\nif it is well developed in your country\nhow it is played\nand explain why you think it is a popular sport in your country."
+  },
+  {
+    "id": 125,
+    "Question": "Describe a cybercafe/internet cafe you often visit.\nYou should say:\n\nwhere it is\nwhat you do there and why it is important to you\nhow often you go there\nand explain why you often visit this place."
+  },
+  {
+    "id": 126,
+    "Question": "Describe something you plan to do in life besides your work and study.\nYou should say:\n\nwhat you want to do\nwhat you should do to fulfil it\nwhy you want to do it\nand explain how you would feel once you have achieved it."
+  },
+  {
+    "id": 127,
+    "Question": "Describe a place of natural beauty you would like to visit.\nYou should say:\n\nwhat type of place it is\nwhy you want to visit this place\nwhen you plan to visit there\nand explain why you think this place is worth visiting."
+  },
+  {
+    "id": 128,
+    "Question": "Describe your idea of a perfect vacation.\nYou should say:\n\nwhere the vacation would be\nwho would be with you\nwhat you would like to do there\nand explain why you think it would be a perfect vacation for you."
+  },
+  {
+    "id": 129,
+    "Question": "Describe a book based on which a film has been made.\nYou should say:\n\nwhat it is\nwhich one you prefer - the book or the film\nwhat the story of the book is\nand explain whether the story of the book is a good one or a bad one."
+  },
+  {
+    "id": 130,
+    "Question": "Describe a special occasion in your life.\nYou should say:\n\nwhere this occasion took place\nwhen it occurred\nwho was there\nand explain how you felt on this special occasion."
+  },
+  {
+    "id": 131,
+    "Question": "Describe a job that you would like to do in the future.\nYou should say:\n\nwhat type of job it is\nhow much training would be necessary to get the job\nwhat is so special about this job\nand explain why you are interested in having this job in the future."
+  },
+  {
+    "id": 132,
+    "Question": "Describe a course/training session you would like to do if you have time.\nYou should say:\n\nwhat kind of course/training session it is\nwhere you would do this course/training session\nwhat benefits this course/training session might bring\nand explain why you would do this course/training course."
+  },
+  {
+    "id": 133,
+    "Question": "Describe a change you would like to make in your life in the future.\nYou should say:\n\nwhat type of change it is\nwhen you want this change to take place\nhow easy or difficult you think this might be\nand explain why you would like to make this change in your life."
+  },
+  {
+    "id": 134,
+    "Question": "Describe a situation when you were late.\nYou should say:\n\nwhen it was\nwhy you were late\nhow you felt about being late\nand explain how you managed the situation."
+  },
+  {
+    "id": 135,
+    "Question": "Describe a film which is based on a real-life event or a real person.\nYou should say:\n\nwhat it is\nwhat the story of the movie is\nwhat you learned from it\nand explain why you think that it is a good or bad movie."
+  },
+  {
+    "id": 136,
+    "Question": "Describe your dream job when you were young.\nYou should say:\n\nwhat kind of job it is\nwhere you did learn about it\nwhat kind of training/ skills are needed for that job\n\nand explain why it was your dream job when you were young."
+  },
+  {
+    "id": 137,
+    "Question": "Describe something you have made yourself (from wood, metal, paper or other material).\nYou should say:\n\nwhat you made\nwhy you made it\nhow you have made it\nand explain how you felt about it."
+  },
+  {
+    "id": 138,
+    "Question": "Describe someone you know who made a wrong decision.\nYou should say:\n\nwho the person was\nwhat the situation was\nwhat decision he/she/they made\nand explain why you think it was such a wrong decision."
+  },
+  {
+    "id": 139,
+    "Question": "Describe a success you have had when you were young.\nYou should say:\n\nwhat it was and when it happened\nwhy you chose this area of activity\nhow easy or difficult it was to achieve\nand explain how important this success was for you."
+  },
+  {
+    "id": 140,
+    "Question": "Describe your favourite food item.\nYou should say:\n\nwhat food item it is\nhow it is made\nhow common this food item is\nand explain why it is your favourite food item."
+  },
+  {
+    "id": 141,
+    "Question": "Describe a family celebration you once attended.\nYou should say:\n\nwhere it took place\nwhy it was held\nhow you felt about it\nand explain why it was important to you and your family."
+  },
+  {
+    "id": 142,
+    "Question": "Describe a children's story that you know well.\nYou should say:\n\nwhen you first heard or read it\nwhat you particularly liked about it\nwhat the story is\nand explain why you still remember it."
+  },
+  {
+    "id": 143,
+    "Question": "Describe an interesting historic place.\nYou should say:\n\nwhat it is\nwhere it is located\nwhat you can see or do there now\nand explain why this historic place is so interesting."
+  },
+  {
+    "id": 144,
+    "Question": "Describe your favourite colour.\nYou should say:\n\nwhat it is\nwhat the significance of this colour is\nhow you started liking it\nand explain why this is your favourite colour."
+  },
+  {
+    "id": 145,
+    "Question": "Describe a useful website you have visited and liked.\nYou should say:\n\nwhat the website was\nhow you found this website\n what the website contains\nand explain why it is/was useful to you."
+  },
+  {
+    "id": 146,
+    "Question": "Describe a friend you had as a child/ teenager.\nYou should say:\n\nwhen and how you first met this friend\nwhat you liked to do together\nwhat you two had in common\nand explain why this friendship was important to you."
+  },
+  {
+    "id": 147,
+    "Question": "Describe someone who has had an important influence in your life.\nYou should say:\n\nwho the person is\nhow long you have known him/her\nwhat qualities this person has\nand explain why this person has had such an influence in your life."
+  },
+  {
+    "id": 148,
+    "Question": "Describe the most polite person you know.\nYou should say:\n\nwho this person is\nhow you met him/ her\nwhether you enjoy his/her company or not\nand explain why you think him/her to be the most polite person."
+  },
+  {
+    "id": 149,
+    "Question": "Describe an interesting place that you know which is open to the public.\nYou should say:\n\nwhat kind of place it is\nwhat kind of people usually go there\nwhy people usually go there\nand explain why you think it is an interesting place."
+  },
+  {
+    "id": 150,
+    "Question": "Describe a piece of music you like.\nYou should say:\n\nwhat it is\nwhy you like it\nhow often you listen to it\nand explain why it is a good piece of music."
+  },
+  {
+    "id": 151,
+    "Question": "Describe a situation that angered you the most.\nYou should say:\n\nwhere and when it happened\nwhat exactly made you angry\nhow you handled this situation\nand explain how you felt and did then."
+  },
+  {
+    "id": 152,
+    "Question": "Describe a fascinating job that you have heard about.\nYou should say:\n\nwhat kind of job it is\nhow you heard about this job\nhow can someone get this job\nand explain why you think it is a fascinating job."
+  },
+  {
+    "id": 153,
+    "Question": "Describe your favourite outdoor activity.\nYou should say:\n\nwhat activity it is\nwhere you do this\nhow often you do this\nand explain why this is your favourite outdoor activity."
+  },
+  {
+    "id": 154,
+    "Question": "Describe one of your long-time friends.\nYou should say:\n\nwhen you first met this friend\nwhat he/she is like\nhow you two keep in touch with each other\nand explain why this friendship is important to you."
+  },
+  {
+    "id": 155,
+    "Question": "Describe a childhood teacher whom you want to meet.\nYou should say:\n\nwho is he/she\nwhat type of teacher he/she was\nwhat you remember about him/her\nand explain why you want to meet this childhood teacher now."
+  },
+  {
+    "id": 156,
+    "Question": "Describe a food item you like to eat outside your home.\nYou should say:\n\nwhat food item it is\nwhy you like it\nhow often you eat it\nand explain why you like to eat it outside."
+  },
+  {
+    "id": 157,
+    "Question": "Describe a trip that you took by public transportation.\nYou should say:\n\n when and where you went\n what kind of transport you used\n how was your trip\nand explain why you chose to use public transportation for this trip."
+  },
+  {
+    "id": 158,
+    "Question": "Describe a story that people in your country know well.\nYou should say:\n\nwhat the story is\nwho told you the story\nwhy you remember that story\nand explain why this is a well-known story in your country."
+  },
+  {
+    "id": 159,
+    "Question": "Describe a part of your city that is changing.\nYou should say:\n\nwhich part of the city it is\nhow it is changing\nwhy it is changing\nand explain how you feel about the changes."
+  },
+  {
+    "id": 160,
+    "Question": "Describe a hobby you had in your childhood.\nYou should say:\n\nwhat hobby it was\nhow you adopted this hobby\nwhy you liked doing this\nand explain why you no longer have this hobby."
+  },
+  {
+    "id": 161,
+    "Question": "Describe a leader or a politician whom you admire.\nYou should say:\n\nwho he/she is/was\nwhat so appealing is about him/her\nwhat type of leader or politician he/she is/was\nand explain why do you admire him /her."
+  },
+  {
+    "id": 162,
+    "Question": "Describe a letter you wrote to someone.\nYou should say:\n\nwho you wrote this letter to\nwhat you wrote about\nwhen it was\nand explain why writing this letter was important to you."
+  },
+  {
+    "id": 163,
+    "Question": "Describe a street that you know well.\nYou should say:\n\nwhere the street is located\nwhat types of establishments the street has\nhow often you go there\nand explain why you visit there and how well you know this place."
+  },
+  {
+    "id": 164,
+    "Question": "Describe a visit you have made to a member of your family.\nYou should say:\n\nwhom you visited\nwhy you visited him/her\nhow long was the visit\nand explain why this visit was particularly important to you."
+  },
+  {
+    "id": 165,
+    "Question": "Describe a vehicle that you would like to buy\nYou should say:\n\nwhat type of vehicle it would be\nwhy you like it\nfor what purposes you will use this vehicle\nand explain why you want to buy this vehicle."
+  },
+  {
+    "id": 166,
+    "Question": "Describe something expensive you have purchased recently.\nYou should say:\n\nwhat it is and when you have purchased it\nwhether you saved money for that\nwhere you purchased it from\nand explain why you purchased it."
+  },
+  {
+    "id": 167,
+    "Question": "Describe a job that helps make the world a better place.\nYou should say:\n\nwhat job it is\nhow you have learned about this job\nwhy you think it is an important job\nand explain why you think this job helps make the world a better place."
+  },
+  {
+    "id": 168,
+    "Question": "Describe a piece of good news you received on the phone/mobile phone.\nYou should say:\n\nwhat the news was\nwhen you heard about it\nwho gave you the news\nand explain how you felt about this piece of good news"
+  },
+  {
+    "id": 169,
+    "Question": "Describe a school which you went to.\nYou should say:\n\nwhen you went there\nhow many people studied there\nhow long you spent there\nand explain what you liked and disliked about it."
+  },
+  {
+    "id": 170,
+    "Question": "Describe a success in your life.\nYou should say:\n\nwhat it is\nwhen you achieved it\nhow you achieved it\nand explain how important this success in your life is/was."
+  },
+  {
+    "id": 171,
+    "Question": "Describe your favourite TV channel.\nYou should say:\n\nwhat channel it is\nhow often you watch it\nwhat types of programmes it broadcasts\nand explain why this is your favourite TV channel."
+  },
+  {
+    "id": 172,
+    "Question": "Describe a good quality you admire in your friend.\nYou should say:\n\nwhat quality it is\nhow this is a good quality\nhow you feel about having this quality\nand explain why you like this quality in your friends."
+  },
+  {
+    "id": 173,
+    "Question": "Describe a conversation that affected your life.\nYou should say:\n\nwhat the conversation was about\nwho you had this conversation with\nhow long the conversation was\nand explain why you think it had affected your life."
+  },
+  {
+    "id": 174,
+    "Question": "Describe an activity you like doing.\nYou should say:\n\nwhat activity it is\nwho you do it with\nhow you do it and how often\nand explain why you enjoy doing this activity."
+  },
+  {
+    "id": 175,
+    "Question": "Describe a book you want to read in the future.\nYou should say:\n\nwhat book it is\nwhen you plan to read it\nif you would like to read other books by the same author\nand explain why you want to read this book."
+  },
+  {
+    "id": 176,
+    "Question": "Describe a food menu/dish you know how to cook.\nYou should say:\n\nwhat menu/dish it is\nwhat ingredients are required to cook it\nwhere or how you learned to cook it\nand explain how you cook this food menu/dish."
+  },
+  {
+    "id": 177,
+    "Question": "Describe something you often do in the evening.\nYou should say:\n\nwhat you do\nwhy you do it\nwho you usually do it with\nand explain why you enjoy doing it often."
+  },
+  {
+    "id": 178,
+    "Question": "Describe your favourite place to eat out.\nYou should say:\n\nwhere it is & what kinds of food are served there\nwhat the décor is like\nand say what kind of people you think would enjoy dining there\nand explain why this is your favourite place to eat out."
+  },
+  {
+    "id": 179,
+    "Question": "Describe a film/movie you have never watched but would like to watch.\nYou should say:\n\nwhat film/movie it is\nwhat it is about\nwhat makes it a worth-watching film/movie\nand explain why you would like to watch this film/movie."
+  },
+  {
+    "id": 180,
+    "Question": "Describe a plant, vegetable or crop that you are familiar with.\nYou should say:\n\nwhat it is and where it grows\nwhy it is important\nwhat you like or dislike about it\nand explain why this is important for your country."
+  },
+  {
+    "id": 181,
+    "Question": "Describe people you know who you believe are good parents.\nYou should say:\n\nwho they are\nhow you met them\nwhat they do\nand explain why you think they are very good parents."
+  },
+  {
+    "id": 182,
+    "Question": "Describe the place where you grew up in your childhood.\nYou should say:\n\ndescribe the town/city where you grew up\nwhether you still live there\nif you think the place has changed much since you were young\nand explain if this was a good place to grow up as a child."
+  },
+  {
+    "id": 183,
+    "Question": "Describe an adventurous person whom you know.\nYou should say:\n\nwho this person is\nhow you know him/her\nwhat he/she does\nand explain why you think he/she is an adventurous person."
+  },
+  {
+    "id": 184,
+    "Question": "Describe a book you have recently read.\nYou should say:\n\nwhat the book is\nwho wrote the book\nwhat the book is about\nand explain how much you enjoyed reading this book."
+  },
+  {
+    "id": 185,
+    "Question": "Describe an old object which your family has kept for a long time.\nYou should say:\n\nwhat the object is\nwhere your family got it from\nhow long it has been in your family\nand explain why your family has kept this old object for a long time."
+  },
+  {
+    "id": 186,
+    "Question": "Describe an occasion when someone visited your home.\nYou should say:\n\nwho the person was\nwhat the occasion was\nwhat you did for the occasion and the visitor\nand explain how you felt about this."
+  },
+  {
+    "id": 187,
+    "Question": "Describe an interesting conversation you had with someone you did not know.\nYou should say:\n\nwho the person was\nwhere the conversation took place\nwhat you talked about\nand explain whether the conversation was interesting or not."
+  },
+  {
+    "id": 188,
+    "Question": "Describe a plant grown in your country.\nYou should say:\n\nwhat the plant is\nwhere it is grown\nwhy you like or dislike it\nand explain why this is an important plant."
+  },
+  {
+    "id": 189,
+    "Question": "Describe a piece of furniture you own or you have at your home.\nYou should say:\n\nwhat it is\nwhere you bought it from\nhow useful it is\nand explain why you like to use this piece of furniture."
+  },
+  {
+    "id": 190,
+    "Question": "Describe an important event in global history.\nYou should say:\n\nwhen it happened\nwhat the event was\nwhat effect you think this event had\n and explain why it is an important event in history."
+  },
+  {
+    "id": 191,
+    "Question": "Describe an aspect of a foreign culture you like.\nYou should say:\n\nwhat it is\nhow you know about it\nwhat differences there are between that aspect of culture and your own\nand explain why you like that aspect of that foreign culture."
+  },
+  {
+    "id": 192,
+    "Question": "Describe a problem that affects the environment in the area where you live.\nYou should say:\n\nwhat the problem is\nwhat causes it\nwhat people feel about the problem\nand explain what you think could be done to solve it."
+  },
+  {
+    "id": 193,
+    "Question": "Describe a piece of equipment or tool you often use at home.\nYou should say:\n\nwhat is it\nhow you use it\nwhy it is important to you\nand explain how this piece of equipment works."
+  },
+  {
+    "id": 194,
+    "Question": "Describe a wild animal from your country.\nYou should say:\n\n what the animal is\n what it looks like\n where it lives\nand explain how you feel about this animal."
+  },
+  {
+    "id": 195,
+    "Question": "Describe a building or construction you saw and which impressed you.\nYou should say:\n\nwhere it was\nwhat is looked like\nwhen you saw it\nand explain why it impressed you."
+  },
+  {
+    "id": 196,
+    "Question": "Describe a special toy you had in your childhood.\nYou should say:\n\nwhat it was\nwho gave it to you\nwhat it looked like\nand explain why it was a special toy for you."
+  },
+  {
+    "id": 197,
+    "Question": "Describe a famous person you would like to meet.\nYou should say:\n\nwho this person is\nwhy you want to meet this person\nwhy this person is famous\nand explain what you would do if you meet him/her."
+  },
+  {
+    "id": 198,
+    "Question": "Describe an interesting news story that you watched on TV.\nYou should say:\n\nwhat the news story was\nwhich channel showed it\nwhen you watched it\nand explain why the news story was interesting."
+  },
+  {
+    "id": 199,
+    "Question": "Describe a teacher who has greatly influenced your academic life or studies.\nYou should say:\n\nwho the teacher is/was\nwhat subject he/she taught\nhow he/she taught the students\nand explain why this teacher has influenced your academic life/studies so much."
+  },
+  {
+    "id": 200,
+    "Question": "Describe something you want to do in the future.\nYou should say:\n\nwhat is it\nwhen you want to do it\nhow you want to achieve it\nand explain why you want to do it."
+  },
+  {
+    "id": 201,
+    "Question": "Describe an important email you have received.\nYou should say:\n\nwho sent it to you\nwhen you received it\nwhat was the email about\nand explain why this email was important to you."
+  },
+  {
+    "id": 202,
+    "Question": "Describe an important message you have ever received.\nYou should say:\n\nwhen you received this message\nwho sent it to you\nwhat was the content of the message\nand explain why it was so important to you."
+  },
+  {
+    "id": 203,
+    "Question": "Describe an interesting advertisement you watched on TV.\nYou should say:\n\nwhat the advertisement was\nwhen you watched it\nwhat it was advertising\nand explain why it was so interesting."
+  },
+  {
+    "id": 204,
+    "Question": "Describe a bank/financial institute you have visited.\nYou should say:\n\nwhen you visited it\nwhy you went there\nwhat you did there\nand explain your experience of the visit."
+  },
+  {
+    "id": 205,
+    "Question": "Describe an important lesson you learned in primary school.\nYou should say:\n\nwhat is it\nwhen you learned it\nhow you learned it\nand explain how it became important in your future life."
+  },
+  {
+    "id": 206,
+    "Question": "Describe something special that you saved money to buy.\nYou should say:\n\nwhat it was\nwhy you bought it\nhow long you saved money to buy it\nand explain why it was important for you to buy it."
+  },
+  {
+    "id": 207,
+    "Question": "Describe something that you purchased but had not used much.\nYou should say:\n\nwhat it was\nwhere you bought it from\nwhy you bought it\nand explain why you didn’t use it that much."
+  },
+  {
+    "id": 208,
+    "Question": "Describe a greeting card you have received that was very special to you.\nYou should say:\n\nwho gave it to you\non what occasion you received it\nwhat message/text was written on it\nand explain why it was so special to you."
+  },
+  {
+    "id": 209,
+    "Question": "Describe a true story that is very popular among people in your country.\nYou should say:\n\nwhat the story is about\nwhy it is popular\nwhen you first heard the story\nand explain how you feel about this story and its popularity."
+  },
+  {
+    "id": 210,
+    "Question": "Describe an interesting animal you know about.\nYou should say:\n\nwhat animal it is\nhow you know about this animal\nwhere they are found\nand describe what facts about this animal do you find most interesting."
+  },
+  {
+    "id": 211,
+    "Question": "Describe any public event (e.g. carnival, sports event, religious event, etc.) that you attended.\nYou should say:\n\nwhat the event was\nwhen you attended it\nwith whom you went there\nand describe what you did at the event."
+  },
+  {
+    "id": 212,
+    "Question": "Describe a game or sport you have participated in.\nYou should say:\n\nwhat game or sport it is\nwhen you participated in it\nhow many people watched it\nand explain whether you enjoyed it or not."
+  },
+  {
+    "id": 213,
+    "Question": "Describe a thing that has become a fashion or a matter of status nowadays.\nYou should say:\n\nwhat it is\nwhy people want or use it\nwhether you have it\nand explain what influences it has on people nowadays."
+  },
+  {
+    "id": 214,
+    "Question": "Describe an annoying neighbour who lives in your community.\nYou should say:\n\nwho this neighbour is\nwhy you think he/she is annoying\nhow he/she behaves with others\nand explain what can be done to help him/her with his/her annoying behaviour."
+  },
+  {
+    "id": 215,
+    "Question": "Describe a law which you like.\nYou should say:\n\nwhat the law is\nhow this law is useful\nhow you feel about this law\nand explain why you like this law."
+  },
+  {
+    "id": 216,
+    "Question": "Describe a historical event that you find interesting.\nYou should say:\n\nwhen the event took place\nwhat historic connection it has\nhow the event has impacted history\nand explain why you find this event interesting."
+  },
+  {
+    "id": 217,
+    "Question": "Describe a group or a club you have ever joined.\nYou should say:\n\n what the group/club is/was\n when you joined the group\n where the group met\nand explain why you enjoyed being part of the group."
+  },
+  {
+    "id": 218,
+    "Question": "Describe a TV or radio presenter you know about.\nYou should say:\n\nwho he/she is\nwhat programme he/she presents\nhow he/she presents the programme\nand explain why you like/dislike him/her."
+  },
+  {
+    "id": 219,
+    "Question": "Describe an adventurous thing you did when you were a child.\nYou should say:\n\nwhat you did and how old you were then\nwhy you did it\nhow people reacted to it\nand explain how you feel about this now."
+  },
+  {
+    "id": 220,
+    "Question": "Describe a piece of advice you gave to someone.\nYou should say:\n\nwhat it was about\nwhom you advised\nwhen it was\nand explain how you felt about it."
+  },
+  {
+    "id": 221,
+    "Question": "Describe a photograph that you remember well.\nYou should say:\n\n  when it was take\n  who took it\n  what is in the photograph\nand explain why you remember this photograph so well."
+  },
+  {
+    "id": 222,
+    "Question": "Describe a book you are currently reading.\nYou should say:\n\n what the book is about\n when you have started reading it\n how far you have read\nand explain what you like about the book."
+  },
+  {
+    "id": 223,
+    "Question": "Describe a meal you usually eat on a special occasion.\nYou should say:\n\nwhat type of meal it is\nwhen and where you usually eat it\nhow it is prepared\nand explain why this meal is important for the occasion."
+  },
+  {
+    "id": 224,
+    "Question": "Describe something you like doing during the winter.\nYou should say:\n\nwhat it is\nwhen and where you usually do it\nwho you usually have with you\nand explain why you do this activity during the winter."
+  },
+  {
+    "id": 225,
+    "Question": "Describe something that makes you excited and happy.\nYou should say:\n\nwhat it is\nhow you feel excited and happy about it\nhow often you do it\nand explain why this makes you excited and happy."
+  },
+  {
+    "id": 226,
+    "Question": "Describe a hobby that one of your friends has.\nYou should say:\n\nwhat hobby it is\nwhich friend of yours has this hobby\nwhat this friend does for it\nand explain whether this is a good or bad hobby in your opinion."
+  },
+  {
+    "id": 227,
+    "Question": "Describe your favourite song or piece of music.\nYou should say:\n\nwhat kind of music it is\nwhere you usually listen to it\nwhat kind of mood this music puts you in\nand explain why this is your favourite song or piece of music."
+  },
+  {
+    "id": 228,
+    "Question": "Describe your favourite news source.\nYou should say:\n\nwhat it is and why you use this source for news\nhow often you use this news source\nwhat other sources you use for getting news\nand explain why you use this source for news."
+  },
+  {
+    "id": 229,
+    "Question": "Describe a musical instrument you would like to be able to play.\nYou should say:\n\nwhat type of musical instrument it is\nwhat it sounds and looks like\nwhat kinds of people/musicians it is popular with\nand explain why you want to be able to play this musical instrument."
+  },
+  {
+    "id": 230,
+    "Question": "Describe an important decision that you might have to make in the future.\nYou should say:\n\nwhat the decision will be about\nhow you will make your decision\nwhat the results of this decision are likely to be\nand explain why it will be an important decision."
+  },
+  {
+    "id": 231,
+    "Question": "Describe a person with whom you like to work or study.\nYou should say:\n\n who this person is\n where you work/study together\n what you often do together\nand explain why you like so much to work/study with him/her."
+  },
+  {
+    "id": 232,
+    "Question": "Describe a kind of book you enjoy reading.\nYou should say:\n\n what kind/genre of books you like to read\n what these books are about\n what effects these books have brought on you\nand explain why you enjoy reading this kind of book."
+  },
+  {
+    "id": 233,
+    "Question": "Describe a skill you want to learn.\nYou should say:\n\nwhat skill it is\nwhy you think having this skill is important\nhow you are going to learn it\nand explain why you want to learn this skill."
+  },
+  {
+    "id": 234,
+    "Question": "Describe a successful businessman you know.\nYou should say:\n\nwho this person is\nhow you know this person\nhow he/she has become so successful\nand explain why you consider him/her as a successful business person."
+  },
+  {
+    "id": 235,
+    "Question": "Describe a poisonous plant you know about.\nYou should say:\n\nwhat plant it is\nwhere this plant is found\nadvantages and disadvantages of this plant\nand explain how you know about this plant."
+  },
+  {
+    "id": 236,
+    "Question": "Describe a decision that took you a long time to make.\nYou should say:\n\nwhat decision it was\nwhen you made this decision\nwhy it took you so long\nand explain how you felt after you made the decision."
+  },
+  {
+    "id": 237,
+    "Question": "Describe a holiday or vacation that you spent with a group of other people.\nYou should say:\n\n when you have had this vacation\n where you went\nwhat you did\nand explain how you felt about having this vacation with those people."
+  },
+  {
+    "id": 238,
+    "Question": "Describe a painting or artwork you would like to have at your home.\nYou should say:\n\n what painting or artwork it is\n how you know about it\n how much it would cost you\nand explain why you want to have it at your home."
+  },
+  {
+    "id": 239,
+    "Question": "Describe your favourite way to communicate someone.\nYou should say:\n\nwhat way it is\nhow you use it to communicate with others\nfor how long you have been using this method\nand explain why you prefer to use this way to communicate with others."
+  },
+  {
+    "id": 240,
+    "Question": "Describe an animal that lives in the water.\nYou should say:\n\n what animal it is\n how you know about this animal\n whether it is a common animal in your country\nand describe this animal."
+  },
+  {
+    "id": 241,
+    "Question": "Describe what type of dress you like to wear on special occasions\nYou should say:\n\nwhat type of dress it as\non what occasions you wear this type of dress\nwhether other people wear a similar dress on special occasions\nand explain why you like to wear this type of dress on special occasions."
+  },
+  {
+    "id": 242,
+    "Question": "Describe a character from a movie or a TV serial.\nYou should say:\n\n what character it is and who acted in it\n what part this character has had in the movie/TV serial\n how he/she performed\nand explain why you admire this character."
+  },
+  {
+    "id": 243,
+    "Question": "Describe the happiest person you know.\nYou should say:\n\nwho this person is\nhow you know this person\nhow he/she shows happiness\nand explain why you consider him/her to be the happiest person you know."
+  },
+  {
+    "id": 244,
+    "Question": "Describe a book you have at your home.\nYou should say:\n\nwhat book it is\nwhat the topic/story of this book is\nfrom where you got the book\nand explain why you have kept that book at your home."
+  },
+  {
+    "id": 245,
+    "Question": "Describe something you or someone you know collects.\nYou should say:\n\nwhat it is\nhow long you or this person collects it\nhow the collection is stored\nand explain why you or that person enjoys collecting it."
+  },
+  {
+    "id": 246,
+    "Question": "Describe a hobby that someone in your family has.\nYou should say:\n\nwhat hobby it is\nwho has this hobby\nhow he/she maintains this hobby\nand say if you would enjoy doing the same thing or not."
+  },
+  {
+    "id": 247,
+    "Question": "Describe a conversation you had in the past which is very important to you.\nYou should say:\n\nwith whom you had this conversation\nwhat type of conversation it was\nwhat you learned from it\nand explain why you consider it to be an important conversation you had."
+  },
+  {
+    "id": 248,
+    "Question": "Describe something that you have always wanted to buy.\nYou should say:\n\nwhat it is\nfor how long you have been wanting it\nwhy you want to buy it\nand explain what you would do after you buy it."
+  },
+  {
+    "id": 249,
+    "Question": "Describe an article you have recently read in a magazine or a newspaper.\nYou should say:\n\nwhat type of article it was\nwhen you read it\nwhere you read it from\nand explain how you felt after reading the article."
+  },
+  {
+    "id": 250,
+    "Question": "Describe an educational trip you went on in your school days.\nYou should say:\n\nwhere the trip was\nwhat you did and what you learned\nwho went with you\nand explain why it was important to you."
+  },
+  {
+    "id": 251,
+    "Question": "Describe an excursion or education tour you took part in.\nYou should say:\n\nwhen it was\nwhat you did\nwhat you learned from it\nand explain why you liked or disliked it."
+  },
+  {
+    "id": 252,
+    "Question": "Describe a naughty thing you did when you were a child.\nYou should say:\n\nhow old you were then\nwhat you did\nwhy you did it\nand explain how you feel about it now."
+  },
+  {
+    "id": 253,
+    "Question": "Describe a special meal that you remember having with others.\nYou should say:\n\n where you had the meal\n who you were with\n when you had it\nand explain why it was a special meal for you."
+  },
+  {
+    "id": 254,
+    "Question": "Describe a feature of your personal character that you find important.\nYou should say:\n\nwhat it is\nwhether it is a common characteristic\nhow it is helpful to you\nand explain why it is important to you."
+  },
+  {
+    "id": 255,
+    "Question": "Describe a foreign product you would like to buy.\nYou should say:\n\n what product it is\n why you want to buy it\n whether it has any special feature\nand say why you want to buy it."
+  },
+  {
+    "id": 256,
+    "Question": "Describe a journey that took longer than you expected.\nYou should say:\n\nwhen you took that journey\nwhere you went\nhow you went there\nand explain why it took longer than expected."
+  },
+  {
+    "id": 257,
+    "Question": "Describe an electronic device you want to buy.\nYou should say:\n\nwhat device it is\nwhen you are planning to buy it\nhow much it will probably cost you\nand explain why you want to buy this electronic device."
+  },
+  {
+    "id": 258,
+    "Question": "Describe one of your classmates whom you remember.\nYou should say:\n\nwho is/was this classmate\nwhat class you read together\nwhat you two do/did together\nand explain why you remember him/her."
+  },
+  {
+    "id": 259,
+    "Question": "Describe something which is produced in your country (e.g. food, a handicraft item, or a car).\nYou should say:\n\nwhat it is\nwhat it is used for\nhow it is made/produced\nand explain why your country produces it."
+  },
+  {
+    "id": 260,
+    "Question": "Describe a relaxing day you had once after a period of hard work or study.\nYou should say:\n\nwhen you had this relaxing day\nwhere you spent this day\nwho you spent it with and what you did\nand explain why it was relaxing."
+  },
+  {
+    "id": 261,
+    "Question": "Describe a celebration when a number of guests came to your place.\nYou should say:\n\nwhen and what occasion it was\nwhat you did\nwho came to celebrate\nand give details of the celebration."
+  },
+  {
+    "id": 262,
+    "Question": "Describe an outdoor meal or a picnic that you have had.\nYou should say:\n\nwhere it took place\nwhat the occasion was\nwhat you ate and drank there\nand explain whether you enjoyed it or not."
+  },
+  {
+    "id": 263,
+    "Question": "Describe a skill which is important to you.\nYou should say:\n\nwhat skill it is\nhow difficult it is to learn\nhow can one learn it\nand explain why this skill is important to you."
+  },
+  {
+    "id": 264,
+    "Question": "Describe an environmental problem that the world is facing.\nYou should say:\n\nwhat environmental problem it is\nwhy it is happening\nwhat harmful effects it has\nand explain what can be done to prevent this environmental problem."
+  },
+  {
+    "id": 265,
+    "Question": "Describe a journey to a special place that you would like to make\nYou should say:\n\nwhere the place is\nwhat type of transport you would choose\nwhat the purpose of your journey is\nand give details of your plan for the journey."
+  },
+  {
+    "id": 266,
+    "Question": "Describe a time when someone helped you.\nYou should say:\n\nwhen it was\nwho helped you\nwhy you think this person helped you\nand explain how you felt about it."
+  },
+  {
+    "id": 267,
+    "Question": "Describe your favourite actor or actress.\nYou should say:\n\nwho this actor/actress is\nwhat type of actor/actress he or she is\nwhat are some programmes/movies he or she has acted in\nand describe why he/she is your favourite actor/actress."
+  },
+  {
+    "id": 268,
+    "Question": "Describe a course you took in your college or university.\nYou should say:\n\nwhat course it was\nwhen you took it\nwhat you learned from this course\nand explain why you took this course."
+  },
+  {
+    "id": 269,
+    "Question": "Describe a study tour or excursion you have enjoyed.\nYou should say:\n\nwhen it was\nwhere you went\nhow you reached there\nand explain why you enjoyed it."
+  },
+  {
+    "id": 270,
+    "Question": "Describe a school where you studied when you were a child.\nYou should say:\n\nwhere the school was\nwhen you went there\nwhat the school and the teachers were like\nand explain whether you enjoyed your time there."
+  },
+  {
+    "id": 271,
+    "Question": "Describe a house that you liked when you visited it for the first time.\nYou should say:\n\nwhere this house was\nwhen and why you went to visit it\nhow it looked like\nand explain why you liked this house."
+  },
+  {
+    "id": 272,
+    "Question": "Describe a song that you like.\nYou should say:\n\nwhat song it is\nwhat song it is\nwhat types of people listen to this song\nand explain why you like this song so much."
+  },
+  {
+    "id": 273,
+    "Question": "Describe a family business you know about.\nYou should say:\n\nwhat type of business it is\nwho owns this business\nwhat activities are involved in this business\nand explain your idea of this business."
+  },
+  {
+    "id": 274,
+    "Question": "Describe an important letter you wrote to someone.\nYou should say:\n\n when you wrote this letter\n whom you wrote it to\n what it was about\nand explain why it was an important letter."
+  },
+  {
+    "id": 275,
+    "Question": "Describe a foreign musical festival that you enjoyed.\nYou should say:\n\nwhen you watched it\nwhere it was held\nwho was there with you\nand explain why you enjoyed this foreign music festival."
+  },
+  {
+    "id": 276,
+    "Question": "Describe a form of exercise you used to do but no longer do now.\nYou should say:\n\nwhat sort of exercise it was\nhow long you did it\nwhy you stopped doing it\nand say if you would like to do it again or not."
+  },
+  {
+    "id": 277,
+    "Question": "Describe a way to relax that you find effective.\nYou should say:\n\n what way of relaxing it is\n where and when you usually do this\n who you usually do it with\nand explain why this is so relaxing for you."
+  },
+  {
+    "id": 278,
+    "Question": "Describe a friend who had to make a difficult decision.\nYou should say:\n\n what the decision was about\n why your friend had to make this difficult decision\n what your friend finally decided\nand explain why you consider it a difficult decision to make."
+  },
+  {
+    "id": 279,
+    "Question": "Describe your favourite news source.\nYou should say:\n\nhow often you use it\nwhat types of news you are interested in\nwhat other sources you use\nand explain why this is your favourite news source."
+  },
+  {
+    "id": 280,
+    "Question": "Describe how you met your best friend.\nYou should say:\n\nwho is he/she\nhow and where you two met\nwhat things you do/ did together\nand give details on how you two met."
+  },
+  {
+    "id": 281,
+    "Question": "Describe a famous food from your hometown or country.\nYou should say:\n\nwhat it is\nwhat it tastes like\nhow it is prepared\nand explain why this is famous food."
+  },
+  {
+    "id": 282,
+    "Question": "Describe a piece of exciting news that you heard (either through the phone or e-mail).\nYou should say:\n\nwhat is was about\nwho gave this piece of good news\nwhen you got this piece of news\nand explain why this was a piece of exciting news to you."
+  },
+  {
+    "id": 283,
+    "Question": "Describe a new sport or hobby you would like to take up.\nYou should say:\n\nwhat it is\nhow you would start it\nwhy you have not started it yet\nand explain why you want to start it."
+  },
+  {
+    "id": 284,
+    "Question": "Describe something you often do when you are not working or studying.\nYou should say:\n\nwhat you do\nwhere you do it\nwho you do it with\nand explain why you do it."
+  },
+  {
+    "id": 285,
+    "Question": "Describe your favourite part of a typical day.\nYou should say:\n\nwhen it is\nwhat you do then\nhow long this part of a day lasts\nand explain why this is your favourite part of a typical day."
+  },
+  {
+    "id": 286,
+    "Question": "Describe a good neighbour of yours.\nYou should say:\n\nwho this person is\nhow long he/she is your neighbour\nwhat sort of person this neighbour is\nand explain why you think him/her to be a good neighbour."
+  },
+  {
+    "id": 287,
+    "Question": "Describe an important recent change in your life.\nYou should say:\n\nwhat type of change it is\nwhat the reason for this change is/was\nwhether it is a positive or negative change for you\nand explain what happened after this change."
+  },
+  {
+    "id": 288,
+    "Question": "Describe a song that has a special meaning to you.\nYou should say:\n\nwhat it is about\nwho the singer of this song is\nwhen you first heard it\nand explain why this song has a special meaning to you."
+  },
+  {
+    "id": 289,
+    "Question": "Describe an event that changed your life for the better.\nYou should say:\n\nwhat the event was\nwhat exactly has happened\nwhen it has happened\nand explain how it has changed your life for the better."
+  },
+  {
+    "id": 290,
+    "Question": "Describe a family photograph you remember.\nYou should say:\n\nwhen it was taken\nwho was/were in the picture\nwhat it reminds you\nand explain why you remember this family photograph."
+  },
+  {
+    "id": 291,
+    "Question": "Describe a neighbour who helps other people.\nYou should say:\n\nwho is he/she\nhow you know him/her\nhow often you meet him/her\nand explain how this neighbour helps others."
+  },
+  {
+    "id": 292,
+    "Question": "Describe an interesting person you have met recently.\nYou should say:\n\nwho this person is\nwhat he/she does\nhow you met him/ her\nand explain why this person is so interesting."
+  },
+  {
+    "id": 293,
+    "Question": "Describe a historical figure whom you know about.\nYou should say:\n\nwho he/she is/was\nhow he/she is famous\nwhere and when he/she lived\nand explain his/her contribution to the world."
+  },
+  {
+    "id": 294,
+    "Question": "Describe a long-distance journey you have been on.\nYou should say:\n\nwhen you took this journey\nwhere you went\nwhat kind of transportation you used\nand explain what happened on this journey."
+  },
+  {
+    "id": 295,
+    "Question": "Describe a place where your parents took you to when you were young.\nYou should say:\n\nwhere your parents took you to\nhow old you were then\nhow you went there\nand explain whether you enjoyed it or not."
+  },
+  {
+    "id": 296,
+    "Question": "Describe an important day in your life.\nYou should say:\n\nwhen was it\nwhat happened on that day\nif it was a positive or negative day for you\nand explain why this was an important day for you."
+  },
+  {
+    "id": 297,
+    "Question": "Describe one of your own birthdays you remember well.\nYou should say:\n\nhow old you were then\nhow you celebrated this birthday\nwhat you did\nand explain why you remember this birthday so well."
+  },
+  {
+    "id": 298,
+    "Question": "Describe a children's park you have visited recently.\nYou should say:\n\nwhen you went there\nwho was with you\nwhat you did there\nand explain why you went to visit this children's park."
+  },
+  {
+    "id": 299,
+    "Question": "Describe an idea you have for improving something at work or college.\nYou should say:\n\nwhat is it about\nwhere you have got the idea\nhow difficult it would be to implement the idea\nand explain why you think this would improve the workplace or college."
+  },
+  {
+    "id": 300,
+    "Question": "Describe a foreign food you would like to try.\nYou should say:\n\nwhat it is\nhow you know about this food\nwhere it is mostly prepared and consumed\nand explain why you want to try this foreign food."
+  },
+  {
+    "id": 301,
+    "Question": "Describe a song that you remember from your childhood.\nYou should say:\n\nwhat song it is\nwhen you heard it\nwho sang this song to you\nand explain why you still remember this song."
+  },
+  {
+    "id": 302,
+    "Question": "Describe a friend who has played an important part in your life.\nYou should say:\n\nwho was he/she\nhow you two met\nhow long you two have known each other\nand explain what important part he/she has played in your life."
+  },
+  {
+    "id": 303,
+    "Question": "Describe a short term goal or ambition you have.\nYou should say:\n\nwhat it is\nfor how long you have this goal\nhow difficult it would be to have it fulfilled\nand explain what you need to do to achieve it."
+  },
+  {
+    "id": 304,
+    "Question": "Describe a workplace you have worked in or know about.\nYou should say:\n\nwhat it looks like\nwho worked there\nhow you know about it\nand explain if this is a good working environment or not."
+  },
+  {
+    "id": 305,
+    "Question": "Describe one of your typical days when you are not working or studying.\nYou should say:\n\nwhat you usually do\nhow you enjoy it\nhow it is different from other days\nand explain if you like it or not."
+  },
+  {
+    "id": 306,
+    "Question": "Describe someone you know who has a lot of responsibilities.\nYou should say:\n\nWho this person is\nWhat he/she does\nWhat kind of responsibilities that person has\nand explain how well that person deals with his or her responsibilities."
+  },
+  {
+    "id": 307,
+    "Question": "Describe a tourist destination in your town or country.\nYou should say:\n\nwhat it is\nwhat kinds of people visit there\nwhat is the significance of this place\nand say what are the main attractions of this place."
+  },
+  {
+    "id": 308,
+    "Question": "Describe something you use for your work or studies.\nYou should say:\n\nwhat it is\nhow you use it\nhow often you use it\nand say if you would be able to do your work or studies without this thing."
+  },
+  {
+    "id": 309,
+    "Question": "Describe a common transportation system for commuters in your city.\nYou should say:\n\nwhat kind of transport it is\nwhat types of people use this transport\nhow convenient it is\nand explain whether you like it or not."
+  },
+  {
+    "id": 310,
+    "Question": "Describe a food item that you often eat outside your home.\nYou should say:\n\nwhat is it\nhow often you eat this food\nwhere it is available\nand explain why you often eat it outside your home."
+  },
+  {
+    "id": 311,
+    "Question": "Describe a common bird in your country.\nYou should say:\n\nwhat bird it is\nhow it looks like\nwhere you can see it\nand explain some common characteristics of this bird."
+  },
+  {
+    "id": 312,
+    "Question": "Describe a game or sport you used to play in your childhood.\nYou should say:\n\nwhat type of game or sport it was\nhow you played it\nwho you played it with\nand explain why you do not play it anymore."
+  },
+  {
+    "id": 313,
+    "Question": "Describe a good quality you admire.\nYou should say:\n\nwhat quality it is\nhow this quality helps us\nhow difficult it is to acquire this quality\nand explain why you admire this quality so much."
+  },
+  {
+    "id": 314,
+    "Question": "Describe a classroom where you study or have studied in.\nYou should say:\n\nwhat part of the school or college it is/was in\nwhat it looks/looked like\nwhat things are/were in it\nand say if you think people who study there like/liked it or not."
+  },
+  {
+    "id": 315,
+    "Question": "Describe a radio program that you listened recently.\nYou should say:\n\nwhat it was about\nwhen and where you listened to it\nhow it was presented\nand explain if it was interesting or not."
+  },
+  {
+    "id": 316,
+    "Question": "Describe a piece of furniture you have at home.\nYou should say:\n\nwhat furniture it is\nfor how long you have it\nhow you use it\nand explain why you have it at your home."
+  },
+  {
+    "id": 317,
+    "Question": "Describe a challenging job/profession you know about.\nYou should say:\n\nwhat job/profession it is\nwhat qualification it requires\nwhat the responsibilities of this job are\nand explain why you think this job or profession is challenging."
+  },
+  {
+    "id": 318,
+    "Question": "Describe a factory or office you have visited.\nYou should say:\n\nwhat type of office/factory it is\nwhat kinds of people work there\nwhy you went there\nand explain what this done or produced in this office/factory."
+  },
+  {
+    "id": 319,
+    "Question": "Describe a bus or train station in your city.\nYou should say:\n\nwhere it is\nwhat types of transportation are available there\nhow you can go there\nand explain why people use this bus or train station."
+  },
+  {
+    "id": 320,
+    "Question": "Describe a playground or park where you once played or still play.\nYou should say:\n\nwhere it is\nwhen you played there and if you still play there\nwho you played with and what you played\nand explain whether you like this place or not."
+  },
+  {
+    "id": 321,
+    "Question": "Describe an amusement park or theme park you went to.\nYou should say:\n\nwhere it is\nwhen you went there\nwhy you went there\nand explain what you did there."
+  },
+  {
+    "id": 322,
+    "Question": "Describe a famous scientist or artist in your country.\nYou should say:\n\nwho this person is\nwhat he/she does\nhow you know this person\nand explain how much famous he/she is."
+  },
+  {
+    "id": 323,
+    "Question": "Describe a seminar or rally in which you have participated in.\nYou should say:\n\nwhat it was about\nwhen you attended/ participated in it\nwhat you did\nand explain why you attended/participated in it."
+  },
+  {
+    "id": 324,
+    "Question": "Describe a computer game you have played.\nYou should say:\n\nwhat it was\nwhen you played it\nwhat the game was about\nand explain how much you enjoyed playing this game."
+  },
+  {
+    "id": 325,
+    "Question": "Describe your favourite singer.\nYou should say:\n\nwho s/he is\nwhat type of songs he/she sings\nwhat type of people listen to his/her songs\nand explain why he/she is your favourite singer."
+  },
+  {
+    "id": 326,
+    "Question": "Describe a village or suburban area you have visited.\nYou should say:\n\nwhere it is\nwhen and how you went there\nwho live there\nand explain what you liked/disliked about this village or suburban area."
+  },
+  {
+    "id": 327,
+    "Question": "Describe someone you know who is very brave.\nYou should say:\n\nwho this person is\nhow you know him/ her\nwhat this person does\nand explain why you think that he/she is a brave person."
+  },
+  {
+    "id": 328,
+    "Question": "Describe an important export item in your country.\nYou should say:\n\nwhat item it is\nhow it is produced or manufactured\nwho work to make it\nand explain why it is an important export item in your country."
+  },
+  {
+    "id": 329,
+    "Question": "Describe a common vehicle/transportation in your city that you often use.\nYou should say:\n\nwhat type of vehicle/transportation it is\nhow often you use it\nhow much it costs\nAnd explain why you often use it."
+  },
+  {
+    "id": 330,
+    "Question": "Describe a fashion item you often use.\nYou should say:\n\nwhat it is\nhow often you use it\nwhy you use it\nand explain how you feel about using it."
+  },
+  {
+    "id": 331,
+    "Question": "Describe an experience when you lost something.\nYou should say:\n\nwhat you lost\nhow you lost it\nwhere you lost it\nand explain how you felt about it."
+  },
+  {
+    "id": 332,
+    "Question": "Describe a plan (not related to work or study) you have for the future.\nYou should say:\n\nwhat plan it is\nwhat you would need to do to achieve it\nhow long you have had this plan\nand explain how difficult it would be to fulfil it."
+  },
+  {
+    "id": 333,
+    "Question": "Describe a food you like to eat at home.\nYou should say:\n\nwhat it is\nhow it is prepared\nwho prepares it at your home\nand explain why you like this food to eat at home."
+  },
+  {
+    "id": 334,
+    "Question": "Describe a meal that you have recently enjoyed outside.\nYou should say:\n\nwhat type of meal it was\nwhen you had eaten it\nwho was with you\nand explain why you enjoyed this meal outside."
+  },
+  {
+    "id": 335,
+    "Question": "Describe jewellery, fashion or cosmetic item you often use..\nYou should say:\n\nwhat it is\nhow often you use it\nwhen you use it\nand explain why you use it often."
+  },
+  {
+    "id": 336,
+    "Question": "Describe an item you would buy if you receive a large amount of money.\nYou should say:\n\nwhat you will buy\nhow much money it would cost you\nhow you would use it\nand explain why you would buy it if you receive a large amount of money."
+  },
+  {
+    "id": 337,
+    "Question": "Describe a place where you would like to have a home.\nYou should say:\n\nwhere it will be\nwhat this place is like\nhow you know about this place\nand explain why you want to have a home there."
+  },
+  {
+    "id": 338,
+    "Question": "Describe the career you hope to have in the future.\nYou should say:\n\nwhat the job is\nwhat is involves\nwhy you chose it\nand explain why you are interested in this job."
+  },
+  {
+    "id": 339,
+    "Question": "Describe the job you have.\nYou should say:\n\nwhat the job is\nwhat is involves\nwhy you chose it\nand explain why you are interested in this job."
+  },
+  {
+    "id": 340,
+    "Question": "Describe a common transportation or vehicle in your city that you often use.\nYou should say:\n\nWhat is it\nWhat is it like\nWhen do you use it\nand explain why did you choose to use this form of transport."
+  },
+  {
+    "id": 341,
+    "Question": "Describe a trip that you made by public transport.\nYou should say:\n\nwhen and where you went\nwhat kind of transport you used\nhow was your trip\nand explain why did you choose to use public transport."
+  },
+  {
+    "id": 342,
+    "Question": "Describe a thing you possess which is important to you.\nYou should say:\n\nwhat it is\nwhat it can do\nhow you use it\nand explain why it is important to you."
+  },
+  {
+    "id": 343,
+    "Question": "Describe a time when you helped someone.\nYou should say:\n\nwho you helped and why\nhow you helped this person\nwhat the result was\nand explain how you felt about helping this person."
+  },
+  {
+    "id": 344,
+    "Question": "Describe a popular teacher that you know.\nYou should say:\n\nwhat this teacher looks like.\nwhat sort of person this teacher is\nwhat this teacher helped you to learn\nand explain why this teacher is popular."
+  },
+  {
+    "id": 345,
+    "Question": "Describe an interesting place that you have visited as a tourist.\nYou should say:\n\nwhere this place is\nwhy you went there\nwhat you did there\nand explain why you thought this place was interesting."
+  },
+  {
+    "id": 346,
+    "Question": "Describe a television programme that you watch.\nYou should say:\n\nwhich kind of television programme it is\nwhat usually happens in the television programme\nwhy you enjoy watching the television programme\nand explain why you would recommend the television programme to other people."
+  },
+  {
+    "id": 347,
+    "Question": "Describe a person who has been an important influence in your life.\nYou should say:\n\nwho this person is and how long you have known him or her\nwhy you chose this person\nhow this person has influenced your life\nand explain how you feel about him or her."
+  },
+  {
+    "id": 348,
+    "Question": "Describe a restaurant where you enjoyed going to.\nYou should say:\n\nwhere the restaurant was\nwho you went with\nwhat type of food you ate in this restaurant\nand explain why you thought the restaurant was good."
+  },
+  {
+    "id": 349,
+    "Question": "Describe an interesting story that you heard or read about in the news.\nYou should say:\n\nwhen you heard or read about the story\nwhat the story was about\nwhy the story was in the news\nand explain why you thought the story was interesting."
+  },
+  {
+    "id": 350,
+    "Question": "Describe a shopping centre /mall that you have visited or that you know about.\nYou should say:\n\nwhere the shopping centre/mall is\nhow people travel to the shopping centre/ mall\nwhat kind of shops it has\nand explain whether you think it is a good place to go shopping."
+  },
+  {
+    "id": 351,
+    "Question": "Describe a special event (e.g. festival, carnival or other celebration) that takes place in your city.\nYou should say:\n\nwhen the event takes place\nwhy it takes place\nwhat people do\nand explain why the event is special."
+  },
+  {
+    "id": 352,
+    "Question": "Describe a website you often visit.\nYou should say:\n\nWhat website it is\nwhy and how long have you been using it\nwhat the website is about\nand explain why you often visit this website."
+  },
+  {
+    "id": 353,
+    "Question": "Describe a book or movie that had a major influence on you.\nYou should say:\n\nwhat is it and who wrote/produced it\nhow you learned about it\nwhat's the main story of the book/ movie\nand how it had a major influence on you."
+  },
+  {
+    "id": 354,
+    "Question": "Describe a job you dream to have in the future.\nYou should say:\n\nwhat the job is\nwhat responsibilities it has\nwhat you like about this job\nand explain why this is your dream job."
+  },
+  {
+    "id": 355,
+    "Question": "Describe a job you are interested in.\nYou should say:\n\nwhat it is\nwhat you will need to do\nhow demanding it is\nand explain why you are interested in this job."
+  },
+  {
+    "id": 356,
+    "Question": "Describe a famous tourist destination in your country.\nYou should say:\n\nwhat it is\nwhat are the main attractions of this place\nwhat can someone see/do there\nAnd say why you would recommend this place to a foreign tourist."
+  },
+  {
+    "id": 357,
+    "Question": "Describe a person who is special or means a lot to you.\nYou should say:\n\n how you meet him/her\n describe this person\n what you usually do together\nand explain why this person is special to you."
+  },
+  {
+    "id": 358,
+    "Question": "Talk about your favourite photograph.\nYou should say:\n\n what is in that photograph\n who and why it was taken\n how old it is\n and explain why this is your favourite photograph."
+  },
+  {
+    "id": 359,
+    "Question": "Describe a job that you would like to try.\nYou should say:\n\nwhat  job it is\nwhat skills are necessary to do this job\nif it is a good job or not\nand explain why you would like to work in this job."
+  },
+  {
+    "id": 360,
+    "Question": "Describe a thing you bought for which you had to save money.\nYou should say:\n\n what it was\n how long you saved money for it\n how you saved the money\nand explain how you felt after you bought it."
+  },
+  {
+    "id": 361,
+    "Question": "Describe a project or a piece of work you did together with someone.\nYou should say:\n\nwhat it was\nwhat you have done\nwhy you have chosen this person(s) to work with\nand explain what you did to finish the project."
+  },
+  {
+    "id": 362,
+    "Question": "Describe a thing / subject that you want to learn more about.\nYou should say:\n\nwhat it was\nhow you got interested in it\nwhat the benefits you get from it\nand explain why you want to learn more about it."
+  },
+  {
+    "id": 363,
+    "Question": "Describe an ambition you have not yet achieved.\nYou should say:\n\nwhat it is\nhow long you have it\nwhat you have to do to achieve it\nand explain why it is important to you to achieve it."
+  },
+  {
+    "id": 364,
+    "Question": "Describe a cafe/restaurant you have recently visited.\nYou should say:\n\nwhere it is\nwhy you went there\nwhat you ate or drank\nand explain why you liked or disliked this cafe or restaurant."
+  },
+  {
+    "id": 365,
+    "Question": "Describe something interesting you learnt from the internet.\nYou should say:\n\nwhat you learnt\nwhat website you learnt it from\nhow you learnt it\nand explain why you think it was interesting."
+  },
+  {
+    "id": 366,
+    "Question": "Describe an educational television program.\nYou should say:\n\nwhat it was\non which channel it was telecasted\nwhat you learned from it\nand explain why you think it was a good educational program."
+  },
+  {
+    "id": 367,
+    "Question": "Describe an unusual building you have visited.\nYou should say:\n\nwhere it is\nhow it looks like\nwhy you went there\nand explain why you think it was unusual."
+  },
+  {
+    "id": 368,
+    "Question": "Describe a time when you got lost.\nYou should say:\n\nwhen it happened\nwhere it happened\nhow old were you\nand explain how you felt when you got lost."
+  },
+  {
+    "id": 369,
+    "Question": "Describe a small and successful company you know.\nYou should say:\n\nwhat’s the name of the company\nhow you know about it\nwhat kind of business this company does\nand explain why you think this company is successful."
+  },
+  {
+    "id": 370,
+    "Question": "Describe a positive experience you have had when you were a teenager.\nYou should say:\n\nwhat it was\nwhen you had it\nhow you had it\nand explain why this experience was positive for you."
+  },
+  {
+    "id": 371,
+    "Question": "Describe a paid job you did or someone you know did.\nYou should say:\n\nwhat the job was\nhow you/this person found this job\nhow long you/ this person had this job\nand explain how you/ this person feel(s) about this job."
+  },
+  {
+    "id": 372,
+    "Question": "Describe a colourful place you went to.\nYou should say:\n\nwhere it was\nwhy you went there\nwhat you did there\nand explain why you think this place was made so colourful."
+  },
+  {
+    "id": 373,
+    "Question": "Describe an important event in your life.\nYou should say:\n\nwhat is it\nhow old you were then\nwhat happened\nand explain why this was an important event in your life."
+  },
+  {
+    "id": 374,
+    "Question": "Describe a magazine that you often read.\nYou should say:\n\nWhat is it\nWhat type of people read it\nIs it popular in your country?\nExplain why it is important to you to read it."
+  },
+  {
+    "id": 375,
+    "Question": "Describe an indoor game that you enjoyed as a child.\nYou should say:\n\nwhat the game was\nwhere you played it\nwho played this game with you\nand explain why you enjoyed playing this game."
+  },
+  {
+    "id": 376,
+    "Question": "Describe a subject you would study that you never had the opportunity to study.\nYou should say:\n\nwhat is it\nwhat this subject deals with\nwhat benefits you would get\nand explain why you want to study this subject."
+  },
+  {
+    "id": 377,
+    "Question": "Describe an equipment of your household (such as a computer, television, refrigerator, mobile phone and so on).\nYou should say:\n\nwhat it is\nwhat you do with it\nwhether you will always keep it or not\nand explain why it is so important to you."
+  },
+  {
+    "id": 378,
+    "Question": "Describe a teacher from your past that you remember.\nYou should say:\n\nwhat class the teacher taught you\nhow old you were then\nwhat the teacher’s special qualities and characteristics were\nand explain why you still remember this teacher."
+  },
+  {
+    "id": 379,
+    "Question": "Describe an old person you admire.\nYou should say:\n\nwho this person is\nwhere did you meet with him\nwhat characteristics you most like on him\nand explain why you admire this person."
+  },
+  {
+    "id": 380,
+    "Question": "Describe a gift you have received that was important to you.\nYou should say:\n\nwho gave it to you and for what occasion\nwhat it looks like\nhow you use it\nand explain why it is important to you."
+  },
+  {
+    "id": 381,
+    "Question": "Describe a present which you were given and that you broke accidentally.\nYou should say:\n\nwhat is it\non what  occasion it was presented to you\nhow you broke it\nhow you felt when you broke it."
+  },
+  {
+    "id": 382,
+    "Question": "Describe the colour you like the most.\nYou should say:\n\nwhat it is\nwhy you like it\nhow colours are important to costumes\nand explain why this is your favourite colour."
+  },
+  {
+    "id": 383,
+    "Question": "Describe a memorable event of your life.\nYou should say:\n\nwhat it is\nwhat happened\nwhere you were\nand explain why this is a memorable event."
+  },
+  {
+    "id": 384,
+    "Question": "Describe your favourite politician.\nYou should say:\n\nwho is he/she\nwhat he/she did that you can tell others\ndo you want to be like him/her\nand explain why this person is your favourite politician."
+  },
+  {
+    "id": 385,
+    "Question": "Describe an interesting phone conversation you had with someone.\nYou should say:\n\nwhen you had this conversation.\nwhom you talked to.\nwhat it was about.\nAnd explain why this conversation was interesting."
+  },
+  {
+    "id": 386,
+    "Question": "Describe a historical figure.\nYou should say:\n\nwho he/she is\nwhy he/she is famous\nDo you like him/her or not? Why?\nAnd briefly explain his/her life."
+  },
+  {
+    "id": 387,
+    "Question": "Describe your family.\nYou should say:\n\nhow many family members you have\nwhat they do\nwhat are they like\nAnd explain your relationship with them."
+  },
+  {
+    "id": 388,
+    "Question": "Describe your best friend.\nYou should say:\n\nwho is he\nhow long you two are friends\nwhat you do together\nAnd explain why s/he is your best friend."
+  },
+  {
+    "id": 389,
+    "Question": "Describe a family member you would like to work with.\nYou should say:\n\nwho this person is\nwhat kind of person he or she is\nwhether you have worked together before\nand explain why you would like to work with this person (more than with other members of your family)."
+  },
+  {
+    "id": 390,
+    "Question": "Describe something a child did that made you laugh.\nYou should say:\n\nwho the child was\nwhen this happened\nwhat the child did\nand explain why it was funny and made you laugh."
+  },
+  {
+    "id": 391,
+    "Question": "Describe a successful company you know.\nYou should say:\n\nwhat it is about\nwhere it is located\nwhat it does\nand explain why you think this company is successful."
+  },
+  {
+    "id": 392,
+    "Question": "Describe a place near water.\nYou should say:\n\nwhere it is\nhow you know about it\nhave you been there\nand give a description of this place."
+  },
+  {
+    "id": 393,
+    "Question": "Describe a childhood song you remember well.\nYou should say:\n\nwhere you first heard this song\nhow old were you then\n what it was about\nand explain how you feel now when you hear this song."
+  },
+  {
+    "id": 394,
+    "Question": "Describe a time you were friendly to someone you did not like.\nYou should say:\n\nwhen and where it happened\nwho he or she was\nwhy you did not like this person\nand explain why you were friendly to him/her on that occasion."
+  },
+  {
+    "id": 395,
+    "Question": "Describe a person you know who dresses well.\nYou should say:\n\nwho this person is\nwhat kinds of clothes this person likes to wear\nhow you know this person\nand explain why you think this person dresses well."
+  },
+  {
+    "id": 396,
+    "Question": "Describe a team you have been part of.\nYou should say:\n\nwhen it was\nwho was on the team\nwhat you did together\nand explain why you became part of the team."
+  },
+  {
+    "id": 397,
+    "Question": "Describe a person who is fashionable.\nYou should say:\n\nwho is he/ she\nhow you know him /her\nwhat kind of dresses this person wears\nand explain why you think this person is fashionable."
+  },
+  {
+    "id": 398,
+    "Question": "Describe a situation when you met somebody from your past by accident.\nYou should say:\n\nwhen it was\nwhere you met\nhow you know this person\nand explain why it was surprising for you."
+  },
+  {
+    "id": 399,
+    "Question": "Describe a person who can speak a second language.\nYou should say:\n\nwho this person is\nwhat language this person can speak\nhow often this person uses this language\nand explain why this person has learned a second language."
+  },
+  {
+    "id": 400,
+    "Question": "Describe something that you want to learn more.\nYou should say:\n\nwhat it is\nhow you would learn it\nwhere you can learn it\nand explain why you want to keep learning it."
+  },
+  {
+    "id": 401,
+    "Question": "Describe a situation when others didn’t tell you the whole truth.\nYou should say:\n\nwhat the situation was\nwho was involved\nwhy they didn’t tell you the whole truth\nand explain how you felt when you found out that you were not told the whole truth."
+  },
+  {
+    "id": 402,
+    "Question": "Describe the age/stage you enjoyed most in your life.\nYou should say:\n\nwhat the age/stage was\nwhat did you like to do back then\nwho you enjoyed spending time with mostly back then\nand explain why this was the best age/stage in your life."
+  },
+  {
+    "id": 403,
+    "Question": "Describe an occasion when you received a good service from a company or shop.\nYou should say:\n\nwhat the service was\nwhen you received the service\nwhere you received the service\nand explain why you think it was a good service."
+  },
+  {
+    "id": 404,
+    "Question": "Describe something special you brought home from a holiday.\nYou should say:\n\nwhat it was\nwhen and where you went on this holiday\nwhat you did with it after you brought it home\nand explain why you think it was something special."
+  },
+  {
+    "id": 405,
+    "Question": "Describe an exciting sport you know about.\nYou should say:\n\nwhat sport it is\nhow you know about it\nwhether it is difficult to play\nand explain why you think it is an exciting sport."
+  },
+  {
+    "id": 406,
+    "Question": "Describe something that you have learned recently from the Internet.\nYou should say:\n\nwhat you learned\nhow you found out about this\nwhether you would recommend this to your friends\nand explain why it is important to you."
+  },
+  {
+    "id": 407,
+    "Question": "Describe a surprise that made you happy.\nYou should say:\n\nwhat it was\nwhere it happened\nwhen it happened\nand explain why the surprise made you happy."
+  },
+  {
+    "id": 408,
+    "Question": "Describe a close friend you have.\nYou should say:\n\nhow long you have known this person\nhow you met\nwhat kind of person he/she is\nand explain why you like this close friend."
+  },
+  {
+    "id": 409,
+    "Question": "Describe a gift you bought that took you a long time to find.\nYou should say:\n\nwhat gift item it was\nwho you bought it for and where you bought it from\nwhy it took you so long to find the gift\nand explain how he/she felt after receiving this gift."
+  },
+  {
+    "id": 410,
+    "Question": "Describe an exciting competition or sporting event you have witnessed.\nYou should say:\n\nwhat the competition or sporting event was\nwhen and where it took place\nwho won the competition or the sporting event\nand explain why it was so exciting."
+  },
+  {
+    "id": 411,
+    "Question": "Describe a person you know who is beautiful or handsome.\nYou should say:\n\nwho this person is\nhow you know him/her\nwhat you know about him/her\nand explain why you think he/she is beautiful or handsome."
+  },
+  {
+    "id": 412,
+    "Question": "Describe your dream job that you want to have in the future.\nYou should say:\n\nwhat qualification or experience you would need for this job\nwhat the job would involve\nwhat the most difficult thing about the job would be\nand explain why it is your dream job that you want to have in the future."
+  },
+  {
+    "id": 413,
+    "Question": "Describe a tourist site (not from your city) you have been to.\nYou should say:\n\nwhere it was\nwhen you went there\nwho you went with and what you did\nand explain how you felt about being there."
+  },
+  {
+    "id": 414,
+    "Question": "Describe a wild animal that is common in your country.\nYou should say:\n\nwhat it is and what it looks like\nwhere it lives\nwhat you like /dislike about it\nand explain how people in your country generally feel about this animal."
+  },
+  {
+    "id": 415,
+    "Question": "Describe a person you know who fluently speaks a foreign language.\nYou should say:\n\nwho this person is\nwhen and where you met this person\nwhat you like /dislike about this person\nand explain how that person has learned this language."
+  },
+  {
+    "id": 416,
+    "Question": "Describe a type of clothes/ dress you like.\nYou should say:\n\nwhat it is\nwhat it looks like\nhow often you wear it\nand explain why you like it so much."
+  },
+  {
+    "id": 417,
+    "Question": "Describe a place that can be good for relaxing (except home).\nYou should say:\n\nwhere this place is\nwhat it is like\nwhat you can do there\nand explain why you think it is a good place for relaxing."
+  },
+  {
+    "id": 418,
+    "Question": "Describe a situation when you were surprised to see a person you know.\nYou should say:\n\nwho this person was\nwhen and where you saw him/her\nwhat you were doing then\nand explain why you were surprised to see this person."
+  },
+  {
+    "id": 419,
+    "Question": "Describe an important social change in your country.\nYou should say:\n\nwhat it is/was\nhow it has happened\nhow long it took\nand explain the effects it has had on the people in your country."
+  },
+  {
+    "id": 420,
+    "Question": "Describe your ideal home or place to live.\nYou should say:\n\nwhere it would be\nhow big it would be and what it would contain\n why this kind of accommodation attracts you so much\nand explain why you think this would be your ideal home or place to live in."
+  },
+  {
+    "id": 421,
+    "Question": "Describe a friend who you think is a good leader.\nYou should say:\n\nwho is he/she\nwhat he/she does\nhow you met him/her\nand explain why you think he/she is a good leader."
+  },
+  {
+    "id": 422,
+    "Question": "Describe your favourite means of transportation.\nYou should say:\n\nwhat it is\nwhen and how often you use it\nwhy you use it\nand explain why it is your favourite means of transportation."
+  },
+  {
+    "id": 423,
+    "Question": "Describe an event when you had to wait.\nYou should say:\n\nwhat event it was\nhow long you had to wait\nwhy you had to wait\nand explain how you felt about it."
+  },
+  {
+    "id": 424,
+    "Question": "Describe a famous celebrity from your country whom you admire.\nYou should say:\n\nwho this celebrity is and how famous he/she is\nwhat kind of celebrity this person is\nwhy you admire this celebrity\nand explain why he/she is so famous."
+  },
+  {
+    "id": 425,
+    "Question": "Describe the stage/part of your life that you enjoyed the most.\nYou should say:\n\nwhat part it is\nwhere you were then\nwhat memorable things you did\nand explain why this is the most enjoyable part/stage in your life."
+  },
+  {
+    "id": 426,
+    "Question": "Describe someone you know who is a good teacher.\nYou should say:\n\nwho this person is\nhow you know him/her\nwhat subjects he/she teaches\nand explain why you think this person is a good teacher."
+  },
+  {
+    "id": 427,
+    "Question": "Describe something you did which was a waste of time.\nYou should say:\n\nwhat you did\nwhen you did it\nwhy you did it\nand explain why you think it was a waste of time."
+  },
+  {
+    "id": 428,
+    "Question": "Describe a place where you have visited and particularly liked.\nYou should say:\n\nwhat place it was and when you visited there\nwho you went with\nwhat was most memorable about it\nand explain why you particularly liked visiting this place."
+  },
+  {
+    "id": 429,
+    "Question": "Describe a health problem you or someone you know had.\nYou should say:\n\nwhat it was\nhow you/this person had this health problem\nwhat you or this person had to do to get better\nand discuss how you/this person felt about this health problem."
+  },
+  {
+    "id": 430,
+    "Question": "Describe a historical city you have been to.\nYou should say:\n\nwhat city it was\nwhen you went to this city\nwhat you did there\nand explain why you think it was a historical city that was worth visiting."
+  },
+  {
+    "id": 431,
+    "Question": "Describe a long journey that you enjoyed.\nYou should say:\n\nwhere and when you had it\nhow you got there and how long it took\nwho you went with\nand explain why you enjoyed this journey so much."
+  },
+  {
+    "id": 432,
+    "Question": "Describe a relative/friend/family member who you think is similar to you.\nYou should say:\n\nwho he/she is\nwhat he/she does\nwhat other people think about him/her\nand explain how he/ she is similar to you."
+  },
+  {
+    "id": 433,
+    "Question": "Describe your favourite way to relax.\nYou should say:\n\nwhat it is\nwhen and how you relax\nhow effective it is for you\nand explain why this way of relaxation is your favourite."
+  },
+  {
+    "id": 434,
+    "Question": "Describe a city or a town where you live or lived.\nYou should say:\n\nwhere it is located\nwhat part of it you are most familiar with\nwhat are the important landmarks and places there\nand explain what makes that city or town special to you."
+  },
+  {
+    "id": 435,
+    "Question": "Describe an important technological advancement in your country.\nYou should say:\n\nwhat it is\nhow it has happened\nhow long it took\nand explain what effect it has had on the people in your country."
+  },
+  {
+    "id": 436,
+    "Question": "Describe an activity you recently took part in.\nYou should say:\n\nwhat activity it was\nwhy you took part in it\nhow it was organised\nand explain how you felt about participating in this activity."
+  },
+  {
+    "id": 437,
+    "Question": "Describe one of the most popular TV shows in your country.\nYou should say:\n\nwhat type of TV shows it is\nwhat it is about\nwhat you like/dislike about it\nand explain why it is so popular in your country."
+  },
+  {
+    "id": 438,
+    "Question": "Describe your favourite sport.\nYou should say:\n\nwhat sport it is\nhow often you play it or watch it\nhow you play it\nand explain why this is your favourite sport."
+  },
+  {
+    "id": 439,
+    "Question": "Describe a photograph you have taken yourself which you particularly like.\nYou should say:\n\nwhat the photograph/picture shows\nwhen you took it\nwhy you took it\nand explain why you particularly like this photograph."
+  },
+  {
+    "id": 440,
+    "Question": "Describe a famous building/landmark in your hometown.\nYou should say:\n\nwhere it is\nhow old it is\nhow it looks\nand explain why you think it is an important landmark/ building."
+  },
+  {
+    "id": 441,
+    "Question": "Describe your favourite newspaper or magazine.\nYou should say:\n\nwhat it is\nhow much each copy costs\nhow often you read it\nand explain why it is your favourite newspaper or magazine."
+  },
+  {
+    "id": 442,
+    "Question": "Describe an item of clothing you purchased that you didn’t like.\nYou should say:\n\nwhat type of clothing item it was\nfrom where and why you purchased it\nwhat colour and style it had\nand explain why you didn’t like it."
+  },
+  {
+    "id": 443,
+    "Question": "Describe a skill you have learned that you think is very useful.\nYou should say:\n\nwhat skill it is\nwhere and when you learned it\nhow you use it\nand explain why you think this skill is so useful."
+  },
+  {
+    "id": 444,
+    "Question": "Describe a news story you have read or heard about recently.\nYou should say:\n\nwhat it was about\nwhen you heard/read it\nwhat you thought about the news story\nand explain why you remember this news story."
+  },
+  {
+    "id": 445,
+    "Question": "Describe an interesting person you know.\nYou should say:\n\nwhat sort of person he/she is\nhow you first met him/her\nwhat he/she does for the living\nand explain why you think this person is so interesting."
+  },
+  {
+    "id": 446,
+    "Question": "Describe a movie you would like to watch again.\nYou should say:\n\nwhat movie it was and what it was about\nwhen and where you watched it\nwho you watched it with\nand explain why you would like to watch it again."
+  },
+  {
+    "id": 447,
+    "Question": "Describe an importation occasion or event (such as a wedding or a celebration) you have attended.\nYou should say:\n\nwhen and where you attended this occasion.\nwho else attended this occasion or event\nwhat you did\nand explain how much you enjoyed it."
+  },
+  {
+    "id": 448,
+    "Question": "Describe a subject you didn’t like before but have an interest in it now.\nYou should say:\n\nwhat subject it is\nwhen you studied this subject\nwhy you didn’t like it before\nand explain why you have an interest in it now."
+  },
+  {
+    "id": 449,
+    "Question": "Describe a happy family event from your childhood that you remember well.\nYou should say:\n\nwhat the event was\nwhen and where it happened\nwhat you saw or did\nand explain why you remember this event so well."
+  },
+  {
+    "id": 450,
+    "Question": "Describe a long journey/short trip you would like to make again.\nYou should say:\n\nwhere it was\nwhy you went there\nwhat you did during the trip/journey\nand explain why you would like to make the journey/trip again."
+  },
+  {
+    "id": 451,
+    "Question": "Describe a subject that helped you in life, even though you didn’t like it in school.\nYou should say:\n\nwhat subject it was\nwhether you like it now and why\nwhy you did not like it in school\nand explain how it helped you in your life."
+  },
+  {
+    "id": 452,
+    "Question": "Describe a time when you stayed far away from your home.\nYou should say:\n\nwhen and where it was\nhow long you stayed there\nwhy you stayed there and what you did there\nand explain how you felt about staying far away from home."
+  },
+  {
+    "id": 453,
+    "Question": "Describe a situation when you received some useful advice.\nYou should say:\n\nwhat the situation was\nwho gave you the advice\nwhat the advice was\nand explain how this advice was useful to you."
+  },
+  {
+    "id": 454,
+    "Question": "Describe something that you have shared with others (or another person).\nYou should say:\n\nwhat you shared\nwhen it was\nwho you shared it with\nand explain why you shared it and how you felt about it."
+  },
+  {
+    "id": 455,
+    "Question": "Describe a meal in which you invited others to your home or restaurant.\nYou should say:\n\nwho you invited\nwhere and when you ate this meal\nwhat you had for this meal\nand explain why you invited the person(s) to have this meal with you."
+  },
+  {
+    "id": 456,
+    "Question": "Describe an important year in your life.\nYou should say:\n\nwhen it was\nwhat happened in this year\nhow old you were then\nand explain why it is an important year in your life."
+  },
+  {
+    "id": 457,
+    "Question": "Describe a good photo someone took for you.\nYou should say:\n\nwhen and where the photo was taken\nwho took the photo\nwhat the photo depicts\nand explain why you like this photo."
+  },
+  {
+    "id": 458,
+    "Question": "Describe a foreign film/movie that you enjoyed so much.\nYou should say:\n\nwhat the film/movie was about\nwho the main actors were\nwhere and when you watched it\nand explain why you enjoyed this film/movie so much."
+  },
+  {
+    "id": 459,
+    "Question": "Describe a handmade gift you gave to a friend or a relative.\nYou should say:\n\nwhat the gift was\nwho you gave it to and when\nhow you made it by hand\nand explain why you gave a handmade gift to this friend or relative."
+  },
+  {
+    "id": 460,
+    "Question": "Describe a time when you had to wait in a traffic jam.\nYou should say:\n\nwhen and where it happened\nhow long you were stuck due to bad traffic\nwhat you did while waiting\nand explain how you felt when you were stuck in that traffic jam."
+  },
+  {
+    "id": 461,
+    "Question": "Describe an occasion when you waited for someone.\nYou should say:\n\nwho you waited for\nwhen and where you waited for this person\nhow long you waited for this person\nand explain why you waited for this person and how you felt about it."
+  },
+  {
+    "id": 462,
+    "Question": "Describe an occasion when you borrowed something from others.\nYou should say:\n\nwhat you borrowed\nwhen you borrowed it\nwhom you borrowed it from\nand explain why you borrowed the thing."
+  },
+  {
+    "id": 463,
+    "Question": "Describe a beautiful place where you want to have a home.\nYou should say:\n\nwhere this place is\nhow you know about this place\nwhat type of home you want there\nand explain why you would choose to live there."
+  },
+  {
+    "id": 464,
+    "Question": "Describe a time when you had a strong disagreement with a friend.\nYou should say:\n\nwhat it was about\nwho you had this disagreement with\nhow you resolved it\nand explain what happened after the disagreement."
+  },
+  {
+    "id": 465,
+    "Question": "Describe an instance when you spoke with someone in a foreign language for the first time.\nYou should say:\n\nwhen it was\nwith whom you talked\nwhat language you used\nand describe how you felt about it."
+  },
+  {
+    "id": 466,
+    "Question": "Describe an actor or actress whom you admire.\nYou should say:\n\nwho he/she is\nwhat he/she looks like\nwhat kind of movies he/she appears in\nand explain why you admire this actor/actress."
+  },
+  {
+    "id": 467,
+    "Question": "Describe a house/apartment that someone you know lives in.\nYou should say:\n\nwhose house/apartment this is\nwhere the house/apartment is\nwhat it looks like inside\nand explain what you like or dislike about this person’s house/apartment."
+  },
+  {
+    "id": 468,
+    "Question": "Describe a writer you would like to meet.\nYou should say:\n\nwho the writer is\nwhat you know about this writer already\nwhat you would like to find out about him/her\nand explain why you would like to meet this writer."
+  },
+  {
+    "id": 469,
+    "Question": "Describe a day when you thought the weather was perfect.\nYou should say:\n\nwhere you were on this day\nwhat the weather was like on this day\nwhat you did during the day\nand explain why you thought the weather was perfect on this day."
+  },
+  {
+    "id": 470,
+    "Question": "Describe a TV documentary you watched that was particularly interesting.\nYou should say:\n\nwhat the documentary was about\nwhy you decided to watch it\nwhat you learnt during the documentary\nand explain why the TV documentary was particularly interesting."
+  },
+  {
+    "id": 471,
+    "Question": "Describe a time when you got into some kind of trouble.\nYou should say:\n\nwhat it was\nhow you got into it\nhow you handled it\nand explain how you felt about it."
+  },
+  {
+    "id": 472,
+    "Question": "Describe a funny text message you have once received.\nYou should say:\n\nwhat it was about\nwho sent it to you\nwhen you received it\nand explain why you think this was a funny text message."
+  },
+  {
+    "id": 473,
+    "Question": "Describe a school rule you did not like when you were in school.\nYou should say:\n\nwhat it was\nhow others thought about this rule\nwhether you have ever violated this rule\nand explain why you did not like this rule when you were in school."
+  },
+  {
+    "id": 474,
+    "Question": "Describe someone you know who is famous.\nYou should say:\n\nwho this person is\nhow you know him/her\nhow long have you known him/her\nand explain how he/she is famous."
+  },
+  {
+    "id": 475,
+    "Question": "Describe a letter you have written to someone.\nYou should say:\n\nwhat the letter was about\nwho you wrote it to\nwhy you wrote it\nand explain how you felt about writing this letter."
+  },
+  {
+    "id": 476,
+    "Question": "Describe something you borrowed from one of your neighbours.\nYou should say:\n\nwhat you borrowed\nwho you borrowed it from\nwhy you borrowed it\nand explain how you felt about borrowing it from your neighbour."
+  },
+  {
+    "id": 477,
+    "Question": "Describe an open-air or street market which you enjoyed visiting.\nYou should say:\n\nwhere the market was\nwhat the market was welling\nhow big the market was\nand explain why you enjoyed visiting this market."
+  },
+  {
+    "id": 478,
+    "Question": "Describe something you did that was new or exciting.\nYou should say:\n\nwhat you did\nwhere and when you did this\nwho you shared the activity with\nand explain why this activity was new or exciting for you."
+  },
+  {
+    "id": 479,
+    "Question": "Describe a person who has done a lot of work to help people.\nYou should say:\n\nwho this person is/was\nwhere this person lives/lived\nhow you know about this person\nand explain what he/she has done to help people."
+  },
+  {
+    "id": 480,
+    "Question": "Describe a historical building in your country or city that you know.\nYou should say:\n\nwhat it is and where it is\nwhen and why it was built\nwhat it is known for\nand describe what you know about this historic building."
+  },
+  {
+    "id": 481,
+    "Question": "Describe a meeting you remember going to at work, college or school.\nYou should say:\n\nwhen and where the meeting was held\nwho were present at the meeting\nwhat the topic of the meeting was\nand explain why you remember going to this meeting."
+  },
+  {
+    "id": 482,
+    "Question": "Describe a friend of your family you remember from your childhood.\nYou should say:\n\nwho this person was\nhow you and your family knew this person\nhow often this person visited your house\nand explain why you remember this person."
+  },
+  {
+    "id": 483,
+    "Question": "Describe a party that you enjoyed going to.\nYou should say:\n\nwhat the party was about\nwhere the party was held\nwhat people did during the party\nand explain what you enjoyed about this party."
+  },
+  {
+    "id": 484,
+    "Question": "Describe a piece of electronic equipment that you find useful.\nYou should say:\n\nwhat it is\nhow you learned to use it\nhow long you have had it\nand explain why you find this piece of electronic equipment useful."
+  },
+  {
+    "id": 485,
+    "Question": "Describe a trip which was not up to your expectations.\nYou should say:\n\nwhere you went\nwhat you did\nwhat happened during the trip\nand explain why the trip was not up to your expectations."
+  },
+  {
+    "id": 486,
+    "Question": "Describe an app you use on your mobile phone.\nYou should say:\n\nwhat application it is\nhow you use it\nwhat benefits you get from this app\nand explain why this mobile app is important to you."
+  },
+  {
+    "id": 487,
+    "Question": "Describe a handcrafted item which you made yourself.\nYou should say:\n\nwhat it was\nhow you made it\nwhat you did with it\nand explain how you felt about making it yourself."
+  },
+  {
+    "id": 488,
+    "Question": "Describe a problem you have noticed in your city/ hometown.\nYou should say:\n\nwhat it is\nhow serious it is\nwhat causes this problem\nand say what can be done to solve/reduce this problem."
+  },
+  {
+    "id": 489,
+    "Question": "Describe someone older than you whom you admire.\nYou should say:\n\nwho this person is\nwhat he/she does\nwhat he/she is like\nand explain why you admire this person so much."
+  },
+  {
+    "id": 490,
+    "Question": "Describe an interesting place in your hometown.\nYou should say:\n\nwhat it is\nhow you can go there\nwhat people do there\nand explain why you think it is an interesting place."
+  },
+  {
+    "id": 491,
+    "Question": "Describe a special trip you would like to take in the future.\nYou should say:\n\nwhen you think it will be\nwhere you will go\nwhat preparation you need for that trip\nand explain why this would be a special trip."
+  },
+  {
+    "id": 492,
+    "Question": "Describe a story that was particularly interesting to you.\nYou should say:\n\nwhat it was about\nwho told you this story\nwhen you heard or read this story\nand explain why you thought this was an interesting story."
+  },
+  {
+    "id": 493,
+    "Question": "Describe a product you bought and felt happy about.\nYou should say:\n\nwhat it was\nwhy you bought it\nhow long you used it\nand explain why you were happy to buy this product."
+  },
+  {
+    "id": 494,
+    "Question": "Describe a piece of local news that was interesting to you.\nYou should say:\n\nwhat it was about\nwhen you heard/ read about it\nwhat the story was\nand explain why it was interesting to you."
+  },
+  {
+    "id": 495,
+    "Question": "Describe a photo of yourself you have taken.\nYou should say:\n\nwhen you took it\nwhat type of camera you used\nwhy you took the photo\nand explain whether you liked this photo or not."
+  },
+  {
+    "id": 496,
+    "Question": "Describe a family not your own that you like.\nYou should say:\n\nwhose family it is\nhow many family members they have\nwhat are they like\nand explain why you like this family."
+  },
+  {
+    "id": 497,
+    "Question": "Describe a place you visited that has been affected by pollution.\nYou should say:\n\nwhere it is\nwhy and when you went there\nhow it has been affected by pollution\nand explain what are the reasons for this pollution."
+  },
+  {
+    "id": 498,
+    "Question": "Describe a person whose job is important to society.\nYou should say:\n\nwho this person is\nwhat his/her profession is\nhow he/she helps others\nand explain why the job this person does is important to society."
+  },
+  {
+    "id": 499,
+    "Question": "Describe a useful thing that you once borrowed.\nYou should say:\n\nwhat it was\nwho you borrowed it from\nwhy you borrowed it\nand explain why it was important for you to borrow it."
+  },
+  {
+    "id": 500,
+    "Question": "Describe an exam that was very hard for you.\nYou should say:\n\nwhat exam it was\nwhen you took this exam\nwhy you took this exam\nand explain why this was so hard for you."
+  },
+  {
+    "id": 501,
+    "Question": "Describe an event when someone denied your request.\nYou should say:\n\nwhen it was\nwhat the request was about\nwhom you requested\nand explain how you felt about being denied."
+  },
+  {
+    "id": 502,
+    "Question": "Describe your idea of making a good first impression in a job interview.\nYou should say:\n\nwhy it is important.\nwhether it is important to make a good last impression as well\nin what ways would you do it in your job interview\nand explain how to make a good first impression in a job interview."
+  },
+  {
+    "id": 503,
+    "Question": "Describe a time when you missed a bus/train/aeroplane.\nYou should say:\n\nwhen it happened\nwhere you were supposed to go\nhow you missed it\nand explain what you did after you missed it."
+  },
+  {
+    "id": 504,
+    "Question": "Describe a time when you trusted a stranger.\nYou should say:\n\nwhen it was\nwho this stranger was\nwhy you had to trust this person\nand explain what happened then."
+  },
+  {
+    "id": 505,
+    "Question": "Describe someone who is your online friend.\nYou should say:\n\nwho is he/she\nhow you know him/her\nhow long you two are friends\nand explain how you two maintain your online friendship."
+  },
+  {
+    "id": 506,
+    "Question": "Describe a time when you had to wait in a long queue/line.\nYou should say:\n\nwhen it was\nhow long the queue/line was\nwhat it was about\nand explain how you felt about waiting in this long queue or line."
+  },
+  {
+    "id": 507,
+    "Question": "Describe a night when you could not sleep at all.\nYou should say:\n\nwhen it happened\nwhere you were then\nwhy you could not sleep that night\nand explain how you felt about it."
+  },
+  {
+    "id": 508,
+    "Question": "Describe a time when someone got angry with you.\nYou should say:\n\nwhen it was\nwho got angry with you\nwhat you did that made this person angry\nand explain how you felt about it."
+  },
+  {
+    "id": 509,
+    "Question": "Describe a famous book you would like to read.\nYou should say:\n\nwhat book it is\nwho is the author of this book\nhow you know about this book\nand explain why you want to read this book."
+  },
+  {
+    "id": 510,
+    "Question": "Describe a person who once moved to live with you.\nYou should say:\n\nwho this person was\nhow long this person lived with you\nwhy he/she moved to live with you\nand explain how you felt about it."
+  },
+  {
+    "id": 511,
+    "Question": "Describe a person who once apologised to you.\nYou should say:\nwho this person was\nwhy he/she apologised to you\nwhere you were then\nand explain how you felt about it."
+  },
+  {
+    "id": 512,
+    "Question": "Describe an important historical event you know about. \nYou should say:\n\nwhat event it is\nwhen it happened\nwho or what was involved in it\nand explain why you think it is an important historical event."
+  },
+  {
+    "id": 513,
+    "Question": "Describe a creative person whom you admire. \nYou should say:\n\nwho this person is\nwhy you think he/she is creative\nhow you know him/her\nand explain why you admire this person so much."
+  },
+  {
+    "id": 514,
+    "Question": "Describe a TV presenter or host whom you like.\nYou should say:\n\nwho he/she is\nwhat programme he/she presents or hosts\nhow he/she presents/hosts this programme\nand explain why you like this TV presenter/host so much."
+  },
+  {
+    "id": 515,
+    "Question": "Describe a traffic rule or law you know about.\nYou should say:\nwhat it is\nhow you know about it\nwhether you follow this rule/law or not\nand explain why this rule is important."
+  },
+  {
+    "id": 516,
+    "Question": "Describe an important day you celebrate in your country.\nYou should say:\nwhat day it is\nhow you celebrate this day\nhow this is different from other celebrations\nand explain why this is an important day to celebrate."
+  },
+  {
+    "id": 517,
+    "Question": "Describe an occasion when you forgot something important.\nYou should say:\n\nwhat you forgot\nhow important it was\nwhy you possibly forgot it\nand explain what you did when you remembered it."
+  },
+  {
+    "id": 518,
+    "Question": "IELTS Speaking Part 2: IELTS Cue Card/ Candidate Task Card.\n\nDescribe a person you once lived with.\nYou should say:\n\nwho this person was\nhow long you lived with this person\nwhy you lived with him/ her\nand explain why you no longer live with him /her."
+  },
+  {
+    "id": 519,
+    "Question": "Describe something you have that you no longer use.\nYou should say:\n\nwhat it is\nhow long you have it\nhow you used it in the past\nand explain why you no longer use it."
+  },
+  {
+    "id": 520,
+    "Question": "Describe your favourite park in your city.\nYou should say:\n\nwhere it is\nhow can you go there\nhow frequently you go there\nand explain why this is your favourite park."
+  },
+  {
+    "id": 521,
+    "Question": "Describe a good law in your country.\nYou should say:\n\nwhat it is\nhow you know about it\nwhat people think about this law \nand explain why you think that it is a good law."
+  },
+  {
+    "id": 522,
+    "Question": "Describe a method that helps you to save money.\nYou should say:\nwhat it is\nhow long have you been following it\nwhether it is a common method to save money\nand explain how effective it is to save money."
+  },
+  {
+    "id": 523,
+    "Question": "Describe your favourite bird.\nYou should say:\n\nwhat it is\nwhat it looks like\nif it is a common bird in your country\nand explain why it is your favourite bird."
+  },
+  {
+    "id": 524,
+    "Question": "Describe your favourite part of the day (i.e. morning, evening, night etc).\nYou should say:\nwhat it is\nwhat you do at that time\nhow it is different from other parts of the day\nand explain why it is your favourite part of the day."
+  },
+  {
+    "id": 525,
+    "Question": "Describe an interesting animal you know about.\nYou should say:\nwhat animal it is\nwhat features this animal has\nif it is a common animal in your country\nand explain why this is an interesting animal."
+  },
+  {
+    "id": 526,
+    "Question": "Describe a joke that made you laugh.\nYou should say:\nwhat the joke was about\nwho told you that joke\nwhether it was funny\nand explain why this was an interesting joke that made you laugh."
+  },
+  {
+    "id": 527,
+    "Question": "Describe a bike/ motorbike/ car trip you would like to have.\nYou should say:\nwhere you would like to go\nhow you would like to go there\nwho you would like to go with\nand explain why you would like to go there by bike/ motorbike or car."
+  },
+  {
+    "id": 528,
+    "Question": "Describe a mistake you once made in your life.\nYou should say:\n\nwhat mistake it was\nhow you made this mistake\nwhen it was\nand explain how it affected you."
+  },
+  {
+    "id": 529,
+    "Question": "Describe something important for maintaining a healthy lifestyle.\nYou should say:\n\nwhat does a healthy lifestyle mean to you\nwhat important aspect you have in your mind\nhow it is important\nand explain why this is important for maintaining a healthy lifestyle."
+  },
+  {
+    "id": 530,
+    "Question": "Describe a person whom you have recently met and liked.\nYou should say:\n\nwhen and where you met\nwhat he/she does\nwhy you liked him/her\nand say whether you would like to spend more time with this person."
+  },
+  {
+    "id": 531,
+    "Question": "Describe a small business you want to start.\nYou should say:\n\nwhat business it would be\nwhen you want to start it\nwhy you have not started it yet\nand explain whether you would like to start this business now."
+  },
+  {
+    "id": 532,
+    "Question": "Describe a time when the weather condition forced you to change your plan.\nYou should say:\n\nwhen it was\nhow the weather condition was\nwhat initial plan you had\nand explain what you did once you changed your plan."
+  },
+  {
+    "id": 533,
+    "Question": "Describe a quiet place where you like to go to sometimes.\nYou should say:\n\nwhere it is\nwhen you usually go there\nwhy you like this quiet place\nand what you did when you went there last time."
+  },
+  {
+    "id": 534,
+    "Question": "Describe a journey that you remember well.\nYou should say:\n\nwhere you went\nhow you travelled\nwhy you went on that journey\nand explain why you remember this journey so well."
+  },
+  {
+    "id": 535,
+    "Question": "Describe a competition (e.g. TV, study/work or sports competition) that you took part in.\nYou should say:\n\nwhat kind of competition it was\nwhat you had to do\nwhat the prizes were for winners\nand explain why you chose to take part in this competition."
+  },
+  {
+    "id": 536,
+    "Question": "Describe a piece of clothing that you have recently received as a gift.\nYou should say:\n\nwhat type of clothing it was\nwhen you received it\nwho gave it to you\nand explain if this gift was important to you."
+  },
+  {
+    "id": 537,
+    "Question": "Describe an event that you organized which was very successful.\nYou should say:\n\nwhat the event was\nwhere and when it was organised\nwho helped you to organise it\nand explain why you think it was successful."
+  },
+  {
+    "id": 538,
+    "Question": "Describe a person in the news whom you would like to meet.\nYou should say:\n\nwho this person is\nwhy he/she is in the news\nwhy you would like to meet this person\nand explain what you would say to this person."
+  },
+  {
+    "id": 539,
+    "Question": "Describe an invention that you believe has changed how people live.\nYou should say:\n\nwhat invention it is\nwhether it is more important for older or younger people\nwhat benefits it has brought\nand explain how it has changed people's lives."
+  },
+  {
+    "id": 540,
+    "Question": "Describe an enjoyable place you visited in the countryside.\nYou should say:\n\nwhen you visited this place\nwho was with you\n why the place was enjoyable\nand say if you would like to go back there in the future."
+  },
+  {
+    "id": 541,
+    "Question": "Describe a shop that recently opened in your city/country.\nYou should say:\n\nwhat the name of this shop is\nwhere it is\nwho the typical customers are to this shop\nand say if you have bought anything from the shop."
+  },
+  {
+    "id": 542,
+    "Question": "Describe a work of art that you really like.\nYou should say:\n\nhow it looks\nwhere you first saw it\nhow you felt when you first saw it\nand explain why you like it so much."
+  },
+  {
+    "id": 543,
+    "Question": "Describe a poem/literary work that you really like.\nYou should say:\n\nwhat it is\nwhen you first read it\nhow you felt when you first read it\nand explain why you like it."
+  },
+  {
+    "id": 544,
+    "Question": "Describe a high-paying job in your country.\nYou should say:\n\nwhat job it is\nwhat responsibilities the job involves\nif it is a popular job\nand what the requirements are to get this job or a similar job that is high-paying."
+  },
+  {
+    "id": 545,
+    "Question": "Describe a time when you heard about a riot/commotion in another country.\nYou should say:\n\n what you heard about it\n when you heard about it\n how you learned about it\nand explain how you felt after hearing about the riot/commotion."
+  },
+  {
+    "id": 546,
+    "Question": "Describe a popular public event that you went to (such as a carnival, sports event or religious event).\nYou should say:\n\nwhat the event was\nwhen and with whom you went there\nwhy you enjoyed this event\nand explain why this is a popular event."
+  },
+  {
+    "id": 547,
+    "Question": "Describe a company that employs many employees in your hometown.\nYou should say:\n\nwhat type of company it is\nhow many people work there\nwhat type of qualification they require\nand explain whether you would be interested to work there or not."
+  },
+  {
+    "id": 548,
+    "Question": "Describe a good news that you have heard recently.\nYou should say:\n\nwhen you heard about it\nwhat it was about\nhow you heard this good news\nand explain how you felt after knowing it."
+  },
+  {
+    "id": 549,
+    "Question": "Describe an invention that you think is useful to people.\nYou should say:\n\nwhat the invention is\nwho invented it and when\nhow it is useful to people\nand say whether it is useful to you."
+  },
+  {
+    "id": 550,
+    "Question": "Describe a happy experience from your childhood that you remember.\nYou should say:\n\nwhat it is\nhow old you were then\nwhat exactly happened\nand explain how you feel about it now."
+  },
+  {
+    "id": 551,
+    "Question": "Describe something you have always wanted to do but have not done yet.\nYou should say:\n\nwhat it is\nwhen you would possibly do it\nhow you plan to do it\nand explain why you have not done it yet."
+  },
+  {
+    "id": 552,
+    "Question": "Describe a person who has helped you in your work or study.\nYou should say:\n\nwho this person is\nwhat this person has done for you\nhow this person has helped you\nand explain how you felt about it."
+  },
+  {
+    "id": 553,
+    "Question": "Describe a time when you received good service from a hotel or a restaurant.\nYou should say:\n\nwhere it was\nwhen it happened\nwhat made it a good service\nand explain how you felt about it."
+  },
+  {
+    "id": 554,
+    "Question": "Describe an experience when you spent some time with a child.\nYou should say:\n\nwhen it was\nwho the child was\nwhy you spent some time with this child\nand explain what you did and how you felt."
+  },
+  {
+    "id": 555,
+    "Question": "Describe the most polite person you have come across in your life.\nYou should say:\n\nwho that person is\nhow you know this person\nhow you feel about this polite person\nand explain why you think he/she is the most polite person you have ever come across."
+  },
+  {
+    "id": 556,
+    "Question": "Describe a personal goal which you have not been able to achieve.\nYou should say:\n\nwhat it was\nwhy you wanted to achieve it\nwhether you think you can still achieve it\nand explain why you think you are yet to achieve it."
+  },
+  {
+    "id": 557,
+    "Question": "Describe a place in your town/city where people can go for swimming.\nYou should say:\n\nwhere it is\nwhether it is open for public\nwhat type of people usually go there\nand explain why people go there for swimming."
+  },
+  {
+    "id": 558,
+    "Question": "Describe a situation when you had to wait for something special to happen.\nYou should say:\n\nwhat it was\nwhat you did during that time\nwhat eventually happened\nand explain what happened afterwards."
+  },
+  {
+    "id": 559,
+    "Question": "Describe your favourite dress.\nYou should say:\n\nwhat it is\nwhen you like to wear it\nhow often you wear it\nand explain what is so special about it."
+  },
+  {
+    "id": 560,
+    "Question": "Describe a crowded place you have visited in your country.\nYou should say:\n\nwhere it is\nwhen you went there\nwith whom you went there\nand explain how you felt about being there."
+  },
+  {
+    "id": 561,
+    "Question": "Describe a person you know who gave a clever solution to a problem.\nYou should say:\n\nwho that person was\nwhat the problem was\nwhat solution he/she gave\nand explain why you think it was a clever solution."
+  },
+  {
+    "id": 562,
+    "Question": "Describe a couple you know who have a happy marriage.\nYou should say:\n\nwho they are\nhow you know them\nwhat they usually do together\nand explain why you think that they are a happily married couple."
+  },
+  {
+    "id": 563,
+    "Question": "Describe a service that you received for free.\nYou should say:\n\nwhat service it was\nwho provided this service\nwhy you took it\nand explain how you felt about it."
+  },
+  {
+    "id": 564,
+    "Question": "Describe a popular place for swimming you know in your country.\nYou should say:\n\nwhere it is\nwhat type of people go there\nwhen usually they go there\nand explain whether this is a good place to go to."
+  },
+  {
+    "id": 565,
+    "Question": "Describe a cafe you have recently visited.\nYou should say:\n\nwhere it is located\nhow the cafe looks like\nwhat kind of food and drink you had there\nand explain why you liked or dislike the cafe."
+  },
+  {
+    "id": 566,
+    "Question": "Describe a time when you moved to a new house or school.\nYou should say:\n\nwhen it was\nwhere you moved to\nwho you moved with\nand explain how you felt about it."
+  },
+  {
+    "id": 567,
+    "Question": "Describe an elderly person in your family who you enjoy talking to.\nYou should say:\n\nwho this person is\nwhat he/she is like\nhow often you see him/her\nand explain why you enjoy talking to this person."
+  },
+  {
+    "id": 568,
+    "Question": "Describe an object you find particularly beautiful (e.g. a painting, sculpture, piece of jewellery/furniture, etc.).\nYou should say:\n\nwhere the artwork/object is\nhow it was made\nwhat it shows/looks like\nand explain why you find it particularly beautiful."
+  },
+  {
+    "id": 569,
+    "Question": "Describe an enjoyable day you spent in the countryside.\nYou should say:\n\nwhen and where you went\nwho you went with\nwhat you did there\nand explain why you think it was enjoyable."
+  },
+  {
+    "id": 570,
+    "Question": "Describe a place where you lived for a short period of time.\nYou should say:\n\nwhere it was\nwho you lived with there\nhow long you lived there\nand explain how you felt about living there only for a while."
+  },
+  {
+    "id": 571,
+    "Question": "Describe an appointment with a friend that you totally forgot.\nYou should say:\n\nwhen it was\nwho you were supposed to meet\nwhat you did afterwards\nand explain how you convinced this friend later."
+  },
+  {
+    "id": 572,
+    "Question": "Describe a social networking website/platform you use.\nYou should say:\n\nwhat it is\nwhy you use it\nwhat benefits it offers\nand explain how this social networking website helps you."
+  },
+  {
+    "id": 573,
+    "Question": "Describe a common dress that females in your country wear.\nYou should say:\n\nwhat type of dress it is\nwhat it looks like\nif it is common in other countries\nand explain whether you like this dress or not."
+  },
+  {
+    "id": 574,
+    "Question": "Describe a TV series/show you enjoy watching.\nYou should say:\n\nwhat the TV series/show is about\nwho acts in it\nhow often it is on\nand explain why you enjoy watching this TV series/show so much."
+  },
+  {
+    "id": 575,
+    "Question": "Describe something you did that made you feel proud of yourself.\nYou should say:\n\nwhat you did\nwhen you did it\nwhy you felt proud of what you had done\nand explain how you felt when this happened."
+  },
+  {
+    "id": 576,
+    "Question": "Describe a place in another part of the world where you would love to visit in the future.\nYou should say:\n\nwhat you know about this place\nhow you know about it\nhow you would go there\nand explain why you would love to visit that place."
+  },
+  {
+    "id": 577,
+    "Question": "Describe something you would like to do in the future that would be good for your health.\nYou should say:\n\nwhat you would like to do\nwhat it would involve\nwhen you would like to do it\nand explain why it would be good for your health."
+  },
+  {
+    "id": 578,
+    "Question": "Describe a story about space (real or fictitious) that you have read or watched.\nYou should say:\n\nwhen you read or saw the story\nwhat happened in the story\nwhether the story has any significance today\nand explain how you felt about reading or watching this story."
+  },
+  {
+    "id": 579,
+    "Question": "Describe something you did in your life that was a success.\nYou should say:\n\nwhat you did\nwhen you did it\nwhat difficulties you faced\nand how you felt when you were successful."
+  },
+  {
+    "id": 580,
+    "Question": "Describe a recent sports event that you have participated in or watched and enjoyed very much.\nYou should say:\n\nwhat the event was\nwhen and where it took place\nwhy it is memorable to you\nand describe what you did in this sports event."
+  },
+  {
+    "id": 581,
+    "Question": "Describe an important historical event in your country.\nYou should say:\n\nwhen it happened\nwhat happened\nwho were the most important people involved\nand say why it is/was important to your country."
+  },
+  {
+    "id": 582,
+    "Question": "Describe a typical day in your life when you were a child.\nYou should say:\n\nwho was/were around you\nwhat you ate and did\nwho took care of you\nand say what you most enjoyed doing on your childhood days."
+  },
+  {
+    "id": 583,
+    "Question": "Describe a time when you visited a friend or family member at their workplace.\nYou should say:\n\nwho you visited\nwhere this person worked\nwhy you visited this person’s workplace\nand explain how you felt about visiting this person’s workplace."
+  },
+  {
+    "id": 584,
+    "Question": "Describe an interesting discussion you had with someone about how you spend your money.\nYou should say:\n\nwho you had the discussion with\nwhy you discussed this topic\nwhat the result of the discussion was\nand explain why this discussion was interesting for you."
+  },
+  {
+    "id": 585,
+    "Question": "Describe someone you know who does something well.\nYou should say:\n\nwho this person is\nhow you know this person\nwhat he/she does well\nand explain why you think this person is so good at doing this."
+  },
+  {
+    "id": 586,
+    "Question": "Describe your favourite music band.\nYou should say:\n\nwhat is the name of the music band\nfor how long you listen to their songs/music\nwhat are some famous song of this band\nand explain why particularly you like this music band."
+  },
+  {
+    "id": 587,
+    "Question": "Describe a character or person who was your childhood hero.\nYou should say:\n\nwho he/she was\nis he/she still your hero\nwhy you considered him/her your childhood hero\nand explain what his/her influences was on you as a child."
+  },
+  {
+    "id": 588,
+    "Question": "Describe a noisy place you have been to.\nYou should say:\n\nwhere it was\nwhy you went there\nwhy it was noisy\nand explain how you felt about being there."
+  },
+  {
+    "id": 589,
+    "Question": "Describe an art and craft activity you did at school.\nYou should say:\n\nwhat it was\nwhat you did for this activity\nwho you did it with\nand explain how you felt about this activity."
+  },
+  {
+    "id": 590,
+    "Question": "Describe a prize you have ever won.\nYou should say:\n\nwhat it was\nwhat you had to do to win it\nhow many other competitors were there\nand explain how you felt after winning it."
+  },
+  {
+    "id": 591,
+    "Question": "Describe your favourite flower.\nYou should say:\n\nwhat it is\nwhere it is grown\nif it is common in your country\nand explain why it is your favourite flower."
+  },
+  {
+    "id": 592,
+    "Question": "Talk about something you were disappointed about.\nYou should say:\n\nwhat it was about\nwhen it happened\nwhy it disappointed you\nand explain how you felt about it."
+  },
+  {
+    "id": 593,
+    "Question": "Describe a national day in your country.\nYou should say:\n\nwhat day it is\nhow it is celebrated\nwhat is the historical significance of this day\nand explain how you feel about this day."
+  },
+  {
+    "id": 594,
+    "Question": "Describe a long car journey you went on.\nYou should say:\n\nwhere you went\nhow long it took\nwhom you took the journey with\nand explain why you took the journey on a car."
+  },
+  {
+    "id": 595,
+    "Question": "Describe a street that you enjoyed visiting.\nYou should say:\n\nwhere it was\nhow it looked like\nwhat you did there\n and explain why you enjoyed visiting this street."
+  },
+  {
+    "id": 596,
+    "Question": "Describe a significant historical event in your country you know about.\nYou should say:\n\nwhat it is\nwhen it happened\nwhat happened\nand say why it is a significant historical event for your country."
+  },
+  {
+    "id": 597,
+    "Question": "Describe a language you would like to learn.\nYou should say:\n\nwhat it is and how you plan to learn it\nwhere it is spoken\nhow it will help you\nand explain why you want to learn this language."
+  },
+  {
+    "id": 598,
+    "Question": "Describe a wedding/marriage ceremony you have attended.\nYou should say:\n\nwhere it took place\nwho was getting married\nwhy you attended this wedding ceremony\nand explain what was special about this wedding/marriage ceremony."
+  },
+  {
+    "id": 599,
+    "Question": "Describe a museum you have visited and liked.\nYou should say:\n\nwhat kind of museum it was\nwhen you went there\nwhat you saw and did there\nand explain why you liked this museum."
+  },
+  {
+    "id": 600,
+    "Question": "Describe a shop or a store you often go to.\nYou should say:\n\nwhere it is\nwhat type of people go there\nwhat types of goods are sold there\nand explain why you go there and like/dislike most about it."
+  },
+  {
+    "id": 601,
+    "Question": "Describe something you borrowed from your friend or family.\nYou should say:\n\nwhat you borrowed\nwhen you borrowed it\nwhom you borrowed it from\nand explain why you borrowed it."
+  },
+  {
+    "id": 602,
+    "Question": "Describe a well-paid job that you think you would be good at.\nYou should say:\n\nwhat the job is\nwhat qualifications are required for this job\nhow this job is different from other jobs\nand say why you think you would be good at this job."
+  },
+  {
+    "id": 603,
+    "Question": "Describe a time when you needed to use your imagination.\nYou should say:\n\nwhat the situation was\nwhy you needed to use your imagination\nwhat the difficulties were about it\nand explain how you felt about it."
+  },
+  {
+    "id": 604,
+    "Question": "Describe a time when you had to take care of a baby.\nYou should say:\n\nwhen it was\nwho the baby was\nwhat you did\nand explain how you felt about taking care of this baby."
+  },
+  {
+    "id": 605,
+    "Question": "Describe how you usually spend time with your friends.\nYou should say:\n\nhow often you meet them\nwhat you do together\nwhere you go together\nand say how much you enjoy spending time with your friends."
+  },
+  {
+    "id": 606,
+    "Question": "Describe a meal that you have shared with friends.\nYou should say:\n\nwhen it was\nwhom you shared the meal with\nwhat all of you were talking about\nand explain how you felt about it."
+  },
+  {
+    "id": 607,
+    "Question": "Describe a situation when someone suggested a clever solution.\nYou should say:\n\nwhen it was and what the problem was\nwhat the situation was\nwho suggested the solution\nand say why you think it was a clever solution."
+  },
+  {
+    "id": 608,
+    "Question": "Describe a piece of modern technology you own (like Kindle, smartphone etc.)\nYou should say:\n\nwhat it is\nwhat you use it for\nhow long you have been owning it\nand explain why it is important to you."
+  },
+  {
+    "id": 609,
+    "Question": "Describe an occasion when you could not pay for something you wanted.\nYou should say:\n\nwhat you wanted to pay for\nwhy you weren't able to pay\nwhat you did\nand explain how you felt about the situation."
+  },
+  {
+    "id": 610,
+    "Question": "Describe a piece of expensive clothing which you have bought lately.\nYou should say:\n\nwhat type of clothing you bought\nhow much it cost you\nwhy you bought it\nand explain how you felt after you bought it."
+  },
+  {
+    "id": 611,
+    "Question": "Describe something you have achieved and you are proud of.\nYou should say:\n\nwhat you have achieved\nwhen you have achieved it\nwhat was difficult about it\nand explain why you are proud of this achievement."
+  },
+  {
+    "id": 612,
+    "Question": "Describe your experience of teaching a friend or family member.\nYou should say:\n\nwhom you taught\nwhen it was\nwhat subject you taught\nand explain how you felt about teaching this friend or family member."
+  },
+  {
+    "id": 613,
+    "Question": "Describe a beautiful house/ home you have been to.\nYou should say:\n\nwhere it was\nhow it looked like\nwhen you visited there and why\nand explain why you think this was a beautiful house."
+  },
+  {
+    "id": 614,
+    "Question": "Describe a school you have studied in.\nYou should say:\n\nwhere it is\nhow long have you studied there\nwhat it looks like\nand explain what was the most attractive aspect of this school."
+  },
+  {
+    "id": 615,
+    "Question": "Describe a person who has influenced you to do better in your life.\nYou should say:\n\nwho this person is\nhow you know him/her\nwhat this person does\nand explain how this person has influenced you to do better in life."
+  },
+  {
+    "id": 616,
+    "Question": "Describe an exciting experience in your life.\nYou should say:\n\nwhat it is\nwhen and where it occurred\nwhat happened\nand explain what was so exciting about it."
+  },
+  {
+    "id": 617,
+    "Question": "Describe an activity that you do to concentrate on your study/work.\nYou should say:\n\nwhat the activity is\nwhere you do this activity\nwhy you do this\nand explain how this activity helps you concentrate on your study/work."
+  },
+  {
+    "id": 618,
+    "Question": "Describe a typical day in your life when you were a child.\nYou should say:\n\nwhat you did and ate\nwhat sorts of game or sports you played\nwho looked after you\nand explain what was most enjoyable of it."
+  },
+  {
+    "id": 619,
+    "Question": "Describe your journey to your school or office.\nYou should say:\n\nwhat type of transport you use\nhow long it takes\nwhether you use the same type of vehicle always\nand explain if you enjoy it or not."
+  },
+  {
+    "id": 620,
+    "Question": "Describe a popular place in your country.\nYou should say:\n\nwhere it is\nwhy people go to this place\nwhat people can do there\nand explain why this place is so popular."
+  },
+  {
+    "id": 621,
+    "Question": "Describe a famous scientist or inventor you know about.\nYou should say:\n\nwho is he/she\nwhat he/she worked on or invented\nwhat are some interesting facts about him/ her\nand say whether his work or invention is still important."
+  },
+  {
+    "id": 622,
+    "Question": "Describe a musical instrument you know how to play.\nYou should say:\n\nwhat it is\nhow to play it\nhow long you have been playing it\nand explain why you like this particular musical instrument."
+  },
+  {
+    "id": 623,
+    "Question": "Describe a food court you have been to.\nYou should say:\n\nwhere it is\nwhat types of food it offers\nwhat it looks like\nand explain how popular this food court is."
+  },
+  {
+    "id": 624,
+    "Question": "Describe a recent progress that your country has witnessed.\nYou should say:\n\nwhat it is\nhow long it took to finish or if it is still ongoing\nhow you feel about it\nand explain how it is beneficial to your country."
+  },
+  {
+    "id": 625,
+    "Question": "Describe an aspect of modern society that you dislike.\nYou should say:\n\nwhat it is\nwhy this is happening\nif this is an old issue\nand explain why you dislike it."
+  },
+  {
+    "id": 626,
+    "Question": "Describe a new house that someone you know has recently bought.\nYou should say:\n\nwhere it is\nwho bought this house\nwhat type of house it is\nand explain your impression of this house."
+  },
+  {
+    "id": 627,
+    "Question": "Describe an event when someone you believed betrayed you.\nYou should say:\n\nwhen it was\nwho was the person\nwhat happened\nand explain how you felt about it."
+  },
+  {
+    "id": 628,
+    "Question": "Describe an important social change in your country.\nYou should say:\n\nwhat it was\nhow it happened\nhow long it took\nexplain the effect it has had on people in your country."
+  },
+  {
+    "id": 629,
+    "Question": "Describe an occasion when you bought/made a special cake.\nYou should say:\n\nwhat the occasion was\nwhy you bought the cake\nwhom you ate it with\nand explain why the cake was special."
+  },
+  {
+    "id": 630,
+    "Question": "Describe something kind that someone did for you.\nYou should say:\n\nwho this person was\nwhere and when it happened\nwhat s/he did for you\nexplain how you felt about it."
+  },
+  {
+    "id": 631,
+    "Question": "Something you have started recently which is good for your health.\nYou should say:\n\nwhat it is\nwhen you have started it\nwhy you have started doing it\nand explain how it is good for your health."
+  },
+  {
+    "id": 632,
+    "Question": "Talk about a service which was not good and that you complained about. \nYou should say:\n\nwhat service it was\nwho provided this service\nwhy you needed it\nand explain what was done after you complained about it."
+  },
+  {
+    "id": 633,
+    "Question": "Describe a time when you needed to use imagination.\nYou should say:\n\nwhat the situation was\nwhy you needed to use your imagination\nwhat difficulties you faced\nand explain how you felt about it."
+  },
+  {
+    "id": 634,
+    "Question": "Describe a piece of work you did fairly quickly.\nYou should say:\n\nwhat work it was\nwhy you did it quickly\nhow easy or difficult it was\nand explain what the result was."
+  },
+  {
+    "id": 635,
+    "Question": "Describe a language other than English that you would like to learn.\nYou should say:\n\nwhat the language is\nwhere it is spoken\nwhat you think would be difficult about learning it\nand explain why you would like to learn it."
+  },
+  {
+    "id": 636,
+    "Question": "Describe a famous person whom you admire.\nYou should say:\n\nwho this person is\nwhat makes him/her famous\nwhere does he/she live \nand explain why you admire him/her."
+  },
+  {
+    "id": 637,
+    "Question": "Describe a success your friend has had that you are proud of.\nYou should say:\n\nwhat success it was\nhow he/she achieved it\nhow easy or difficult it was for your friend\nand explain why you are proud of it."
+  },
+  {
+    "id": 638,
+    "Question": "Describe a skill that takes a long time to learn.\nYou should say:\n\nwhat the skill is\nhow useful that skill is in our daily life\nwhy it takes a long time to learn\nand explain how you can learn that skill."
+  },
+  {
+    "id": 639,
+    "Question": "Describe a time when you complained about something.\nYou should say:\n\nwhat was the issue\nwhom you complained about it\nwhat the result was\nand explain how you felt about it."
+  },
+  {
+    "id": 640,
+    "Question": "Describe an interesting talk or lecture you have heard or attended to.\nYou should say:\n\nwho was the speaker\nwhen and where you heard/attended it\nwhat it was about\nand explain why you think it was interesting."
+  },
+  {
+    "id": 641,
+    "Question": "Describe an interesting part of your country.\nYou should say:\n\nwhere it is\nwhat people can see and do there\nwhat it is famous for\nand explain why you think it is an interesting place."
+  },
+  {
+    "id": 642,
+    "Question": "Describe a piece of good news that you heard/received/read on the internet.\nYou should say:\n\nwhat news it was\nwhen and where you heard/received/read it\nhow the news affected you\nand explain how you felt about it."
+  },
+  {
+    "id": 643,
+    "Question": "Describe a time when you travelled with an old person.\nYou should say:\n\nwhen it was\nwho the person was\nwhere you were going/travelling\nand explain how you felt about travelling with this old person."
+  },
+  {
+    "id": 644,
+    "Question": "Describe a situation when you did not have enough time for something.\nYou should say:\n\nwhat the situation was\nwhen did it happen\nwhat you were trying to do\n  and explain how did you handle the situation."
+  },
+  {
+    "id": 645,
+    "Question": "Describe an important tree or plant in your country.\nYou should say:\n\nwhat it is\nwhere it grows\nhow it looks like\nand explain why is it an important tree/plant in your country."
+  },
+  {
+    "id": 646,
+    "Question": "Describe a book you would like to write.\nYou should say:\n\nwhat kind of book it would be\nwhen you had the idea to write this book\nwhat are your plans to finish it\nand explain why you were motivated to write this book."
+  },
+  {
+    "id": 647,
+    "Question": "Describe a food that people eat on special occasions/events.\nYou should say:\n\nwhat food it is\nwhat is the special events/occasions when it is made\nhow it is made\nand explain why people prefer it on special occasions/events."
+  },
+  {
+    "id": 648,
+    "Question": "Describe a time when you showed or taught a young person how to do something.\nYou should say:\n\nwho this person was\nwhat you have taught him/her\nwhether he/she learnt what you taught\nand explain how you felt about teaching this young person."
+  },
+  {
+    "id": 649,
+    "Question": "Describe a person you wanted to be similar to when you were growing up.\nYou should say:\n\nwho he/she was\nhow you met him/her\nwhat qualities/attributes of this person inspired you\nand explain why you wanted to be like him/her."
+  },
+  {
+    "id": 650,
+    "Question": "Describe a piece of art you like.\nYou should say:\n\nwhat the work of art is\nwhen you first saw it\nwhat you know about it\nand explain why you like this piece of art."
+  },
+  {
+    "id": 651,
+    "Question": "Describe a time when you had to change your plan.\nYou should say:\n\nwhen this happened\nwhat made you change the plan\nwhat the new plan was\nand how you felt about the change."
+  },
+  {
+    "id": 652,
+    "Question": "Describe a job one of your grandparents' did.\nYou should say:\n\nwhose job it was\nwhat job it was\nhow he/she carried out the job\nand explain what you have learned from it."
+  },
+  {
+    "id": 653,
+    "Question": "Describe an important decision you made with the help of someone else.\nYou should say:\n\nwhat the decision was\nwho helped you\nhow he/she helped you\nand explain why you took help from this person regarding this decision."
+  },
+  {
+    "id": 654,
+    "Question": "Describe something you bought but did not use much.\nYou should say:\n\nwhat you bought\nwhen you bought it\nwhy you bought it\nand explain why you didn't use it much."
+  },
+  {
+    "id": 655,
+    "Question": "Describe a special day/date in your country’s history.\nYou should say:\n\nwhat day/date it was\nwhat happened on that day/date\nhow people celebrate this day/date\nand explain why this day/date is so special in your country,"
+  },
+  {
+    "id": 656,
+    "Question": "Describe something you do well in your job or study.\nYou should say:\n\nwhat it is\nhow well you do it\nwhether it is easy or difficult\nand explain why you think you do it better than others."
+  },
+  {
+    "id": 657,
+    "Question": "Describe a subject you did not like when you were at school but now you find interesting.\nYou should say:\n\nwhat subject it was\nhow much time you spent to learn it\nwhy you did not like it in school\nand explain why you find this subject interesting now."
+  },
+  {
+    "id": 658,
+    "Question": "Describe a radio program/show that you find interesting.\nYou should say:\n\nwhat it is about\nwhich radio station broadcasts it\nhow often you listen to it\nand explain why you find it interesting."
+  },
+  {
+    "id": 659,
+    "Question": "Describe a radio program/show that you find interesting.\nYou should say:\n\nwhere it was located\nhow it looked like\nwhen you went there and why\nand explain why you think this was a beautiful house."
+  },
+  {
+    "id": 660,
+    "Question": "Describe a person who is beautiful or handsome.\nYou should say:\n\nwho this person is\nhow you know or met him/her\nwhat this person does\nand explain what makes this person beautiful or handsome."
+  },
+  {
+    "id": 661,
+    "Question": "Describe a person you would like to study or work with.\nYou should say:\n\nwho this person is\nhow you know him/her\nwhat you would like to study or do with him/her\nand explain why you would like to study or work with this person."
+  },
+  {
+    "id": 662,
+    "Question": "Describe a remote/faraway place where you would like to visit.\nYou should say:\n\nwhere it is\nhow far it is from your living place\nwhen and how would you go there\nand explain why you would like to visit this place."
+  },
+  {
+    "id": 663,
+    "Question": "Describe your idea of a perfect home or a dream house.\nYou should say:\n\nwhere it would be located\nwhat it would look like\nwhat facilities this house would have\nand explain why this would be your perfect/dream house."
+  },
+  {
+    "id": 664,
+    "Question": "Describe a meal that you enjoyed at a restaurant.\nYou should say:\n\nwhere the restaurant was\nwhat food you ordered\nwho was/were with you\nand explain why you enjoyed it so much."
+  },
+  {
+    "id": 665,
+    "Question": "Describe a time when you found something that someone lost.\nYou should say:\n\nwhat it was\nwho lost it\nhow  you found it\nand explain what you did about it."
+  },
+  {
+    "id": 666,
+    "Question": "Describe a place where you like to study (either indoor or outdoor).\nYou should say:\n\nwhere it is\nwhen you study there\nwhat you study there\nand explain why you like to study there."
+  },
+  {
+    "id": 667,
+    "Question": "Describe a historical period/time you want to know more about.\nYou should say:\n\nwhich period it is\nhow you know about this period of history\nwhat its importance is in history\nand explain what you want to know more about this period."
+  },
+  {
+    "id": 668,
+    "Question": "Describe an interesting old person you have met.\nYou should say:\n\nwho that person is\nhow you have met that person\nwhere you met him/her\nand explain why you think he/she was interesting."
+  },
+  {
+    "id": 669,
+    "Question": "Describe a memorable event in your life.\nYou should say:\n\nwhen the event took place\nwhere the event took place\nwhat happened exactly"
+  },
+  {
+    "id": 670,
+    "Question": "Describe an advertisement that you remember.\nYou should say:\n\nwhat type of advertisement it is\nwhat it advertised\nwhere you saw it\nand explain why you remember this advertisement."
+  },
+  {
+    "id": 671,
+    "Question": "Describe a practical skill you have learned.\nYou should say:\n\nwhat this skill is\nwhen you learned it\nhow you learned it\nand explain how this skill is useful to you."
+  },
+  {
+    "id": 672,
+    "Question": "Describe a prize you want to win.\nYou should say:\n\nwhat prize it is\nwhat you will need to do to win it\nhow easy or difficult it would be\nand explain why you want to win that prize."
+  },
+  {
+    "id": 673,
+    "Question": "Describe a time when you gave someone some money as a gift.\nYou should say:\n\nwhen it was\nwhom you gave it\nwhat occasion it was\nand explain why you gave some money to this person as a gift."
+  },
+  {
+    "id": 674,
+    "Question": "Describe a child with whom you had an interesting conversation.\nYou should say:\n\nwho the child was\nhow you know him/her\nwhat conversation you have had with him/her\nand explain why you think the conversation you had with this child was interesting."
+  },
+  {
+    "id": 675,
+    "Question": "Describe a storybook or a novel that was particularly interesting to you.\nYou should say:\n\nwhat the storybook/novel was\nwhat it was about\nwhy you read it\nand explain why you think it was so interesting."
+  },
+  {
+    "id": 676,
+    "Question": "Describe an item of clothing that someone bought for you.\nYou should say:\n\nwhat it was\nwho bought it for you and why\nwhat it looked like\nand explain how you felt about this item of clothing."
+  },
+  {
+    "id": 677,
+    "Question": "Describe a person you know who collects something.\nYou should say:\n\nwhat he/she collects\nhow he/she stores/saves the collection\nhow long he/she has been collecting\nand explain why he/she enjoys collecting that thing."
+  },
+  {
+    "id": 678,
+    "Question": "Describe someone you know who is good at cooking.\nYou should say:\n\nwho this person is\nhow you know him or her\nwhat kinds of food he/she cooks\nand explain why you think this person is good at cooking."
+  },
+  {
+    "id": 679,
+    "Question": "Describe an ambitious person you know.\nYou should say:\n\nwho the person is\nhow you know this person\nwhat his/her ambition is\nand explain how important his/her ambition is."
+  },
+  {
+    "id": 680,
+    "Question": "Describe someone you know who enjoys outdoor activities.\nYou should say:\n\nwho the person is\nwhat outdoor activities he/she does\nhow often he/she does outdoor activities\nand explain why you think he/she enjoys outdoor activities."
+  },
+  {
+    "id": 681,
+    "Question": "Describe your dream workplace.\nYou should say:\n\nwhat it would look like\nwhat facilities it would have\nwhere it would be\nand say if you think you will ever work in a place like that or not."
+  },
+  {
+    "id": 682,
+    "Question": "Describe a success or an achievement in your life.\nYou should say:\n\nwhat it is\nwhen did you achieve it\nwhat you did to achieve it\nand describe how you felt after you achieved it."
+  },
+  {
+    "id": 683,
+    "Question": "Describe a situation when you found something.\nYou should say:\n\nwhen it was\nwhat it was\nwhat you did with it\nand explain how you felt when you found this item."
+  },
+  {
+    "id": 684,
+    "Question": "Describe a person who cares about the environment.\nYou should say:\n\nwho this person is\nhow you know him/her\nwhat he/she does\nand explain why you think this person cares about the environment."
+  },
+  {
+    "id": 685,
+    "Question": "Describe a time when you needed to search for important information on the internet.\nYou should say:\n\nwhen it was\nwhat information you needed\nhow long it took you to get the information\nand explain how you felt after you found the information on the internet."
+  },
+  {
+    "id": 686,
+    "Question": "Describe your favourite place for shopping.\nYou should say:\n\nwhere it is\nwhat types of products are available there\nhow frequently you visit there\nand explain why this is your favourite place for shopping."
+  },
+  {
+    "id": 687,
+    "Question": "Describe a country where you would like to work for a short time.\nYou should say:\n\nwhich country is this\nwhat type of work you would do\nhow long you would like to work there\nand explain why you would like to work in this country."
+  },
+  {
+    "id": 688,
+    "Question": "Describe an outdoor activity that you haven’t tried yet and would like to do in the future.\nYou should say:\n\nwhat outdoor activity it is\nwhy you have not tried it yet\nwhen you plan to do it\nand explain why you are interested in doing this outdoor activity."
+  },
+  {
+    "id": 689,
+    "Question": "Describe a time when someone gave you something you really wanted.\nYou should say:\n\nwhat it was\nwhen it was\nwho gave it to you\nand explain how you felt when the person gave it to you."
+  },
+  {
+    "id": 690,
+    "Question": "Describe your favourite day of the week.\nYou should say:\n\nwhat day it is\nwhat you usually do on that day\nhow this day is different to you than other days of the week\nand explain why this is your favourite day of the week."
+  },
+  {
+    "id": 691,
+    "Question": "Describe a cold winter morning you remember.\nYou should say:\n\nwhen it was\nwhat you were doing\nwhat the temperature was like\nand explain why you remember this particularly cold winter morning."
+  },
+  {
+    "id": 692,
+    "Question": "Describe something interesting that happened in your school.\nYou should say:\n\nwhat event it was\nhow old you were then\nwho were there\nand explain what was interesting about it."
+  },
+  {
+    "id": 693,
+    "Question": "Describe a time when you were appreciated for something you did.\nYou should say:\n\nwhen it was\nwhat you did\nwho appreciated you\nand explain how you felt when you were appreciated for the thing you did."
+  },
+  {
+    "id": 694,
+    "Question": "Describe your idea of a perfect holiday destination.\nYou should say:\n\nwhere it would be\nwhat type of place it would be\nhow it will look like\nand explain why you think it would be a perfect holiday destination."
+  },
+  {
+    "id": 695,
+    "Question": "Describe a vehicle you would like to own.\nYou should say:\n\nwhat type of vehicle it is\nhow it will help you\nwhen you are going to buy it\nand explain why you would like to own this vehicle."
+  },
+  {
+    "id": 696,
+    "Question": "Describe something you can make by yourself.\nYou should say:\n\nwhat it is\nhow you make it\nwhether you like to make it\nand explain how you feel about making it yourself."
+  },
+  {
+    "id": 697,
+    "Question": "Describe a character from a story/film/TV programme.\nYou should say:\n\nwho this character is\nwhen did you first see/read about him/her\nwhat kind of person this character is\nand explain how much you like this character."
+  },
+  {
+    "id": 698,
+    "Question": "Describe a female leader you like.\nYou should say:\n\nwho is she\nwhere is she from\nwhat she does for others\nand explain why you like her."
+  },
+  {
+    "id": 699,
+    "Question": "Describe a situation when you had to keep silent.\nYou should say:\n\nwhen it was\nwhere it was\nwhy you needed to remain silent\nand explain how you felt about it."
+  },
+  {
+    "id": 700,
+    "Question": "Describe a person who often travels by plane.\nYou should say:\n\nwho this person is\nwhat he/she does\nhow you know him/her\nand explain how frequently he travels by plane and why."
+  },
+  {
+    "id": 701,
+    "Question": "Describe an important conversation that has brought a positive change in your life.\nYou should say:\n\nwhom you had this conversation with\nhow long this conversation was\nwhy you had this conversation\nand explain how this conversation has brought a positive change in your life."
+  },
+  {
+    "id": 702,
+    "Question": "Describe a company or a business that employes many youths in your country.\nYou should say:\n\nwhat type of company/business it is\nhow many young people it employes\nwhat these young people do there\nand explain how this company/business and its operation is important to your country."
+  },
+  {
+    "id": 703,
+    "Question": "Describe a time when you moved to a new school.\nYou should say:\n\nwhen it was\nwhy you moved\nhow old you were then\nand explain how you felt about it."
+  },
+  {
+    "id": 704,
+    "Question": "Describe something you did for the first time and enjoyed.\nYou should say:\n\nwhat it was\nwhen it was\nwhat you did\nand explain why it was something you enjoyed so much."
+  },
+  {
+    "id": 705,
+    "Question": "Describe a situation that made you feel uncomfortable.\nYou should say:\n\nwhen it was\nwhat made you feel uncomfortable\nwhat you did then\nand explain how you felt about it."
+  },
+  {
+    "id": 706,
+    "Question": "Describe an important email that you have received lately.\nYou should say:\n\nwho sent you the email\nwhen you received it\nwhether you were expecting it\nand explain how important this email was to you."
+  },
+  {
+    "id": 707,
+    "Question": "Describe an unpopular opinion you hold or have.\nYou should say:\n\nwhat it is\nfor how long you have this opinion in your mind\nwhether you have ever shared it to someone\nand explain why you think this is an unpopular opinion."
+  },
+  {
+    "id": 708,
+    "Question": "Describe something important you have learned recently.\nYou should say:\n\nwhat you have learned\nwhere you learned it from\nhow important the lesson was\nand explain what impact this has on your mind."
+  },
+  {
+    "id": 709,
+    "Question": "Describe a crowded place you have been to.\nYou should say:\n\nwhere the place is (or, was)\nwhen you went there\nwith whom you went there\nand explain how you felt about this crowded place."
+  },
+  {
+    "id": 710,
+    "Question": "Describe an experience when you were disappointed.\nYou should say:\n\nwhen it was\nwhat exactly happened\nwhy it was disappointing to you\nand explain how you felt about it."
+  },
+  {
+    "id": 711,
+    "Question": "Describe an interesting conversation you had with someone you never knew before.\nYou should say:\n\nwho was the person\nwhat type of conversation you had\nhow you met this person and how the conversation started\nand explain how you felt about having this conversation with a stranger."
+  },
+  {
+    "id": 712,
+    "Question": "Describe a software that you often use.\nYou should say:\n\nwhat it is\nwhat you use it for\nwhat benefits it brings to you\nand explain why this is an important software for you."
+  },
+  {
+    "id": 713,
+    "Question": "Describe a time when you were in a public place and you overheard a stranger talking on the phone.\nYou should say:\n\nwhere this happened\nwhen it happened\nwhat the person was talking about\nand explain how you felt about hearing the conversation."
+  },
+  {
+    "id": 714,
+    "Question": "Describe a person you recently met again after a long time.\nYou should say:\n\nwho the person was\nwhere you met him/her\nwhy/how you met him/her again\nand explain if you would like to get to know this person better."
+  },
+  {
+    "id": 715,
+    "Question": "Describe an occasion when you had to wait a long time for someone or something to arrive.\nYou should say:\n\nwho or what you were waiting for\nhow long you had to wait\nwhy you had to wait a long time\nand explain how you felt about waiting for such a long time."
+  },
+  {
+    "id": 716,
+    "Question": "Describe a time when you went to an event and arrived early.\nYou should say:\n\nwhat the event was\nwhere it was\nwhy you arrived early\nand say how you felt about arriving early."
+  },
+  {
+    "id": 717,
+    "Question": "Describe a time when you received some positive feedback.\nYou should say:\n\nwhen it was\nwhat the feedback was related to\nwho gave you the feedback\nand explain how you felt about it."
+  },
+  {
+    "id": 718,
+    "Question": "Describe a present or gift someone gave you that you really liked.\nYou should say:\n\nwhat kind of present/gift it was\nwho gave it to you\nwhy you were given it\nand explain why you liked it so much."
+  },
+  {
+    "id": 719,
+    "Question": "Describe a person in the news whom you want to meet.\nYou should say:\n\nwho this person is\nwhy this person showed up on TV\nhow you know about this person\nand explain why you want to meet him/her."
+  },
+  {
+    "id": 720,
+    "Question": "Describe an important piece of news that you received via text message.\nYou should say:\n\nwho shared the message with you\nwhat the news was about\nhow was it written\nand explain why the news was important to you."
+  },
+  {
+    "id": 721,
+    "Question": "Describe a time when you were excited.\nYou should say:\n\nwhen it was\nwhere you were\nwho were with you\nand explain why you were so excited."
+  },
+  {
+    "id": 722,
+    "Question": "Describe an important journey that was delayed.\nYou should say:\n\nwhere you were going\nwhy the journey was important\nwhat caused the delay\nand explain how you felt about the delay."
+  },
+  {
+    "id": 723,
+    "Question": "Describe a person who has apologized to you.\nYou should say:\n\nwhen it was\nwho the person was\nwhy this person apologised to you\nand explain how you felt about it."
+  },
+  {
+    "id": 724,
+    "Question": "Describe an experience you had as a member of a team.\nYou should say:\n\nwhat type of team it is/was\nwho were the members of the team\nWhat role you played in this team\nand explain how being a member of this team is/was helpful to you."
+  },
+  {
+    "id": 725,
+    "Question": "Describe a crowded place that you have visited.\nYou should say:\n\nwhere it is\nwhen you visited this place\nwhy you visited it\nand explain how you felt about visiting this crowded place."
+  },
+  {
+    "id": 726,
+    "Question": "Describe a decision made by someone you know that changed his/her life.\nYou should say:\n\nwho this person is/was\nwhat decision he/she made\nwhether it was a good decision\nand explain how this has changed this person's life."
+  },
+  {
+    "id": 727,
+    "Question": "Describe someone or something that makes a lot of noise.\nYou should say:\n\nwho or what makes the noise\nwhat the noise is like\nwhy that thing or person makes the noise\nand explain how you feel about it."
+  },
+  {
+    "id": 728,
+    "Question": "Describe some local news that people in your locality are interested in.\nYou should say:\n\nwhat the news is\nhow you know about this news\nhow the news involves your locality\nand explain why people in your area are interested in the news."
+  },
+  {
+    "id": 729,
+    "Question": "Describe the first time you used a foreign language to communicate.\nYou should say:\n\nwhat the situation was\nwhere you were then\nwho you communicated with\nand explain why you used a foreign language to communicate on that occasion."
+  },
+  {
+    "id": 730,
+    "Question": "Describe a time when you were sleepy but had to stay awake.\nYou should say:\n\nwhen it was and where you were\nwhy you were sleepy\nwhy you had to stay awake\nand how you stayed awake at that moment."
+  },
+  {
+    "id": 731,
+    "Question": "Describe an experience when you played an indoor game with others.\nYou should say:\n\nwhen it was\nwhat game you played\nwho you played with\nand explain how much you enjoyed playing this indoor game."
+  },
+  {
+    "id": 732,
+    "Question": "Describe a leisure activity that you do with your family.\nYou should say:\n\nwhat activity it is\nwhen you do it with your family\nhow much you enjoy it\nand explain how this is helpful for you and your family."
+  },
+  {
+    "id": 733,
+    "Question": "Describe a hotel that you know.\nYou should say:\n\nwhere this hotel is\nwhat this hotel looks like\nwhat facilities this hotel has\nand explain whether you think this is a nice hotel to stay in."
+  },
+  {
+    "id": 734,
+    "Question": "Describe a weekend that you enjoyed and still remember.\nYou should say:\n\nwhen it was\nwhat you did during this weekend\nhow you enjoyed it\nand explain why you still remember it."
+  },
+  {
+    "id": 735,
+    "Question": "Describe a time when the internet helped you solve a problem.\nYou should say:\n\nwhen it was\nwhat problem you faced\nhow the internet helped you solve the problem\nand explain how you felt about it."
+  },
+  {
+    "id": 736,
+    "Question": "Describe a volunteer work experience you have had.\nYou should say:\n\nwhat volunteer work it was\nwhere it was\nwhy you volunteered\nand explain how you felt about it."
+  },
+  {
+    "id": 737,
+    "Question": "Describe a website that you bought something from.\nYou should say:\n\nwhat the website is\nwhat you bought from this website\nhow satisfied you were with what you bought\nand explain what you liked or disliked about using this website."
+  }
+]

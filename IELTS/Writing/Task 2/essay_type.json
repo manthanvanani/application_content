@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "Opinion Essay",
+    "description": "Give reasons"
+  },
+  {
+    "id": 2,
+    "type": "Discussion Essay.",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "type": "Argumentative Essay",
+    "description": "Agree/ Disagree"
+  },
+  {
+    "id": 4,
+    "type": "none",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "type": "Comparing the advantages & disadvantages",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "type": "Causes and Solutions.",
+    "description": ""
+  }
+]
