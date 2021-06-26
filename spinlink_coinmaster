@@ -1,5 +1,24 @@
 [
 {
+    "id": 68,
+    "key": "26 June 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "25 spins",
+        "time" : "04:16 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)2FbupttMx5kkwsQW8OprkfsHr3v6aFwYRk6bViZEuW8"
+      },
+      {
+        "id": 2,
+        "key": "10 spins, 1 million coins",
+        "time" : "04:16 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBoQLYLB_20210626"
+      }
+]
+},
+{
     "id": 67,
     "key": "25 June 2021",
         "colors" : ["#093028","#237A57"],
