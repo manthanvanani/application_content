@@ -1,5 +1,18 @@
 [
 {
+    "id": 74,
+    "key": "02 July 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "10 spins, 1 million coins",
+        "time" : "04:34 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)BwuWTVPSoUK7yD0t-1nF4NHz4YvtexQwlX2XZnRy0EQ"
+      }
+]
+},
+{
     "id": 73,
     "key": "01 July 2021",
         "colors" : ["#093028","#237A57"],
@@ -15,6 +28,18 @@
         "key": "10 spins, 1 million coins",
         "time" : "04:34 PM",
         "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBuKAXVR_20210701"
+      },
+      {
+        "id": 3,
+        "key": "Coin Craze Event",
+        "time" : "02:02 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_cc:3m_20210701"
+      },
+      {
+        "id": 4,
+        "key": "25 spins",
+        "time" : "02:02 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBnFzgZf_20210701"
       }
 ]
 },
