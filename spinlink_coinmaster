@@ -1,5 +1,30 @@
 [
 {
+    "id": 76,
+    "key": "04 July 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "35 spins",
+        "time" : "04:51 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)m70tJqGxgIHERBxx3lHZdOnsN2JXs8S3hsxg06wwFl4"
+      },
+      {
+        "id": 2,
+        "key": "Set Blast Event",
+        "time" : "04:51 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20210704"
+      },
+      {
+        "id": 3,
+        "key": "25 spins",
+        "time" : "04:51 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBlfFsKl_20210704"
+      }
+]
+},
+{
     "id": 75,
     "key": "03 July 2021",
         "colors" : ["#093028","#237A57"],
@@ -15,6 +40,12 @@
         "key": "10 spins, 1 million coins",
         "time" : "06:16 PM",
         "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBLLsNGY_20210703&fbclid=IwAR2rDrqKRxkNtRBBU3b2XdMfNlNzZkq_KobQJ8xWxOGDFrRFqH1NK_OFaZU"
+      },
+      {
+        "id": 3,
+        "key": "25 spins",
+        "time" : "04:50 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBNlCpCi_20210703"
       }
 ]
 },
