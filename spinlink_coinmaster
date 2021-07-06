@@ -1,5 +1,18 @@
 [
 {
+    "id": 78,
+    "key": "06 July 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "10 spins, 25 million coins",
+        "time" : "02:00 PM",
+        "link": "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)qvE0Ixu4hAuena4ieshLMSWd_gGawe962NAqeY04M24&campaign=(_)qvE0Ixu4hAuena4ieshLMSWd_gGawe962NAqeY04M24&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+      }
+]
+},
+{
     "id": 77,
     "key": "05 July 2021",
         "colors" : ["#093028","#237A57"],
