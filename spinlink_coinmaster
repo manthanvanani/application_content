@@ -1,5 +1,24 @@
 [
 {
+    "id": 79,
+    "key": "07 July 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "25 million coins",
+        "time" : "02:00 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)vzIZa8INWRUrD5T1VNi05icK7FgoNr00WhmPtov3omg"
+      },
+      {
+        "id": 2,
+        "key": "10 spins, 1 million coins",
+        "time" : "10:08 AM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIIdzhNC_20210707"
+      }
+]
+},
+{
     "id": 78,
     "key": "06 July 2021",
         "colors" : ["#093028","#237A57"],
