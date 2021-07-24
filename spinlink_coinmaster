@@ -1,5 +1,30 @@
 [
 {
+    "id": 95,
+    "key": "24 July 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "25 million coins",
+        "time" : "08:30 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)zmyzyeD8k6gCDeNFiiZ6xp29i4cHErnzfMivgHJNeZo"
+      },
+      {
+        "id": 2,
+        "key": "2 million coins",
+        "time" : "08:30 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIIrKKQP_20210724"
+      },
+      {
+        "id": 3,
+        "key": "25 spins",
+        "time" : "08:30 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBjzgGYO_20210724"
+      }
+]
+},
+{
     "id": 94,
     "key": "23 July 2021",
         "colors" : ["#093028","#237A57"],
@@ -21,6 +46,18 @@
         "key": "10 spins, 1 million coins",
         "time" : "06:47 PM",
         "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSVLrTwc_20210723"
+      },
+      {
+        "id": 4,
+        "key": "25 spins",
+        "time" : "08:29 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIYQkUxv_20210723"
+      },
+      {
+        "id": 5,
+        "key": "25 spins",
+        "time" : "08:29 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBpbLtbw_20210723"
       }
 ]
 },
