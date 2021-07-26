@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "name": "Band Twisting Crunch",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-1.gif",
+    "description": "Secure the band low, lie down on your back and hold the handles with your arms extended above your knees, palms facing down.\n\nRoll your shoulder plates from up the floor while stretching the band and slowly lower yourself back down after a short pause.\n\nKeep your arms extended throughout."
+  },
+  {
+    "id": 2,
+    "name": "",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-2.gif",
+    "description": "Secure the band low, lie down on your back and hold one handle with your hand on the same side, on top of your belly, plam facing down.\n\nRoll your shoulder plate from up the floor while stretching the band towards your other side and slowly lower youself back down after a short pause.\n\nKeep your arm extended throughout."
+  },
+  {
+    "id": 3,
+    "name": "Band Twisting Crunch - Kneeling",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-3.gif",
+    "description": "Secure the band high, kneel down on the floor and hold one handle with your hand near its shoulder, elbow bent.\n\nTilt your upper body forward and rotate it while stretching the band towards your other side's knee and slowly raise yourself back up after a short pause.\n\nKeep the angle in your elbow constant throughout."
+  },
+  {
+    "id": 4,
+    "name": "Band Trunk Rotation",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-4.gif",
+    "description": "Secure the band at medium height, stand up and grab both handles with your hands in front of your abdomen, elbows at 90 degree angles.\n\nRotate your upper body towards your left and slowly return to your starting position before going to the right side and returning.\n\nKeep the angles in your elbows constant throughout."
+  },
+  {
+    "id": 5,
+    "name": "Band Trunk Rotation - Arms Extended",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-5.gif",
+    "description": "Secure the band at medium height, stand up and grab both handles with your hands, arms extended out in front of your abdomen.\n\nRotate your upper body towards your left and slowly return to your starting position before going to the right side and returning.\n\nKeep your arms extended out in front of you throughout."
+  },
+  {
+    "id": 6,
+    "name": "Band Trunk Rotation - Arms Extended; Low to High",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-6.gif",
+    "description": "Secure the band low, stand up and grab both handles with your hands, arms extended out in front of your hips.\n\nRotate your upper body towards your left while bringing your hands up and slowly return to your starting position before going to the right side and returning.\n\nKeep your arms extended out in throughout."
+  },
+  {
+    "id": 7,
+    "name": "Band Side Bend",
+    "mainname": "Abs",
+    "img_url": "http://www.band-exercises.net/exercises/abs/images/band-ab-exercise-7.gif",
+    "description": "Secure the band high, stand up sideways and grab both handles with your hands, arms extended up on top of your head.\n\nTilt your upper body to your left and slowly bringing it back after going to your right side and then returing to your starting position.\n\nKeep your arms extended ou above your head throughout."
+  },
+  {
+    "id": 8,
+    "name": "Band Row - Standing; Low",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-1.gif",
+    "description": "Secure the band low, stand up and hold the handles with your hands, arms extended in front of your hips, palms facing each other.\n\nPull the handles back towards your abdomen and allow them to slowly return after a short pause.\n\nKeep your back straight and still throughout"
+  },
+  {
+    "id": 9,
+    "name": "Band Row - Standing; Low; One Arm",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-2.gif",
+    "description": "Secure the band low, stand up with your upper body bent forward and grab one handle with your hand, arm extended in front of your knee, palm facing down.\n\nPull the handle back towards your abdomen and allow it to slowly return after a short pause.\n\nKeep your back straight and still throughout."
+  },
+  {
+    "id": 10,
+    "name": "Band Row - Seated",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-3.gif",
+    "description": "Secure the band low, sit down with your legs extended and grab both handles on top of your knees, arms extended and palms facing each other.\n\nPull the handles back towards your abdomen and allow them to slowly return after a short pause.\n\nKeep your back straight and still throughout."
+  },
+  {
+    "id": 11,
+    "name": "Band Row - Seated; High",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-4.gif",
+    "description": "Secure the band high, sit down and grab both handles high in front of your head, arms extended and palms facing each other.\n\nPull the handles back towards your abdomen and allow them to slowly return after a short pause.\n\nKeep your back straight and still throughout."
+  },
+  {
+    "id": 12,
+    "name": "Band Back Fly - Standing",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-5.gif",
+    "description": "Secure the band at medium height, stand up and grab both handles with your hands, arms extended in front of your chest, palms facing each other.\n\nPull the handles back by moving your arms to each sides of your body and allow them to slowly return after a short pause.\n\nKeep your back and arms straight throughout."
+  },
+  {
+    "id": 13,
+    "name": "Band Back Fly - Bent-Over",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-6.gif",
+    "description": "Secure the band beneath your feet, stand up with your body tilted foward and grab both handles with your hands, arms extened in front of your knees, palms facing each other.\n\nPull the handles out and up on each sides of your body and allow them to slowly return after a short pause.\n\nKeep your back and arms straight throughout."
+  },
+  {
+    "id": 14,
+    "name": "Band Back Fly - Lying",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-7.gif",
+    "description": "Secure the band beneath your foot held in the air and lie on your back and hold the handles with your hands above your chest, arms extended and plams facing each other.\n\nPull the handles out to each sides of your body and allow them to slowly return after a short pause.\n\nKeep your arms straight throughout."
+  },
+  {
+    "id": 15,
+    "name": "Band Pulldown - Arms Extended",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-8.gif",
+    "description": "Secure the band high, stand up and grab both handles with your hands in front of your head, arms extended and palms facing each other.\n\nPull the handles down towards each sides of your body and allow them to slowly return after a short pause.\n\nBreathe out while pulling and breathe in while returning to starting position."
+  },
+  {
+    "id": 16,
+    "name": "Band Arm-Leg Extension",
+    "mainname": "Back",
+    "img_url": "http://www.band-exercises.net/exercises/back/images/band-back-exercise-9.gif",
+    "description": "Secure the band to your feet, kneel on your other side's knee and grab the handle with that same side's hand.\n\nStretch the band by extending your leg and arm until it is parallel to the floor and slowly return back to the starting position after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 17,
+    "name": "Band Chest Press",
+    "mainname": "Chest",
+    "img_url": "http://www.band-exercises.net/exercises/chest/images/band-chest-exercise-1.gif",
+    "description": "Secure the band at medium height behind you and grab one handle with your hand near your shoulder, palm facing down.\n\nPush the handle straight forward until your arm is extended and parallel to the floor and allow it to slowly return after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 18,
+    "name": "Band Chest Press - Incline",
+    "mainname": "Chest",
+    "img_url": "http://www.band-exercises.net/exercises/chest/images/band-chest-exercise-2.gif",
+    "description": "Secure the band at medium height behind you and grab one handle with your hand near your shoulder, palm facing down.\n\nPush the handle forward and up until your arm is extended and the handle at the same height as your head and allow it to slowly return after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 19,
+    "name": "Band Chest Press - Decline",
+    "mainname": "Chest",
+    "img_url": "http://www.band-exercises.net/exercises/chest/images/band-chest-exercise-3.gif",
+    "description": "Secure the band at medium height behind you and grab one handle with your hand near your shoulder, palm facing down.\n\nPush the handle forward and down until your arm is extended and the handle at the same height as your navel and allow it to slowly return after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 20,
+    "name": "Band Chest Fly",
+    "mainname": "Chest",
+    "img_url": "http://www.band-exercises.net/exercises/chest/images/band-chest-exercise-4.gif",
+    "description": "Secure the band at medium height on your side and grab one handle with your hand, arm extended out at shoulder height, palm facing forward.\n\nPull the handle in until it is in front of your chest and allow it to slowly return after a short pause.\n\nKeep your arm extended (or close to it) throughout."
+  },
+  {
+    "id": 21,
+    "name": "Band Chest Fly - Incline",
+    "mainname": "Chest",
+    "img_url": "http://www.band-exercises.net/exercises/chest/images/band-chest-exercise-5.gif",
+    "description": "Secure the band low on your side and grab one handle with your hand, arm extended out at thigh height, palm facing forward.\n\nPull the handle in until it is in front of your chest and allow it to slowly return after a short pause.\n\nKeep your arm extended (or close to it) throughout."
+  },
+  {
+    "id": 22,
+    "name": "Band Chest Fly - Decline",
+    "mainname": "Chest",
+    "img_url": "http://www.band-exercises.net/exercises/chest/images/band-chest-exercise-6.gif",
+    "description": "Secure the band high on your side and grab one handle with your hand, arm extended out at shoulder height, palm facing forward.\n\nPull the handle in until it is in front of your navel and allow it to slowly return after a short pause.\n\nKeep your arm extended (or close to it) throughout."
+  },
+  {
+    "id": 23,
+    "name": "Band Leg Extension",
+    "mainname": "Legs",
+    "img_url": "http://www.band-exercises.net/exercises/legs/images/band-leg-exercise-1.gif",
+    "description": "Lie on your back, one leg extended on the floor and the other in the air and secure the band to your foot that is in the air, knee bent at a 90 degree angle.\n\nPull the foot handle up by extending your leg and allow it to slowly return after a short pause.\n\nKeep your thigh perpendicular to the floor and immobile throughout."
+  },
+  {
+    "id": 24,
+    "name": "Band Squat",
+    "mainname": "Legs",
+    "img_url": "http://www.band-exercises.net/exercises/legs/images/band-leg-exercise-2.gif",
+    "description": "Secure the band underneath your feet, crouch down and hold the handles with your hands on each sides of your shoulders, palms facing forward.\n\nPush yourself up by extending your legs and allow yourself slowly back down after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 25,
+    "name": "Band Stationary Lunge",
+    "mainname": "Legs",
+    "img_url": "http://www.band-exercises.net/exercises/legs/images/band-leg-exercise-3.gif",
+    "description": "Secure the band underneath one foot that is forward and crouch down with your other foot in line but behind and hold the handles with your hands on top of your shoulders, palms facing foward.\n\nPush yourself up by extending your legs and allow yourself slowly back down after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 26,
+    "name": "Band Hip Abduction",
+    "mainname": "Legs",
+    "img_url": "http://www.band-exercises.net/exercises/legs/images/band-leg-exercise-4.gif",
+    "description": "Sit on a bench and tie your thighs together close to each other using the band.\n\nPull your thighs away from each other by stretching the band and allow them to slowly return after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 27,
+    "name": "Band Ankle Eversion",
+    "mainname": "Legs",
+    "img_url": "http://www.band-exercises.net/exercises/legs/images/band-leg-exercise-5.gif",
+    "description": "Sit down on the floor, legs extended and tie your feet close to each other near the toes using the band.\n\nPull the toe area of your feet away from each other by stretching the band and allow them to slowly return after a short pause.\n\nKeep your heels pressed against each other throughout."
+  },
+  {
+    "id": 28,
+    "name": "Band Calf Raise",
+    "mainname": "Legs",
+    "img_url": "http://www.band-exercises.net/exercises/legs/images/band-leg-exercise-6.gif",
+    "description": "Sit on a bench, place the heel of your foot on top of a small block and secure the band between your toes and that block.\n\nPull the toe area of your foot up by stretching the band and allow it to slowly return after a short pause.\n\nKeep your heel solidly in place throughout."
+  },
+  {
+    "id": 29,
+    "name": "Band Front Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-1.gif",
+    "description": "Secure the band low behind you and grab the handles with your hands on each sides of your thighs, palms facing each other.\n\nPull the handles up until your arms are parallel to the floor and allow them to slowly return after a short pause.\n\nKeep your arms extended (or close to it) throughout."
+  },
+  {
+    "id": 30,
+    "name": "Band Front Deltoid Raise - Alternating",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-2.gif",
+    "description": "Secure the band low in front of you and grab the handles with your hands in front of your thighs, palms facing down.\n\nPull one handle up at a time until your arm is parallel to the floor and allow it to slowly return while you pull up the other handle.\n\nKeep your arms extended (or close to it) throughout."
+  },
+  {
+    "id": 31,
+    "name": "Band Lateral Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-3.gif",
+    "description": "Secure the band underneath your feet and grab the handles with your hands on each sides of your thighs, palms facing each other.\n\nPull the handles out and up until your arms are parallel to the floor and allow them to slowly return after a short pause.\n\nKeep your arms extended (or close to it) throughout."
+  },
+  {
+    "id": 32,
+    "name": "Band Lateral Deltoid Raise - One-Arm",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-4.gif",
+    "description": "Secure the band low on your side and grab one handle with the hand furthest from it in front of your thighs, plam facing you.\n\nPull the handle out and up until your arm is parallel to the floor and allow it to slowly return after a short pause.\n\nKeep your arm extended (or close to it) throughout."
+  },
+  {
+    "id": 33,
+    "name": "Band Rear Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-5.gif",
+    "description": "Secure the band low on your side and grab one handle with the hand furthest from it in front of your thighs, plam facing you.\n\nPull the handle out and up until your hand reaches your head level and allow it to slowly return after a short pause.\n\nKeep your arm extended (or close to it) throughout."
+  },
+  {
+    "id": 34,
+    "name": "Band Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-6.gif",
+    "description": "Secure the band underneath your feet and grab the handles with your hands over your shoulders, elbows bent and plams facing forward.\n\nPush the handles straight up until your arms are close to being fully extended and allow them to slowly return after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 35,
+    "name": "Band Shoulder Press - Forward",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-7.gif",
+    "description": "Secure the band underneath your feet and grab the handles with your hands over your shoulders, elbows bent and plams facing forward.\n\nPush the handles up and forward until your arms are close to being fully extended and allow them to slowly return after a short pause.\n\nKeep your feet solidly in place throughout."
+  },
+  {
+    "id": 36,
+    "name": "Band Band Shoulder Rotation - Internal",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-8.gif",
+    "description": "Secure the band at medium height on your side and grab the handle with the hand closest to it in front of you, upper arm pressed against your abdomen and elbow bent.\n\nPull the handle in towards your abdomen and allow it to slowly return after a short pause.\n\nKeep your upper arm pressed against your abdomen and elbow bent throughout."
+  },
+  {
+    "id": 37,
+    "name": "Band Shoulder Rotation - External",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-9.gif",
+    "description": "Secure the band at medium height on your side and grab the handle with the hand furthest from it in front of you, upper arm pressed against your abdomen and elbow bent.\n\nPull the handle out away from your abdomen and allow it to slowly return after a short pause.\n\nKeep your upper arm and the angle in your elbow still throughout."
+  },
+  {
+    "id": 38,
+    "name": "Band Shoulder Rotation - External",
+    "mainname": "Shoulders",
+    "img_url": "http://www.band-exercises.net/exercises/shoulders/images/band-shoulder-exercise-10.gif",
+    "description": "Secure the band under an elevated foot while lying on your back and hold the handles with your hands above your shoulders, elbows bent at 90 degree and palms facing your foot.\n\nPull the handles in until your forearms join your upper arms in touching the ground and allow them to slowly return after a short pause.\n\nKeep your upper arm and the angle in your elbow still throughout."
+  },
+  {
+    "id": 39,
+    "name": "Band Biceps Curl",
+    "mainname": "Arms",
+    "img_url": "http://www.band-exercises.net/exercises/arms/images/band-arm-exercise-1.gif",
+    "description": "Secure the band undearneath your foot and grab the handles with your hands in front of your thighs, arms extended and palms facing up.\n\nPull the handles towards your shoulders by curling your elbows and allow them to slowly return after a short pause.\n\nKeep your upper arms immobile throughout."
+  },
+  {
+    "id": 40,
+    "name": "Band Biceps Curl - Preacher",
+    "mainname": "Arms",
+    "img_url": "http://www.band-exercises.net/exercises/arms/images/band-arm-exercise-2.gif",
+    "description": "Secure the band at medium height in front of you and hold the handles with your hands in front of your abdomen, arms extended.\n\nPull the handles towards your shoulders by curling your elbows and allow them to slowly return after a short pause.\n\nKeep your upper arms immobile throughout."
+  },
+  {
+    "id": 41,
+    "name": "Band Triceps Extension",
+    "mainname": "Arms",
+    "img_url": "http://www.band-exercises.net/exercises/arms/images/band-arm-exercise-3.gif",
+    "description": "Secure the band low behind you and hold the handles with your hands behind your head, palms facing each other, elbows bent at 90 degree and upper arms straight up.\n\nPull the handles up by extending your arms completely and allow them to slowly return after a short pause.\n\nKeep your upper arms immobile throughout."
+  },
+  {
+    "id": 42,
+    "name": "Band Triceps Pushdown",
+    "mainname": "Arms",
+    "img_url": "http://www.band-exercises.net/exercises/arms/images/band-arm-exercise-4.gif",
+    "description": "Secure the band high in front of you and hold the handles with your hands in front of your adbomen, palms facing each other, elbows bent at 90 degree angles.\n\nPull the handles down by extending your arms completely and allow them to slowly return after a short pause.\n\nKeep your upper arms immobile throughout."
+  },
+  {
+    "id": 43,
+    "name": "Band Wrist Curl",
+    "mainname": "Arms",
+    "img_url": "http://www.band-exercises.net/exercises/arms/images/band-arm-exercise-5.gif",
+    "description": "Sit on a bench, secure the band underneath your foot and hold the handle with your hand above your knee, palm facing up and elbow resting on top of your thigh.\n\nPull the handle up by curling your wrist and allow it to slowly return after a short pause.\n\nKeep your forearm immobile throughout."
+  },
+  {
+    "id": 44,
+    "name": "Band Wrist Extension",
+    "mainname": "Arms",
+    "img_url": "http://www.band-exercises.net/exercises/arms/images/band-arm-exercise-6.gif",
+    "description": "Sit on a bench, secure the band underneath your foot and hold the handle with your hand above your knee, palm facing down and elbow resting on top of your thigh.\n\nPull the handle up by extending your wrist and allow it to slowly return after a short pause.\n\nKeep your forearm immobile throughout."
+  }
+]
