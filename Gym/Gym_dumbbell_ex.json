@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "name": "Weighted Crunch",
+    "mainname": "Abs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/abdominals.gif",
+    "video_url": "https://www.youtube.com/watch?v=Z1fIswWlhO0&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on a bench and hold a dumbbell on top of your chest.\n\nRaise your upper body until your shoulder blades no longer touch the bench and lower yourself back down after a short pause.\n\nTo avoid pulling your neck with your hands, look straight up instead of looking at your knees."
+  },
+  {
+    "id": 2,
+    "name": "Weighted Leg Raise",
+    "mainname": "Abs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/2.gif",
+    "video_url": "https://www.youtube.com/watch?v=SkEzWAyzxJI&ab_channel=Fitnessbliss",
+    "description": "Lie down with your back on the bench, hands gripping the sides of it and hold a dumbbell between your feet.\n\nRaise your legs up until they are perpendicular to the floor and lower them back after a short pause.\n\nTry to keep your legs extended by keeping your knees at the same angle."
+  },
+  {
+    "id": 3,
+    "name": "Dumbbell Side Bend",
+    "mainname": "Abs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/3.gif",
+    "video_url": "https://www.youtube.com/watch?v=GXM-iYXhQfY&ab_channel=Fitnessbliss",
+    "description": "Hold a dumbbell with one hand along the side of your body.\n\nTilt your upper body to the side that holds the dumbbell and bring it back after a short pause. Complete your set and change sides.\n\nBe careful not to tilt your upper body too far sideways where it may be difficult to bring it back."
+  },
+  {
+    "id": 4,
+    "name": "Bench Press",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/1.gif",
+    "video_url": "https://www.youtube.com/watch?v=U6o0J2_m-KU&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on a bench and hold 2 dumbbells at chest level along your body, palms facing your feet.\n\nRaise the dumbbells straight up until your elbows are close to being locked and lower them back slowly after a short pause.\n\nBreathe out when raising the dumbbells and breathe in when lowering them back."
+  },
+  {
+    "id": 5,
+    "name": "Bench Press (Neutral Grip)",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/2.gif",
+    "video_url": "https://www.youtube.com/watch?v=Uh97K79h0rI&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on a bench and hold 2 dumbbells at chest level along your body, palms facing each other.\n\nRaise the dumbbells straight up until your elbows are close to being locked and lower them back slowly after a short pause.\n\nBreathe out when raising the dumbbells and breathe in when lowering them back."
+  },
+  {
+    "id": 6,
+    "name": "Incline Bench Press",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/3.gif",
+    "video_url": "https://www.youtube.com/watch?v=poI94Px-YbM&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on an inclined bench and hold 2 dumbbells at chest level along your body, palms facing forward.\n\nRaise the dumbbells straight up until your elbows are close to being locked and lower them back slowly after a short pause.\n\nBreathe out when raising the dumbbells and breathe in when lowering them back."
+  },
+  {
+    "id": 7,
+    "name": "Incline Bench Press (Neutral Grip)",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/4.gif",
+    "video_url": "https://www.youtube.com/watch?v=dByiGm-ONsQ&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on an inclined bench and hold 2 dumbbells at chest level along your body, palms facing each other.\n\nRaise the dumbbells straight up until your elbows are close to being locked and lower them back slowly after a short pause.\n\nBreathe out when raising the dumbbells and breathe in when lowering them back."
+  },
+  {
+    "id": 8,
+    "name": "Decline Bench Press",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/5.gif",
+    "video_url": "https://www.youtube.com/watch?v=tdsp1ShSSoU&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on a decline bench and hold 2 dumbbells at chest level, palms facing forward.\n\nRaise the dumbbells straight up until your elbows are close to being locked and lower them back slowly after a short pause.\n\nBreathe out when raising the dumbbells and breathe in when lowering them back"
+  },
+  {
+    "id": 9,
+    "name": "Lying Fly",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/6.gif",
+    "video_url": "https://www.youtube.com/watch?v=4meHGUe0SUk&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on the bench and grab one dumbbell with each hand at body height, elbows just slightly arched.\n\nRaise the dumbbells until they are side by side on top of you and slowly lower them back after a short pause.\n\nTry to maintain the same angle in your elbows throughout."
+  },
+  {
+    "id": 10,
+    "name": "Incline Fly",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/7.gif",
+    "video_url": "https://www.youtube.com/watch?v=dBVmeMkxSlM&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on an incline bench and grab one dumbbell with each hand at body height, elbows just slightly arched.\n\nRaise the dumbbells until they are side by side on top of you and slowly lower them back after a short pause.\n\nTry to maintain the same angle in your elbows throughout."
+  },
+  {
+    "id": 11,
+    "name": "Straight-Arm Pullover",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/8.gif",
+    "video_url": "https://www.youtube.com/watch?v=jhYVQSs8GY8&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on one end of the bench and hold one dumbbell with both hands above your chest area, arms extended.\n\nRaise the dumbbell straight up until your arms are perpendicular to the floor and lower it back after a short pause.\n\nKeep your arms extended throughout by keeping still the angle of your elbows."
+  },
+  {
+    "id": 12,
+    "name": "Bent-Arm Pullover",
+    "mainname": "Chest",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/9.gif",
+    "video_url": "https://www.youtube.com/watch?v=ff5NB5C8QoA&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on one end of the bench and hold 2 dumbbells below your head level, elbows at 90 degree angles.\n\nRaise both dumbbells until they are next to your chest while maintaining a 90 degree angles in your elbows and lower them back after a pause.\n\nBreathe out when raising the dumbbells and breathe in when lowering them back."
+  },
+  {
+    "id": 13,
+    "name": "Palms-In Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/1-3.gif",
+    "video_url": "https://www.youtube.com/watch?v=gQ0SqzfZPoA&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold two dumbbells at shoulder level, palms facing each other.\n\nPush the dumbbells straight up until your elbows come close to locking and lower them back down after a short pause.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 14,
+    "name": "Back Supported Palms-In Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/7-2.gif",
+    "video_url": "https://www.youtube.com/watch?v=Rn-e2N3A1J0&ab_channel=Fitnessbliss",
+    "description": "Sit on a bench (or chair) and hold two dumbbells at shoulder level, palms facing each other.\n\nPush the dumbbells straight up until your elbows come close to locking and lower them back down after a short pause.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 15,
+    "name": "Palms-In Alternated Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/3-3.gif",
+    "video_url": "",
+    "description": "Stand up and hold two dumbbells, one at shoulder level and the other high with your arm extended, palms facing each other.\n\nPush one dumbbell straight up until your elbow comes close to locking and lower it back down after a short pause. Alternate hands.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 16,
+    "name": "Seated Palms-In Alternated Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/4-3.gif",
+    "video_url": "https://www.youtube.com/watch?v=4xp_qgE5mek&ab_channel=Fitnessbliss",
+    "description": "Sit on a bench and hold two dumbbells, one at shoulder level and the other high with your arm extended, palms facing each other.\n\nPush one dumbbell straight up until your elbow comes close to locking and lower it back down after a short pause. Alternate hands.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 17,
+    "name": "Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/5-2.gif",
+    "video_url": "https://www.youtube.com/watch?v=kRabEQSscp8&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold two dumbbells close to your shoulders, palms facing forward.\n\nRaise the dumbbells straight up until your elbows come close to locking and lower them back after a short pause.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 18,
+    "name": "Seated Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/6-2.gif",
+    "video_url": "https://www.youtube.com/watch?v=aLBE_o3Af0Q&ab_channel=Fitnessbliss",
+    "description": "Sit on a bench and hold two dumbbells at shoulder level, palms facing forward.\n\nPush the dumbbells straight up until your elbows come close to locking and lower them back down after a short pause.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 19,
+    "name": "Back Supported Shoulder Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/7-2.giff",
+    "video_url": "",
+    "description": "Sit on a bench with support for you back and hold two dumbbells at shoulder level, palms facing each other.\n\nRaise the dumbbells straight up until your elbows come close to locking and lower them back down after a short pause.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 20,
+    "name": "Lateral Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/8-2.gif",
+    "video_url": "https://www.youtube.com/watch?v=QixZA-1YXNM&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold one dumbbell with each hand in front of your hips, palms facing each other.\n\nRaise the dumbbells to your sides until your arms are close to being parallel to the ground and lower them back down after a short pause.\n\nTry to maintain the angles in your elbows still throughout."
+  },
+  {
+    "id": 21,
+    "name": "Bent-Over One-Arm Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/9-2.gif",
+    "video_url": "",
+    "description": "Bend down and hold one dumbbell with one hand between your legs, knees slightly bent.\n\nRaise the dumbbell to your side until your arm is parallel to the ground and lower it back down slowly after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 22,
+    "name": "Seated Side Lateral Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/10.gif",
+    "video_url": "https://www.youtube.com/watch?v=IXZpwzzx0e4&ab_channel=Fitnessbliss",
+    "description": "Sit on one end of the bench and hold one dumbbell with each hand down the side of your body.\n\nRaise both dumbbells sideways until your arms are parallel to the ground and lower them back down slowly after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 23,
+    "name": "Bent-Over Rear Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/11.gif",
+    "video_url": "https://www.youtube.com/watch?v=5Dgzsl0xipY&ab_channel=Fitnessbliss",
+    "description": "Sit on one end of the bench and lower your body as to hold one dumbbell in each hand just below the floor.\n\nRaise both dumbbells to your sides until your arms are close to being parallel to the ground and lower them back down slowly after a short pause.\n\nMaintain the same small arch in your elbows throughout."
+  },
+  {
+    "id": 24,
+    "name": "Rear Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/12.gif",
+    "video_url": "https://www.youtube.com/watch?v=WB1F8nt-sRQ&ab_channel=Fitnessbliss",
+    "description": "Lie down on a high bench (face down) and one dumbbell on each hand below your chest, arms slightly bent.\n\nRaise both dumbbells to your sides until your arms are close to being parallel to the ground and lower them back down slowly after a short pause.\n\nMaintain the same small arch in your elbows throughout."
+  },
+  {
+    "id": 25,
+    "name": "Rear Deltoid Circle",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/13.gif",
+    "video_url": "https://www.youtube.com/watch?v=lndIlPpW_V0&ab_channel=Fitnessbliss",
+    "description": "Lie down on your chest on a bench and hold one dumbbell in each hand on each side of your hips, arms slightly arched.\n\nBring both dumbbells forward until you can see both at the same time and bring them backwards slowly after a short pause.\n\nMaintain the same small arch in your elbows and keep both dumbbells at the same height from the floor throughout."
+  },
+  {
+    "id": 26,
+    "name": "Straight-Arm Front Deltoid Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/14.gif",
+    "video_url": "https://www.youtube.com/watch?v=KG4r3OVTVh8&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold one dumbbell in each hand in front of your thighs.\n\nRaise the dumbbells to your shoulder level and continue on to raising them up at arms’ length and lower them back down slowly after a pause.\n\nKeep your arms extended throughout."
+  },
+  {
+    "id": 27,
+    "name": "Upright Row",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/15.gif",
+    "video_url": "https://www.youtube.com/watch?v=egA_2LnvCFI&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold one dumbbell in each hand in front of your thighs.\n\nRaise both dumbbells until your arms are parallel to the ground and lower them back down slowly after a short pause.\n\nBe careful NOT to jerk your back in an effort to help you raise the dumbbells."
+  },
+  {
+    "id": 28,
+    "name": "Front Raise",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/16.gif",
+    "video_url": "https://www.youtube.com/watch?v=sgWOQz8954k&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold one dumbbell with each hand in front of your thighs, palms facing your body.\n\nRaise the dumbbells forward then up until your arms are close to being parallel to the ground and lower them back down after a short pause.\n\nKeep your arms extended throughout."
+  },
+  {
+    "id": 29,
+    "name": "Shoulder Shrug",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/17.gif",
+    "video_url": "https://www.youtube.com/watch?v=zlWRkkgWInQ&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold one dumbbell with each hand in front of your thighs, palms facing your body.\n\nRaise the dumbbells straight up by raising your shoulders and lower them back after a short pause.\n\nKeep your arms extended throughout."
+  },
+  {
+    "id": 30,
+    "name": "Push Press",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/18.gif",
+    "video_url": "https://www.youtube.com/watch?v=yPbyUvRuHSA&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold two dumbbells just above your shoulders, palms facing each other, knees arched.\n\nPush the dumbbells straight up until your arms are close to locking and lower them back down slowly after a short pause.\n\nBreathe out when pushing up and breathe in when lowering back."
+  },
+  {
+    "id": 31,
+    "name": "Crouched Rear Deltoid Row",
+    "mainname": "Shoulders",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/19.gif",
+    "video_url": "",
+    "description": "Crouch by bending your hips and knees and hold one dumbbell with each hand close to your knees, palms facing backwards.\n\nRaise the dumbbells straight up until your elbows form a 90 degree angle and lower them back down after a short pause.\n\nTry to focus on only moving your arms during the exercise."
+  },
+  {
+    "id": 32,
+    "name": "Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/4-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=8QeW5sk9TOc&ab_channel=Fitnessbliss",
+    "description": "Of all the dumbbell exercises for biceps, the biceps curl is the most important to learn as it is the foundation that most of the other dumbbell exercises are based. Learn and practice this biceps exercise first.\n\nStand up and hold one dumbbell with each hand down the side of your body, palms facing each other.\n\nRaise both dumbbells until they reach your shoulders’ height and slowly lower them back down after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 33,
+    "name": "One-at-a-Time Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/1-2.gif",
+    "video_url": "https://www.youtube.com/watch?v=zJdMvD6GhTA&ab_channel=Fitnessbliss",
+    "description": "Grab one dumbbell in each hand, palms facing forward.\n\nOne arm at a time, raise one dumbbell by curling your elbow and lower it back down after a short pause.\n\nAlternate hands after the full motion is completed."
+  },
+  {
+    "id": 34,
+    "name": "Alternated Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/2-2.gif",
+    "video_url": "https://www.youtube.com/watch?v=E4D2cfMt8Ws&ab_channel=Fitnessbliss",
+    "description": "Stand up and hold one dumbbell with each hand down the side of your body, palms facing each other.\n\nRaise one dumbbell until it reaches your shoulder’s height and while slowly lowering it back down after a short pause, start raising the other one.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 35,
+    "name": "Inner-Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/3-2.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell with each hand down the side of your body, palms facing each other.\n\nRaise both dumbbells until they reach your shoulders’ height and slowly lower them down after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 36,
+    "name": "Hammer Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/5-1.gif",
+    "video_url": "",
+    "description": "The dumbbell hammer curl is one of the most important dumbbell exercises for biceps and has many variations.\n\nGrab one dumbbell in each hand along the sides of your body, palms facing your body.\n\nRaise both dumbbells by curling your elbows and lower them down after a short pause.\n\nKeep your upper arms still throughout."
+  },
+  {
+    "id": 37,
+    "name": "Seated Alternated Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/6-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=Ysh9DNzbiwc&ab_channel=Fitnessbliss",
+    "description": "Sit down on a bench and hold one dumbbell with each hand down the side of your body, palms facing each other.\n\nRaise one dumbbell until it reaches your shoulder’s height and while slowly lowering it back down after a short pause, start raising the other one.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 38,
+    "name": "Seated Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/7-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=tv2WHFnfkJg&ab_channel=Fitnessbliss",
+    "description": "Sit down on a bench and hold one dumbbell with each hand down the side of your body, palms facing each other.\n\nRaise both dumbbells until they reach your shoulders’ height and slowly lower them down after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 39,
+    "name": "Incline Alternated Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/8-1.gif",
+    "video_url": "",
+    "description": "Sit down on an inclined bench and hold one dumbbell with each hand down, palms facing each other.\n\nRaise one dumbbell until it reaches your shoulder’s height and while slowly lowering it back down after a short pause, start raising the other one.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 40,
+    "name": "Incline Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/9-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=mQVTZMxRlEw&ab_channel=Fitnessbliss",
+    "description": "Sit down on an inclined bench and hold one dumbbell with each hand down, palms facing each other.\n\nRaise both dumbbells until they reach your shoulders’ height and slowly lower them back down after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 41,
+    "name": "Incline Biceps Bench Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/10.gif",
+    "video_url": "",
+    "description": "Sit down on an inclined bench and hold one dumbbell in each hand down the sides of your body, palms facing each other.\n\nRaise both dumbbells until they reach your shoulder levels and lower them back down after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 42,
+    "name": "Concentrated Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/11.gif",
+    "video_url": "",
+    "description": "Stand behind an inclined bench and rest one arm on the back support while holding a dumbbell, palm facing up.\n\nRaise the dumbbell up to your shoulder and lower it back down after a short pause.\n\nOnly your lower arm should move throughout the exercise."
+  },
+  {
+    "id": 43,
+    "name": "Seated Inner-Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/12.gif",
+    "video_url": "",
+    "description": "Sit down on a bench and hold one dumbbell with each hand down the side of your body, palms facing each other.\n\nRaise both dumbbells until they reach your shoulders’ height and slowly lower them back down after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 44,
+    "name": "Seated Concentrated Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/13.gif",
+    "video_url": "https://www.youtube.com/watch?v=K72KB29xCAU&ab_channel=Fitnessbliss",
+    "description": "Sit on a bench, rest one arm against your thigh and hold a dumbbell with that hand down between your legs, palm facing the other leg.\n\nRaise the dumbbell until it reaches your shoulder and slowly lower it back down after a short pause. Alternate after a set.\n\nTry NOT to jerk your upper body in en effort to help you lift the weight."
+  },
+  {
+    "id": 45,
+    "name": "Seated Isolated Dumbbell Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/14.gif",
+    "video_url": "",
+    "description": "Sit on one end of the bench, hold one dumbbell with your hand and place that hand’s elbow (extended) against the front of your thigh.\n\nRaise one dumbbell until it reaches your shoulder’s height and slowly lower it back down after a short pause. Alternate after a set.\n\nTry NOT to jerk your upper body in an effort to help you lift the weight."
+  },
+  {
+    "id": 46,
+    "name": "Preacher Biceps Curl (Supination Grip)",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/15.gif",
+    "video_url": "",
+    "description": "Place one upper arm against the arm pad the other at a 90 degree angle and grab one dumbbell on each hand, palms facing up.\n\nRaise the dumbbells alternatively until your forearms are parallel to the floor and lower them back down alternatively after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 47,
+    "name": "Preacher Biceps Curl (Neutral Grip)",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/16.gif",
+    "video_url": "",
+    "description": "Place one upper arm against the arm pad the other at a 90 degree angle and grab one dumbbell on each hand, palms facing each other.\n\nRaise the dumbbells alternatively until your forearms are parallel to the floor and lower them back down alternatively after a short pause.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 48,
+    "name": "Bench Alternated Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/17.gif",
+    "video_url": "https://www.youtube.com/watch?v=SdddHK6EPt8&ab_channel=Fitnessbliss",
+    "description": "Lie face down on a high bench and hold one dumbbell with each hand straight below your shoulders.\n\nRaise one dumbbell until it reaches your shoulder’s height and while slowly lowering it back down after a short pause, start raising the other one.\n\nTry NOT to jerk your upper body in an effort to help you lift the weights."
+  },
+  {
+    "id": 49,
+    "name": "Supine Biceps Curl",
+    "mainname": "Biceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/18.gif",
+    "video_url": "https://www.youtube.com/watch?v=Q7RyGuOAFKM&ab_channel=Fitnessbliss",
+    "description": "Lie down on your back on a bench and hold one dumbbell on each hand on each side of the body, below body height, palms facing up.\n\nRaise the dumbbells until they reach your body’s height and slowly lower them back down after a short pause.\n\nBreathe out when lifting and breathe in when lowering back."
+  },
+  {
+    "id": 50,
+    "name": "Two-Arms Triceps Extension",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/1-4.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell with both hands behind your head, upper arms pointing straight up.\n\nRaise the dumbbell up by curling your elbows and slowly lower it back after a short pause.\n\nYour upper arms should remain still throughout."
+  },
+  {
+    "id": 51,
+    "name": "One-Arm Triceps Extension",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/2-4.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell with one hand behind your head, elbow at a 90 degree angle, upper arm straight up.\n\nRaise the dumbbell with one hand until your arm is close to being fully extended and slowly lower it back after a short pause. Alternate after a set.\n\nKeep your upper arm still throughout."
+  },
+  {
+    "id": 52,
+    "name": "Seated Triceps Extension",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/3-4.gif",
+    "video_url": "",
+    "description": "Sit down and hold one dumbbell with both hands behind your head, elbows at 90 degree angles, upper arms straight up.\n\nRaise the dumbbell with both hands until your arms are close to being fully extended and slowly lower it back after a short pause.\n\nKeep your upper arms still throughout."
+  },
+  {
+    "id": 53,
+    "name": "Triceps Kickback",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/4-4.gif",
+    "video_url": "",
+    "description": "Put your knee and hand on a bench and grab a dumbbell with your other hand, palm facing your body, upper arm parallel to your body.\n\nPush the dumbbell back by extending your elbow and allow it to slowly return after a short pause.\n\nKeep your upper arm still throughout."
+  },
+  {
+    "id": 54,
+    "name": "Bent-Over One-Arm Triceps Extension",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/5-3.gif",
+    "video_url": "",
+    "description": "Sit down, crouch forward and hold one dumbbell with one hand, elbow at a 90 degree angle, palm facing your body.\n\nRaise the dumbbell with one hand until your arm is parallel to the ground and slowly lower it back after a short pause. Alternate after a set.\n\nKeep your upper arm still throughout."
+  },
+  {
+    "id": 55,
+    "name": "Lying Triceps Extension",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/6-3.gif",
+    "video_url": "",
+    "description": "Lie down on your back on a bench and hold a dumbbell in each hand, palms facing up, upper arms pointing the ceiling.\n\nRaise the dumbbells by extending your elbows and allow them to slowly return after a short pause.\n\nKeep your upper arms still throughout."
+  },
+  {
+    "id": 56,
+    "name": "Triceps Bench Press",
+    "mainname": "Triceps",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/7-3.gif",
+    "video_url": "",
+    "description": "Lie down on your back on a bench and hold the dumbbells on your sides just above your chest, palms facing each other.\n\nPush the dumbbells straight up until your arms are close to being fully extended and slowly lower them back after a short pause.\n\nBreathe out when pushing the dumbbells up and breathe out when lowering them back down."
+  },
+  {
+    "id": 57,
+    "name": "Standing Wide Row",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/1-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=ai9DTsOSKDg&ab_channel=Fitnessbliss",
+    "description": "Grab one dumbbell with each hand and flex your knees and hips to bring yourself to a squatting position.\n\nLift both dumbbells straight up without altering the angles at your knees and hips and lower them back after a short pause.\n\nBreathe out when lifting the dumbbells and breathe in when returning to starting position."
+  },
+  {
+    "id": 58,
+    "name": "Bent Over Row",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/2-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=qsOBiLAChMk&ab_channel=Fitnessbliss",
+    "description": "Stand up and reach down in order to hold two dumbbells with both hands (knees slightly bent).\n\nLift the dumbbells up until your upper arms are parallel to your body and lower them back after a short pause.\n\nTry to keep your back straight throughout. Only the arm should move."
+  },
+  {
+    "id": 59,
+    "name": "Kneeling One Arm Row",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/3-1.gif",
+    "video_url": "https://www.youtube.com/watch?v=dQnPi0qvTuQ&ab_channel=Fitnessbliss",
+    "description": "Put your knee and hand on a bench and grab a dumbbell with your other hand.\n\nLift the dumbbell straight up without moving anything else than your arm and lower it back down after a short pause.\n\nBreathe out when raising the dumbbell and in when returning to starting position."
+  },
+  {
+    "id": 60,
+    "name": "One Arm Row",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/4.gif",
+    "video_url": "https://www.youtube.com/watch?v=KyZ8PfFXJIs&ab_channel=Fitnessbliss",
+    "description": "Position yourself bent forward in front of a bench while holding a dumbbell with one hand (arm extended).\n\nLift the dumbbell up until your upper arm is parallel to your body and lower it back after a short pause. Alternate hands when set is completed.\n\nTry to keep your back straight throughout. Only the arm should move."
+  },
+  {
+    "id": 61,
+    "name": "Dead Lift",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/5.gif",
+    "video_url": "https://www.youtube.com/watch?v=55GxrBEvGrE&ab_channel=Fitnessbliss",
+    "description": "The dumbbell deadlift is one of the most efficient dumbbell back exercises that you can do. The reason, is that the dumbbell deadlift not only exercises the back but also most of the major muscle groups.\n\nStand up and grab a dumbbell with each of your hands.\n\nFlex your knees and hips in order to lower the dumbbells straight down and raise yourself back up after a short pause.\n\nBreathe in when lowering and breathe out when returning to starting position."
+  },
+  {
+    "id": 62,
+    "name": "Stiff Legged Dead Lift",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/6.gif",
+    "video_url": "https://www.youtube.com/watch?v=fX-EOjMejV0&ab_channel=Fitnessbliss",
+    "description": "Stand up and reach down in order to hold two dumbbells with both hands (knees slightly bent).\n\nRaise your upper body until you are standing and lower it back after a short pause.\n\nTry to keep your arms straight throughout by keeping the same small arch in your elbows."
+  },
+  {
+    "id": 63,
+    "name": "Bend to Opposite Foot",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/7.gif",
+    "video_url": "https://www.youtube.com/watch?v=8WTHHZuNWkE&ab_channel=Fitnessbliss",
+    "description": "Stand up, reach down and grab a dumbbell just above one of your feet with your opposite hand (knees slightly bent).\n\nLift the dumbbell up until you are standing up and lower it back after a short pause.\n\nKeep a slight arch in your knees throughout."
+  },
+  {
+    "id": 64,
+    "name": "Twisting Bend to Opposite Foot",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/8.gif",
+    "video_url": "https://www.youtube.com/watch?v=e0MMOq8yxXQ&ab_channel=Fitnessbliss",
+    "description": "Stand up, reach down and grab 2 dumbbells just above one of your feet with your hands (knees slightly bent).\n\nLift the dumbbells up until you are standing up and lower them back but to the other foot. Alternate sides.\n\nKeep a slight arch in your knees throughout."
+  },
+  {
+    "id": 65,
+    "name": "Back Fly",
+    "mainname": "Back",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2016/12/9.gif",
+    "video_url": "https://www.youtube.com/watch?v=zMYGhmsVUDE&ab_channel=Fitnessbliss",
+    "description": "Lie down on your chest on the bench and grab two dumbbells with your hands, elbows at 90 degree angles.\n\nRaise the dumbbells until your arms are parallel to the ground and lower them back after a short pause.\n\nBreathe out when pulling the dumbbells and breathe in when lowering them back."
+  },
+  {
+    "id": 66,
+    "name": "Squat",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/1-2.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell with both hands in front of your thighs.\n\nLower your body by bending your knees until they form a 90 degree angle and raise yourself back up after a short pause.\n\nKeep your upper body steady throughout."
+  },
+  {
+    "id": 67,
+    "name": "Reverse Lunge",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/2-2.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell on each hand along the sides of your body, palms facing your body.\n\nPlace a foot back and bend your knees in order to bring down your body until your knees form 90 degree angles and raise yourself back up after a short pause.\n\nKeep your upper body steady throughout."
+  },
+  {
+    "id": 68,
+    "name": "Stationary Lunge",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/3-2.gif",
+    "video_url": "",
+    "description": "Stand up with one foot in front, one foot back and hold one dumbbell on each hand along the sides of your body, palms facing each other.\n\nLower yourself without moving your feet until your knees form 90 degree angles and raise yourself back up after a short pause.\n\nKeep your upper body steady throughout."
+  },
+  {
+    "id": 69,
+    "name": "Side Lunge",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/4-2.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell on each hand against the sides of your body, palms facing each other.\n\nTake a wide step sideways so that your knee shows a 90 degree angle and slowly bring yourself back up after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 70,
+    "name": "Dumbbell Swing Through",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/5-1.gif",
+    "video_url": "",
+    "description": "Hold one dumbbell with both hands between your legs and crouch down until your knees are at 90 degree angles.\n\nLift yourself to a standing position while bringing the dumbbell up above your head and slowly return to starting position after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 71,
+    "name": "Stiff Legged Dead Lift",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/6-1.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell in each hand against the sides of your body, palms facing each other.\n\nLower the dumbbells by bending your hips forward and raise yourself back up again after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 72,
+    "name": "Toe Raise",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/7-1.gif",
+    "video_url": "",
+    "description": "Stand up and hold one dumbbell in each hand against the sides of your body, palms facing each other.\n\nLift your heels from the ground by pushing on your toes and lower yourself back down after a short pause.\n\nKeep the rest of your body still throughout."
+  },
+  {
+    "id": 73,
+    "name": "One Legged Toe Raise",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/8-1.gif",
+    "video_url": "",
+    "description": "Stand up on one foot on top of a small step and hold one dumbbell with one hand against the side of your body.\n\nRaise yourself by standing on your toes and slowly lower yourself back down after a short pause. Alternate feet after your set.\n\nMake sure that only the calf muscles are exercising."
+  },
+  {
+    "id": 74,
+    "name": "Seated One Legged Toe Raise",
+    "mainname": "Legs",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/9-1.gif",
+    "video_url": "",
+    "description": "Sit down on the bench, place the front of one of your feet on top of the step and hold a dumbbell with both hands on top of that foot’s thighs.\n\nRaise the dumbbell by standing on your toes and slowly lower them back down after a short pause. Alternate feet after your set.\n\nMake sure that only the calf muscles are exercising."
+  },
+  {
+    "id": 75,
+    "name": "Palms-Up Wrist Curl",
+    "mainname": "Forearms",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/1-1.gif",
+    "video_url": "",
+    "description": "Sit on one end of a bench and hold one dumbbell on each hand, wrists against your knees, palms facing up.\n\nRaise the dumbbells up by raising only your hands and slowly lower them back down after a short pause.\n\nKeep your arms still throughout."
+  },
+  {
+    "id": 76,
+    "name": "One-Arm Palm-Up Wrist Curl",
+    "mainname": "Forearms",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/2-1.gif",
+    "video_url": "",
+    "description": "Sit on one end of a bench and hold one dumbbell with one hand, wrist against your knee, palm facing up.\n\nRaise one dumbbell up by raising only your hand and slowly lower it back down after a short pause. Alternate hands after a set.\n\nKeep your arms still throughout."
+  },
+  {
+    "id": 77,
+    "name": "Palms-Down Wrist Curl",
+    "mainname": "Forearms",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/3-1.gif",
+    "video_url": "",
+    "description": "Sit on one end of a bench and hold one dumbbell on each hand, wrists against your knees, palms facing down.\n\nRaise the dumbbells up by raising only your hands and slowly lower them back down after a short pause.\n\nKeep your arms still throughout."
+  },
+  {
+    "id": 78,
+    "name": "One-Arm Palm-Down Wrist Curl",
+    "mainname": "Forearms",
+    "img_url": "https://dumbbell-exercises.com/wp-content/uploads/2017/01/4-1.gif",
+    "video_url": "",
+    "description": "Sit on one end of a bench and hold one dumbbell with one hand, wrist against your knee, palm facing down.\n\nRaise one dumbbell up by raising only your hand and slowly lower it back down after a short pause. Alternate hands after a set.\n\nKeep your arms still throughout."
+  }
+]
