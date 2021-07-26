@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "name": "Ball Crunch",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-crunch.gif",
+    "description": "Lie on your lower back on the exercise ball and place your hands behind your ears.\n\nRoll your shoulder blades up and lower yourself back down after a short pause.\n\nTo avoid straining your neck, look straight up instead of looking at your knees."
+  },
+  {
+    "id": 2,
+    "name": "Ball Crunch – Legs Elevated",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-crunch-legs-elevated.gif",
+    "description": "Lie on your back, calves on top of the exercise ball and arms across your chest.\n\nRoll your shoulder blades up and lower yourself back down after a short pause.\n\nTo avoid straining your neck, look straight up instead of looking at your knees."
+  },
+  {
+    "id": 3,
+    "name": "Ball Reverse Crunch",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-reverse-crunch.gif",
+    "description": "Lie on your back, calves and hamstrings pressed against the exercise ball and arms spread out.\n\nSqueeze the ball with your legs and roll your knees towards your chest then roll back down after a short pause.\n\nTo avoid straining your neck, look straight up instead of looking at your knees."
+  },
+  {
+    "id": 4,
+    "name": "Ball Side Crunch",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-side-crunch.gif",
+    "description": "Lie on your side against the exercise ball, arms across your chest, legs extended and feet wide apart to give you balance.\n\nRaise your upper body up from the ball and lower it back down after a short pause. Alternate sides after each completed set.\n\nBreathe out while contracting your ab muscles and breathe in while returning to starting position."
+  },
+  {
+    "id": 5,
+    "name": "Ball Sit-Up",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-sit-up.gif",
+    "description": "Lie on your lower back on the exercise ball and place your hands behind your ears.\n\nRaise your upper body up from the ball and lower it back down after a short pause.\n\nBreathe out while contracting your ab muscles and breathe in while returning to starting position."
+  },
+  {
+    "id": 6,
+    "name": "Ball Jackknife",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-jacknife.gif",
+    "description": "Place your ankles on top of the exercise ball, legs extended, chest facing the floor and extend your arms to lift you from the floor.\n\nKeeping your weight on your extended arms, roll the ball in by bending your knees and hips and extend your legs back after a short pause.\n\nBreathe out while rolling the ball in and breathe in while returning to starting position."
+  },
+  {
+    "id": 7,
+    "name": "Ball Ab Rollout",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-ab-rollout.gif",
+    "description": "Lie on your knees, place your hands on top of the exercise ball in front of you, arms extended and back straight.\n\nKeeping your back and arms extended, roll on top of the ball until your upper arms are pressed against it and pull yourself back up after a short pause.\n\nKeep your arms extended and your back straight throughout."
+  },
+  {
+    "id": 8,
+    "name": "Ball Table Top",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-table-top.gif",
+    "description": "Lie on your knees, place your forearms on top of the exercise ball in front of you, elbows at 90 degree angles and back straight.\n\nRaise your knees from the floor by rolling forward on the ball until your legs are fully extended and return back after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 9,
+    "name": "Ball Bridge T Fall-Off",
+    "mainname": "Abs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-bridge-t-fall-off.gif",
+    "description": "Lie on your shoulder blades on top of the exercise ball, knees at 90 degree angles, back straight and extend your arms out to keep balance.\n\nRoll off the ball slightly to one side and return back after a short pause. Alternate sides between each repetitions.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 10,
+    "name": "Ball Dumbbell Press",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-dumbbell-press.gif",
+    "description": "Lie on your back, shoulder blades on top of the exercise ball, back extended, knees flexed at 90 degree angles and hold dumbbells on each side of your chest.\n\nPush the dumbbells straight up and slowly lower them down after a short pause.\n\nBreathe out while pushing and breathe in while returning to starting position."
+  },
+  {
+    "id": 11,
+    "name": "Ball Dumbbell Press – Incline",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-dumbbell-press-incline.gif",
+    "description": "Lie on your back, shoulder blades against the exercise ball, back extended but hips and knees flexed and hold dumbbells on each side of your chest.\n\nPush the dumbbells straight up and slowly lower them down after a short pause.\n\nBreathe out while pushing and breathe in while returning to starting position."
+  },
+  {
+    "id": 12,
+    "name": "Ball Push Up",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-push-up.gif",
+    "description": "Lie prone with your hands on top of the exercise ball, legs and back fully extended.\n\nPush yourself up by extending your arms and slowly lower yourself back down after a short pause.\n\nBreathe out while pushing and breathe in while returning to starting position."
+  },
+  {
+    "id": 13,
+    "name": "Ball Push Up – on Knees",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-push-up-on-knees.gif",
+    "description": "Kneel down in front of the ball with your hands on top of the exercise ball, back extended.\n\nPush yourself up by extending your arms and slowly lower yourself back down after a short pause.\n\nBreathe out while pushing and breathe in while returning to starting position."
+  },
+  {
+    "id": 14,
+    "name": "Ball Push Up – Feet Up",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-push-up-feet-up.gif",
+    "description": "Lie prone with your thighs on top of the exercise ball, legs and back fully extended and hands on the floor, elbows bent.\n\nPush yourself up by extending your arms and slowly lower yourself back down after a short pause.\n\nBreathe out while pushing and breathe in while returning to starting position."
+  },
+  {
+    "id": 15,
+    "name": "Ball Chest Fly",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-chest-fly.gif",
+    "description": "Lie on your back, shoulder blades on top of the exercise ball, back extended, knees flexed at 90 degree angles and hold dumbbells out to each side of your body.\n\nKeeping your elbows just slightly bent, roll the dumbbells in and up and slowly lower them down after a short pause.\n\nBreathe out while pulling the dumbbells in and up and breathe in while returning to starting position."
+  },
+  {
+    "id": 16,
+    "name": "Ball Chest Fly – One-at-a-Time",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-chest-fly-one-at-a-time.gif",
+    "description": "Lie on your back, shoulder blades on top of the exercise ball, back extended, knees flexed at 90 degree angles and hold the handle out to one side of your body.\n\nKeeping your elbows just slightly bent, pull the handle in and up and slowly lower it down after a short pause. Alternate sides after each set.\n\nBreathe out while pulling the handle and breathe in while returning to starting position."
+  },
+  {
+    "id": 17,
+    "name": "Ball Bear Hugs",
+    "mainname": "Chest",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-bear-hugs.gif",
+    "description": "Sit on a bench with your back straight and grip the exercise ball against your chest, hands on each side of it.\n\nSqueeze the ball towards your chest and slowly allow it to squeeze out after a short pause.\n\nBreathe out while squeezing and breathe in while returning to starting position."
+  },
+  {
+    "id": 18,
+    "name": "Ball Rear Deltoid Row",
+    "mainname": "Shoulders",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-rear-deltoid-row.gif",
+    "description": "Lie prone with your belly against the exercise ball, back and legs extended and hold dumbbells down to your sides, arms extended.\n\nRaise the dumbbells straight up until your elbows are at 90 degree angles then rotate them up and slowly lower them down after a short pause.\n\nWhen rotating up keep the angle in your elbows still throughout."
+  },
+  {
+    "id": 19,
+    "name": "Ball Rear Deltoid Raise – Elbows Bent",
+    "mainname": "Shoulders",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-rear-deltoid-raise-elbows-bent.gif",
+    "description": "Lie prone with your belly against the exercise ball, back and legs extended and hold dumbbells down to your sides, elbows at 90 degree angles.\n\nKeeping the angles in your elbows still raise your ebows up until your upper arms are parallel to the floor and slowly lower them back down after a short pause.\n\nBreathe out while rolling up and breathe in while returning to starting position."
+  },
+  {
+    "id": 20,
+    "name": "Ball Rear Deltoid Raise – Lying Sideways",
+    "mainname": "Shoulders",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-rear-deltoid-raise-lying-sideways.gif",
+    "description": "Lean on your left side pressed against the exercise ball, back and legs extended and hold a dumbbell with your right hand, arms extended.\n\nKeeping the angle in your elbow still raise the dumbbell out and up and slowly lower it back after a short pause.\n\nBreathe out while raising and breathe in while returing to starting position."
+  },
+  {
+    "id": 21,
+    "name": "Ball Scapular Protraction",
+    "mainname": "Shoulders",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-scapular-protraction.gif",
+    "description": "Lie prone with your hands on top of the exercise ball, back and legs extended.\n\nPush yourself up by only moving your shoulder blades away from each other and allow them to slowly return after a short pause.\n\nBreathe out while raising and breathe in while returing to starting position."
+  },
+  {
+    "id": 22,
+    "name": "Ball Shoulder Rotation",
+    "mainname": "Shoulders",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-shoulder-rotation.gif",
+    "description": "Lie prone with your belly against the exercise ball, back and legs extended and hold dumbbells out to your sides, elbows at 90 degree angles.\n\nKeeping the angles in your elbows still throughout roll the dumbbells up until your forearms are parallel to the floor.\n\nBreathe out while rolling up and breathe in while returning to starting position."
+  },
+  {
+    "id": 23,
+    "name": "Ball Hyperextension",
+    "mainname": "Back",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-hyperextension.gif",
+    "description": "Kneel down in front of the exercise ball, your belly pressed on top of it and place your hands on each side of the ball.\n\nExtend your back by extending your arms and legs and return to starting position after a short pause.\n\nBreathe out while extending and breathe in while returning to starting position."
+  },
+  {
+    "id": 24,
+    "name": "Ball Hyperextension – Reverse",
+    "mainname": "Back",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-hyperextension-reverse.gif",
+    "description": "Lie prone on top of the exercise ball which is itself on top of a bench, legs down but extended and grip the bench with both hands to maintain balance.\n\nRaise your legs up while keeping your legs extended and slowly lower them down after a short pause.\n\nBreathe out while raising your legs and breathe in while returning to starting position."
+  },
+  {
+    "id": 25,
+    "name": "Ball Row – Upside-Down",
+    "mainname": "Back",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-row-upside-down.gif",
+    "description": "Lie on your back, place your ankles on the exercise ball, legs extended and grip the barbell with your hands, arms extended.\n\nRaise your upper body up by pulling with your arms and slowly lower yourself back down after a short pause.\n\nKeep your legs and back fully extended throughout."
+  },
+  {
+    "id": 26,
+    "name": "Ball Bridge",
+    "mainname": "Back",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-bridge.gif",
+    "description": "Crouch down on your feet, press your shoulder blades against the exercise ball behind you and place your hands across your chest.\n\nWithout moving your feet, extend your back until it is parallel to the floor and lower it back after a short pause.\n\nBreathe out while extending and breathe in while returning to starting position."
+  },
+  {
+    "id": 27,
+    "name": "Ball Arm-Leg Extension – Alternating",
+    "mainname": "Back",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-arm-leg-extension-alternating.gif",
+    "description": "Lie prone on top of the exercise ball, your belly pressed against it and maintain balance with your feet and hands on the floor.\n\nExtend your left arm and right leg out and up and lower them back after a short pause. Alternate sides after each repetition.\n\nBreathe out while extending and breathe in while returning to starting position."
+  },
+  {
+    "id": 28,
+    "name": "Ball Squat – on Wall",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-squat-wall.gif",
+    "description": "Crouch with your back pressed against the exercise ball, itself against the wall, knees at 90 degree angles and place your hands behind your ears.\n\nRaise yourself up by extending your legs and slowly lower youself back after a short pause.\n\nBreathe out while raising yourself up and breathe in while returning to starting position."
+  },
+  {
+    "id": 29,
+    "name": "Ball Squat – on Wall; Weighted",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-squat-wall-weighted.gif",
+    "description": "Crouch with your back pressed against the exercise ball, itself against the wall, knees at 90 degree angles and hold dumbbells with your hands down your body.\n\nRaise yourself up by extending your legs and slowly lower youself back after a short pause.\n\nBreathe out while raising yourself up and breathe in while returning to starting position."
+  },
+  {
+    "id": 30,
+    "name": "Ball Squat – on Wall; Sideways; One-Legged",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-squat-wall-sideways-one-legged.gif",
+    "description": "Crouch on one leg with your side pressed against the exercise ball, itself against the wall with your knee at a 90 degree angle.\n\nRaise yourself up by extending your leg and slowly lower yourself back after a short pause. Alternate sides after each set.\n\nBreathe out while raising yourself up and breathe in while returning to starting position."
+  },
+  {
+    "id": 31,
+    "name": "Ball Squat – One-Legged",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-squat-one-legged.gif",
+    "description": "Stand with one ankle on top of the exercise ball behind you and crouch down until your knee is at a 90 degree angle.\n\nRaise yourself up by extending your leg and slowly lower yourself back after a short pause. Alternate sides after each set.\n\nBreathe out while raising yourself up and breathe in while returning to starting position."
+  },
+  {
+    "id": 32,
+    "name": "Ball Hip Abduction",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-hip-abduction.gif",
+    "description": "Stand with the wall on your right side and hold the exercise ball up from the floor against the wall with your right thigh, knee bent.\n\nSqueeze the ball by pressing your leg against it and slowly bring it back after a short pause. Alternate sides after each set.\n\nBreathe out while pushing and breathe in while returning to starting position."
+  },
+  {
+    "id": 33,
+    "name": "Ball Hip Adduction",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-hip-adduction.gif",
+    "description": "Stand on your right leg and put your left foot on top of the exercise ball, leg extended to your side.\n\nRoll the exercise ball towards you by bringing your leg in and slowly roll it back after a short pause. Alternate sides after each set.\n\nBreathe out while rolling in and breathe in while returning to starting position."
+  },
+  {
+    "id": 34,
+    "name": "Ball Leg Curl",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-leg-curl.gif",
+    "description": "Lie on your back and grasp the exercise ball using your calves and your thighs.\n\nSqueeze the exercise ball by pulling your feet towards your buttocks and slowly unsqueeze after a short pause.\n\nBreathe out while squeezing and breathe in while returning to starting position."
+  },
+  {
+    "id": 35,
+    "name": "Ball Reverse Leg Curl",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-reverse-leg-curl.gif",
+    "description": "Lie on your back, feet on top of the exercise ball, legs and back straight.\nRoll the exercise ball towards you by bending your knees and allow it to slowly return back after a short pause.\nKeep your back straight throughout."
+  },
+  {
+    "id": 36,
+    "name": "Ball Squeeze – Sitting",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-squeeze-sitting.gif",
+    "description": "Sit on the exercise ball with your thighs on each side of it and place your hands across your chest.\n\nSqueeze the exercise ball between your legs by bringing your thighs closer to each other and slowly unsqueeze after a short pause.\n\nBreathe out while squeezing and breathe in while returning to starting position."
+  },
+  {
+    "id": 37,
+    "name": "Ball Squeeze – Lying",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-squeeze-lying.gif",
+    "description": "Lie on your back and grasp the exercise ball between your legs below your knees.\n\nSqueeze the exercise ball between your legs by bringing your thighs closer to each other while lifting your buttocks from the floor and slowly unsqueeze after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 38,
+    "name": "Ball Reverse Bridge",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-reverse-bridge.gif",
+    "description": "Lie on your back with your feet on top of the exercise ball, knees and thighs bent.\n\nLift your back from the floor by extending your legs and slowly lower yourself back down after a short pause.\n\nKeep your back straight throughout."
+  },
+  {
+    "id": 39,
+    "name": "Ball Calf Raise",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-calf-raise.gif",
+    "description": "Stand up and lean against the exercise ball itself pressed against the wall in front of your chest.\n\nRaise yourself by standing on your toes and slowly lower yourself back down after a short pause.\n\nMake sure that only the calf muscles are exercising."
+  },
+  {
+    "id": 40,
+    "name": "Ball Calf Raise – One-Legged",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-calf-raise-one-legged.gif",
+    "description": "Stand up on one foot and lean against the exercise ball itself pressed against the wall in front of your chest.\n\nRaise yourself by standing on your toes and slowly lower yourself back down after a short pause. Alternate legs after each set.\n\nMake sure that only the calf muscles are exercising."
+  },
+  {
+    "id": 41,
+    "name": "Ball Toe Raise",
+    "mainname": "Legs",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-toe-raise.gif",
+    "description": "Sit on the floor, hold the exercise ball on top of your ankles and place your hands on it, arms and legs fully extended.\n\nSqueeze the exercise ball by pulling your toes towards you and keeping your arms fully extended and allow it to unsqueeze after a short pause.\n\nMake sure that only the calf muscles are exercising."
+  },
+  {
+    "id": 42,
+    "name": "Ball Biceps Curl – Standing",
+    "mainname": "Arms",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-biceps-curl-standing.gif",
+    "description": "Stand up with your back against the exercise ball, itself against the wall and hold dumbbells down the sides of your body.\n\nRaise the dumbbells towards your shoulders and slowly lower them back after a short pause.\n\nKeep your back and upper arms still throughout."
+  },
+  {
+    "id": 43,
+    "name": "Ball Biceps Curl – on Knees, One-at-a-Time",
+    "mainname": "Arms",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-biceps-curl-knees.gif",
+    "description": "Kneel down in front of the exercise ball and rest your upper arm on top of it while holding a dumbbell.\n\nRaise the dumbbell towards your shoulder and slowly lower it back after a short pause. Alternate sides after each set.\n\nKeep your back and upper arm still throughout."
+  },
+  {
+    "id": 44,
+    "name": "Ball Triceps Extension",
+    "mainname": "Arms",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-triceps-extension.gif",
+    "description": "Lie prone with your forearms on top of the exercise ball, back and legs fully extended.\n\nPush yourself up by rolling the ball towards your hands to extend your arms and slowly lower yourself back down after a short pause.\n\nFocus on exercising the triceps."
+  },
+  {
+    "id": 45,
+    "name": "Ball Triceps Extension – Standing",
+    "mainname": "Arms",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-triceps-extension-standing.gif",
+    "description": "Stand up and place your forearms against the exercise ball, itself against the wall in front of your chest.\n\nPush yourself back by rolling the ball towards your hands to extend your arms and slowly return back after a short pause.\n\nFocus on exercising the triceps."
+  },
+  {
+    "id": 46,
+    "name": "Ball Triceps Extension – Weighted",
+    "mainname": "Arms",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-triceps-extension-weighted.gif",
+    "description": "Lie on your back, shoulder blades against the exercise ball, buttocks off the floor and hold dumbbells on each side of your head, upper arms perpendicular to the floor.\n\nRaise the dumbbells up by straightening your arms and slowly lower them back after a short pause.\n\nKeep your upper arms still throughout."
+  },
+  {
+    "id": 47,
+    "name": "Ball Wrist Curl",
+    "mainname": "Arms",
+    "img_url": "https://ball-exercises.com/wp/wp-content/uploads/2016/12/ball-wrist-curl.gif",
+    "description": "Kneel in front of the exercise ball, rest your forearms on it and grasp the handles with your palms facing up.\n\nPull the handles by curling your wrists and allow them to slowly return after a short pause.\n\nKeep your forearms pressed against the ball throughout."
+  }
+]
