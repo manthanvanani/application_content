@@ -7,8 +7,26 @@
       {
         "id": 1,
         "key": "3 million coins",
-        "time" : "09:46 PM",
+        "time" : "06:30 PM",
         "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)9-r1HSnlKiZnfc0m-c1wsypdqSpvowPq7-SRYABwrCg"
+      },
+      {
+        "id": 2,
+        "key": "3 million coins",
+        "time" : "06:30 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIlAzlLj_20210816"
+      },
+      {
+        "id": 3,
+        "key": "25 spins",
+        "time" : "06:30 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSvULAzR_20210816"
+      },
+      {
+        "id": 4,
+        "key": "3 million coins",
+        "time" : "06:30 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBLugWrd_20210816"
       }
 ]
 },
