@@ -1,5 +1,114 @@
 [{
 		"id": 1,
+		"title": "Wallpaper",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Nature",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Experimental",
+		"image": "",
+		"data": []
+	},
+	{
+
+		"id": 1,
+		"title": "People",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Architecture",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Current Events",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Business & Work",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Fashion",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Film",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Health & Wellness",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Interiors",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Street Photography",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Technology",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Textures & Patterns",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Travel",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Spirituality",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "Arts & Culture",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
+		"title": "History",
+		"image": "",
+		"data": []
+	},
+	{
+		"id": 1,
 		"title": "solid color",
 		"image": "",
 		"data": [{
