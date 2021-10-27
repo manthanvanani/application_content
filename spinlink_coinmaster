@@ -21,7 +21,18 @@
         "key": "25 spins",
         "time" :  "04:56 PM",
         "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBGwPliU_20211026"
-
+      },
+      {
+        "id": 4,
+        "key": "25 spins",
+        "time" : "02:16 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBMLMBQE_20211026"
+      },
+      {
+        "id": 5,
+        "key": "3 milion coins",
+        "time" : "02:16 PM",
+        "link": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INShcyHSS_20211026"
       }
 ]
 },
