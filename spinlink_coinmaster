@@ -1,5 +1,18 @@
 [
 {
+    "id": 19,
+    "key": "28 Oct 2021",
+        "colors" : ["#093028","#237A57"],
+    "data": [
+      {
+        "id": 1,
+        "key": "25 spins",
+        "time" : "01:50 PM",
+        "link": "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)SKAm6fbLxMEPgPglFbyyG79kEpibWwbmWBMHXQszZu0&campaign=(_)SKAm6fbLxMEPgPglFbyyG79kEpibWwbmWBMHXQszZu0&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+      }
+]
+},
+{
     "id": 190,
     "key": "27 Oct 2021",
         "colors" : ["#093028","#237A57"],
