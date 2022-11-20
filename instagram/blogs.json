@@ -1,0 +1,24 @@
+[
+    {
+        "url" : "https://about.instagram.com/en_US/blog",
+        "tag" : "blogs",
+        "title" : "instagram",
+        "icon" : "https://lookaside.fbsbx.com/elementpath/media/?media_id=676073767417807&version=1668818186",
+        "description" : "Read all articles about all topics",
+        "image_ackground_color" : "",
+        "text_color" : "",
+        "primary_textColor" : "",
+        "primary_background_color" : ""
+    },
+    {
+        "url" : "https://business.instagram.com/blog?",
+        "tag" : "blogs",
+        "title" : "business instagram",
+        "icon" : "https://scontent.famd15-1.fna.fbcdn.net/v/t39.2365-6/174850829_913187455924480_6064046574054155671_n.png?_nc_cat=1&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=JF6mbdYo2EwAX_stClM&_nc_ht=scontent.famd15-1.fna&oh=00_AfBnG1NXaq7SQJkoAE-rgBoBgNXoHuyQHXQ0_vJWViznZg&oe=637F275D",
+        "description" : "Get the latest from Instagram.",
+        "image_ackground_color" : "",
+        "text_color" : "",
+        "primary_textColor" : "",
+        "primary_background_color" : ""
+    }
+]
